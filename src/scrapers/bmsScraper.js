@@ -33,12 +33,12 @@ const DETAIL = {
 const GENZ_KEYWORDS = {
     "dj": 3, "edm": 3, "rave": 3, "techno": 3, "hiphop": 3, "hip hop": 3,
     "hip-hop": 3, "trap": 3, "k-pop": 3, "kpop": 3, "anime": 3, "cosplay": 3,
-    "esports": 3, "gaming": 3, "hackathon": 3, "open mic": 3, "stand-up": 3,
+    "esports": 3, "gaming": 3, "open mic": 3, "stand-up": 3,
     "standup": 3, "stand up": 3, "comedy": 3, "roast": 3, "drag": 3,
     "music festival": 2, "indie": 2, "underground": 2, "live music": 2,
     "fest": 2, "pop": 2, "rap": 2, "r&b": 2, "punk": 2, "rock": 2,
     "metal": 2, "electronic": 2, "college": 2, "student": 2, "youth": 2,
-    "startup": 2, "workshop": 2, "spoken word": 2, "queer": 2, "party": 2,
+    "spoken word": 2, "queer": 2, "party": 2,
     "club": 2, "outdoor": 2, "jam": 2, "battle": 2, "sci-fi": 2,
     "thriller": 1, "horror": 1, "action": 1, "fantasy": 1,
     "film": 1, "screening": 1, "stream": 1, "trending": 1,
@@ -288,9 +288,12 @@ async function runScraper() {
             await sleep(800);
         }
 
-        // ── Sort & Group ─────────────────────────────────────────────────────────
-        const sorted = [...allItems].sort((a, b) => b.genZScore - a.genZScore);
-        const genZItems = sorted.filter((e) => e.genZScore >= 2);
+        // ── Filter, Sort & Group ──────────────────────────────────────────────────
+        // Only keep events with Gen Z score >= 4 (High and Very High relevance)
+        const highScoringEvents = allItems.filter(e => e.genZScore >= 4);
+        const sorted = [...highScoringEvents].sort((a, b) => b.genZScore - a.genZScore);
+        const genZItems = sorted;
+
         const byCategory = {};
         for (const item of sorted) {
             if (!byCategory[item.category]) byCategory[item.category] = [];
