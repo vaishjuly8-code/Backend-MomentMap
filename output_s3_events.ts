@@ -6056,5 +6056,469 @@ export const STATIC_EVENTS = [
                 ]
             }
         }
-    }
+    },
+    {
+        "id": "choti-diwali_07_nov",
+        "title": "Choti Diwali",
+        "date": "07 Nov 2026",
+        "genres": "Festival, Religious, Cultural, Celebration, Family",
+        "description": "Choti Diwali — the day before the main festival — when diyas are lit, rangoli is drawn, families gather, and the anticipation of the biggest night of lights reaches its peak. The dress rehearsal for Diwali, and often just as beautifully dressed.",
+        "fashion_keywords": {
+            "reasoning": "Choti Diwali is the eve of India's biggest festival — genZScore 5-7. The fashion energy is the warm anticipatory buildup to the main Diwali night — slightly less formal than Diwali itself but still deeply festive and ethnic. Think of it as the pre-party to the biggest party of the year. People wear their second-best Diwali outfit on Choti Diwali — saving the absolute best for the main night. The palette is warm and glowing — mirroring the diyas being lit. Deep gold, warm amber, burnt orange, rust, cream, and soft jewel tones rather than the maximum festivity of the main Diwali night. November Bengaluru cool evenings mean heavier fabrics are completely wearable — silk-feel sarees, embellished ethnic sets, and velvet-feel pieces all work beautifully. The diya-lighting and rangoli context means comfortable yet festive ethnic dressing — the family gathering energy is warm and intimate rather than grand. Women in ethnic sets, sarees, or lehengas that are festive but not the absolute showstopper saved for tomorrow. Men in kurta-pyjama or ethnic sets with moderate embellishment. Jewellery is festive but not the maximum pieces saved for Diwali night. Gold Coins remain relevant as gifting continues.",
+            "occasion": ["special", "elevated", "festive-family", "religious", "pre-diwali", "family-gathering"],
+            "activity": ["festive", "dinner-and-ceremonies", "day-and-night", "holiday", "puja-and-vrat", "diya-lighting", "family-gathering"],
+            "department": ["men", "women", "unisex"],
+            "ethnicity": ["ethnic", "fusion"],
+            "fit": ["regular", "relaxed", "slim", "flared", "loose"],
+            "style": ["straight-fit", "regular-fit", "relaxed", "a-line", "flared", "empire", "wide-leg", "fit-and-flare", "tailored"],
+            "pattern": ["embroidered", "self-design", "solid", "embellished", "ethnic-motif", "floral", "printed", "geometric", "shimmer", "sequins", "zari-border", "bandhej-print", "gota-patti", "color-block"],
+            "color": ["gold", "amber", "burnt-orange", "rust", "cream", "deep-red", "maroon", "teal", "purple", "off-white", "champagne", "warm-yellow"],
+            "color_2": ["gold", "silver", "cream", "red", "maroon", "multi", "champagne", "off-white", "orange", "mirror-silver"],
+            "detail": ["embroidered", "sequin", "beaded", "zari-trim", "gota-work", "mirror-work", "stone-work-detail", "tassel-and-fringe", "pleat", "button", "trim", "ruffle", "overlay", "tie-up"],
+            "material": ["satin", "silk-feel", "georgette-feel", "cotton-silk-blend", "rayon", "viscose-rayon", "net-fabric", "cotton-blend", "chiffon-feel", "velvet-feel", "cotton", "100%-cotton"],
+            "neckline": ["round", "v-neck", "square", "sweetheart", "halter", "one-shoulder", "boat", "mandarin", "keyhole", "off-shoulder", "straight", "scoop"],
+            "length": ["floor", "ankle", "full", "below-knee", "mid-calf", "knee", "above-knee"],
+            "hemline_style": ["flared", "straight", "fringed", "asymmetric", "wide", "layered-flare", "braided-edge"],
+            "theme": ["traditional", "festive-vibrant", "classic", "contemporary", "fashion", "designer", "dainty", "spiritual"],
+            "surface_styling": ["zari", "resham", "aari", "stone-work", "gota-patti", "mirror-embroidery", "bandhej", "mukaish", "phool-patti", "sequin-work", "zardosi"],
+            "treatment": "not-needed",
+            "distress": "not-needed",
+            "transparency": ["opaque", "semi-sheer", "sheer"],
+            "jewellery_pattern": ["plain", "intricately-craft", "geometrical", "embellishment", "floral", "swirl", "tear-drop", "circle-shape", "temple-style", "kundan-inspired", "faceted-stones", "dainty-minimal"],
+            "pendants_type": ["medallion", "amulet", "stylised", "solitaire", "crystal"],
+            "size_group": ["regular", "plus-size", "kids"],
+            "preferred_categories": [
+                "Sarees", "Ethnic Sets", "Ethnic Dresses",
+                "Lehenga Choli", "Ethnic Suits", "Kurtis",
+                "Kurtas", "Waistcoats", "Shrugs",
+                "Necklaces", "Earrings", "Bangles", "Bracelets",
+                "Rings", "Anklets", "Maang Tikka",
+                "Jewellery Accessories", "Bags", "Watches",
+                "Gold Coins"
+            ],
+            "avoid_categories": [
+                "Western Dresses", "T-shirts", "Jeans", "Shorts",
+                "Sweatshirts", "Caps", "Sunglasses",
+                "Sportswear", "Sleepwear", "Innerwear",
+                "Heavily Distressed Denim"
+            ],
+            "style_notes": "Choti Diwali is the warm, intimate, diya-lit eve of India's biggest festival — dress with festive intent but save the absolute showstopper for tomorrow. The warm amber and gold palette mirrors the glow of a thousand diyas being lit — burnt orange, deep gold, warm cream, and rich teal ethnic wear catches the diya light beautifully. Women in a richly embroidered ethnic set in warm amber or deep teal, a silk-feel saree in gold or cream with zari borders, or a festive lehenga choli that is beautifully embellished but not the maximum showstopper saved for Diwali night. The bandhej saree or ethnic set in warm tones is a deeply traditional and beautiful Choti Diwali choice. Men in a well-embellished kurta with a brocade-feel waistcoat in warm gold or teal — a step up from casual but not the full sherwani saved for tomorrow. November Bengaluru's cool evenings make the velvet-feel fabric option relevant — a velvet-feel blouse or kurta in deep jewel tones with the ambient diya glow is extraordinarily beautiful. Jewellery is festive but moderate — the maximum kundan and polki set is being saved for the main night. Simple layered gold necklaces, jhumkas, and stacked bangles are the Choti Diwali jewellery brief. Kids ethnic sets are extremely relevant — little ones dressed in warm festive tones for diya lighting. Gold Coins as gifting continue through the Diwali eve. The overall energy is — dressed beautifully for the warmest family evening of the year, knowing tomorrow is even bigger."
+        },
+        "marketing": {
+            "app": {
+                "headline": "Choti Diwali. The Warm-Up Act.",
+                "lines": [
+                    "Save the showstopper for tomorrow — tonight glows in amber and gold.",
+                    "Diyas lit, family gathered, your second-best ethnic look ready.",
+                    "The eve of the biggest night deserves its own beautiful moment."
+                ]
+            },
+            "social_media": {
+                "headline": "Choti Diwali. Dressed For The Diyas.",
+                "lines": [
+                    "POV: Choti Diwali evening in a gold silk-feel saree by the diyas and tomorrow's lehenga is already planned.",
+                    "Choti Diwali energy — warm amber ethnic, diya glow, family around, the best night of the year is literally tomorrow. 🪔"
+                ]
+            }
+        }
+    },
+    {
+        "id": "diwali_08_nov",
+        "title": "Diwali",
+        "date": "08 Nov 2026",
+        "genres": "Festival, Religious, Cultural, Celebration, Family",
+        "description": "Diwali — the festival of lights, the biggest night of the Indian calendar — celebrated with fireworks, family, sweets, the exchange of gifts, and the most elaborately dressed occasion of the entire year. Tonight, every home glows and every outfit tells a story.",
+        "fashion_keywords": {
+            "reasoning": "Diwali is the single most important fashion moment in the Indian calendar — genZScore 6-8. This is the night everyone has been planning their outfit for since Diwali Season began. The fashion energy is at its absolute annual peak — more elaborate, more expensive, and more intentional than any other night of the year. November in Bengaluru is perfect weather — cool, dry, and beautiful for the most embellished ethnic dressing. Three distinct Diwali dressing contexts: (1) family puja at home — traditional, auspicious, and deeply ethnic; (2) Diwali party — glamorous, maximally embellished, and festive; (3) society and community celebrations — the most photographed night of the year. The Diwali palette is the richest of the calendar — gold is the absolute anchor, with deep jewel tones around it — deep red, emerald green, royal blue, magenta, purple, and champagne. The most elaborate catalog pieces belong on Diwali night — Banarasi sarees, heavily embellished lehenga cholis with kundan and zardosi, sherwanis with maximum embroidery. November cool means the heaviest most embellished velvet-feel and silk-feel pieces are completely wearable. Gold jewellery is at its most significant — kundan, polki, and temple jewellery sets are the most relevant pieces. Gold Coins are the most auspicious gifting category. This is the night the entire catalog comes alive.",
+            "occasion": ["special", "elevated", "party", "festive-family", "religious", "diwali-night"],
+            "activity": ["festive", "dinner-and-ceremonies", "day-and-night", "holiday", "puja-and-vrat", "diwali-party", "family-gathering", "community-celebration"],
+            "department": ["men", "women", "unisex"],
+            "ethnicity": ["ethnic", "fusion"],
+            "fit": ["regular", "relaxed", "slim", "flared", "loose"],
+            "style": ["straight-fit", "regular-fit", "relaxed", "a-line", "flared", "empire", "wide-leg", "tailored", "fit-and-flare", "trapeze", "sheath"],
+            "pattern": ["embroidered", "self-design", "solid", "embellished", "ethnic-motif", "floral", "printed", "geometric", "shimmer", "sequins", "zari-border", "bandhej-print", "jacquard-weave", "gota-patti", "color-block", "banarasi-weave"],
+            "color": ["gold", "deep-red", "emerald-green", "royal-blue", "magenta", "purple", "maroon", "champagne", "cream", "burgundy", "multi", "orange"],
+            "color_2": ["gold", "silver", "cream", "red", "maroon", "multi", "champagne", "off-white", "orange", "mirror-silver", "rose-gold"],
+            "detail": ["embroidered", "sequin", "beaded", "zari-trim", "gota-work", "mirror-work", "stone-work-detail", "kundan-work", "tassel-and-fringe", "pleat", "button", "trim", "ruffle", "overlay", "zardosi-work", "velvet-detail", "pearl-detail"],
+            "material": ["satin", "silk-feel", "georgette-feel", "cotton-silk-blend", "rayon", "viscose-rayon", "net-fabric", "cotton-blend", "chiffon-feel", "velvet-feel", "brocade-feel", "banarasi-silk-feel"],
+            "neckline": ["round", "v-neck", "square", "sweetheart", "halter", "one-shoulder", "boat", "mandarin", "keyhole", "off-shoulder", "straight", "scoop", "cowl"],
+            "length": ["floor", "ankle", "full", "below-knee", "mid-calf", "knee", "above-knee"],
+            "hemline_style": ["flared", "straight", "fringed", "asymmetric", "wide", "layered-flare", "braided-edge"],
+            "theme": ["traditional", "festive-vibrant", "classic", "contemporary", "fashion", "designer", "dainty", "spiritual"],
+            "surface_styling": ["zari", "zardosi", "resham", "aari", "stone-work", "gota-patti", "mirror-embroidery", "bandhej", "mukaish", "phool-patti", "kundan-embroidery", "sequin-work", "jacquard", "banarasi-weave", "velvet-zari", "phulkari"],
+            "treatment": "not-needed",
+            "distress": "not-needed",
+            "transparency": ["opaque", "semi-sheer", "sheer"],
+            "jewellery_pattern": ["plain", "intricately-craft", "geometrical", "embellishment", "floral", "elephant", "swirl", "tear-drop", "circle-shape", "temple-style", "kundan-inspired", "polki-inspired", "faceted-stones", "mirror-studded", "animal-based"],
+            "pendants_type": ["medallion", "amulet", "stylised", "solitaire", "crystal", "locket"],
+            "size_group": ["regular", "plus-size", "kids"],
+            "preferred_categories": [
+                "Sarees", "Lehenga Choli", "Ethnic Sets",
+                "Ethnic Dresses", "Ethnic Suits", "Kurtis",
+                "Kurtas", "Sherwanis", "Pathani Suits",
+                "Waistcoats", "Shrugs", "Co-ords/Other Sets",
+                "Necklaces", "Earrings", "Bangles", "Bracelets",
+                "Rings", "Anklets", "Maang Tikka", "Kamarbandh",
+                "Jewellery Accessories", "Bags", "Watches",
+                "Gold Coins"
+            ],
+            "avoid_categories": [
+                "Western Dresses", "T-shirts", "Jeans", "Shorts",
+                "Sweatshirts", "Caps", "Sunglasses",
+                "Sportswear", "Sleepwear", "Innerwear",
+                "Heavily Distressed Denim", "Dark Grunge Pieces"
+            ],
+            "style_notes": "Diwali night is the most magnificent ethnic fashion moment of the entire year — this is the night every piece in the catalog has been waiting for. The absolute best, most elaborate, most meaningful ethnic outfit belongs tonight. Gold is the non-negotiable anchor — everything orbits around gold zari, gold embroidery, and gold jewellery. Women in the most elaborately embroidered lehenga choli of the year — deep red or emerald green with maximum kundan and zardosi work, or a Banarasi-inspired saree with a heavily embellished gold zari border that catches the firework light. The velvet-feel option is at its absolute peak in November Bengaluru's cool — a velvet-feel deep jewel-toned lehenga with gold kundan embroidery is the most premium and spectacular Diwali catalog recommendation. Anarkali suits in deep jewel tones with full zardosi work are equally stunning. Men in the most heavily embroidered sherwani of the year — deep navy, emerald, or burgundy with gold embroidery and a matching waistcoat. A richly embellished kurta with brocade-feel waistcoat is the slightly less formal but equally powerful Diwali men's look. Jewellery is at its absolute maximum tonight — the full kundan or polki necklace set, the heaviest jhumkas, maximum stacked bangles, elaborate kamarbandh, maang tikka with statement stones, and anklets all simultaneously. Gold Coins are the most auspicious Diwali gifting category — uniquely important in the catalog tonight. Kids ethnic sets and sherwanis in the richest fabrics and colors are the most emotionally resonant catalog category. The overall energy is — the most magnificent version of yourself, dressed in light, for the biggest night of the year."
+        },
+        "marketing": {
+            "app": {
+                "headline": "Diwali Night. Your Most Magnificent Look.",
+                "lines": [
+                    "The lehenga you planned, the jewels you saved — tonight is the night.",
+                    "Gold zari, kundan, velvet — November cool meets Diwali maximum.",
+                    "Every diya lit brighter when the outfit is this extraordinary."
+                ]
+            },
+            "social_media": {
+                "headline": "Diwali. The Biggest Night Of The Year.",
+                "lines": [
+                    "POV: Diwali night in your most embellished lehenga under fireworks and the whole year led to this one outfit.",
+                    "Diwali fit — the absolute best ethnic look of the year, maximum jewellery, gold everywhere, November cool, fireworks. This is it. 🪔✨🎆"
+                ]
+            }
+        }
+    },
+    {
+        "id": "childrens-day_14_nov",
+        "title": "Children's Day",
+        "date": "14 Nov 2026",
+        "genres": "Social, Cultural, Celebration, Education, Family",
+        "description": "Children's Day — celebrated on Pandit Nehru's birthday — a joyful day of school celebrations, performances, and the kind of unrestrained fun that reminds everyone that growing up is optional.",
+        "fashion_keywords": {
+            "reasoning": "Children's Day is a unique fashion moment — genZScore 5-7. The crowd is primarily school children being celebrated, teachers organizing events, and young adults embracing the nostalgia of childhood. The fashion energy splits into distinct contexts: (1) school children — bright, colorful, fun dressing that captures the joy of being a child; (2) teachers and college students — smart casual with a playful nod to the occasion; (3) GenZ adults celebrating with nostalgia — Y2K childhood references, cartoon prints, and the kind of playful dressing that reclaims childhood joy. November in Bengaluru is beautifully cool — perfect for fun layered dressing. The color palette is the most joyful and primary-color-forward of any non-festival day — bright reds, yellows, blues, greens, and multi-color combinations. Cartoon and character prints are uniquely relevant. Kids categories are the most important catalog driver today — this is the single most relevant day for the kids section. Fun, bright, comfortable ethnic and western pieces for children. Adults going nostalgic in playful prints and colors.",
+            "occasion": ["casual", "special", "school-event", "community-celebration", "nostalgic"],
+            "activity": ["day-and-night", "school-event", "college-event", "holiday", "brunch", "leisure-sport"],
+            "department": ["men", "women", "unisex"],
+            "ethnicity": ["western", "fusion", "ethnic"],
+            "fit": ["regular", "relaxed", "oversized", "loose", "slim"],
+            "style": ["regular-fit", "relaxed", "over-sized", "straight-fit", "boxy", "a-line", "loose-fit", "wide-leg"],
+            "pattern": ["printed", "solid", "cartoon", "character-based", "color-block", "abstract", "geometric", "floral", "statement-print", "graphic-print", "stripes", "checks", "gingham"],
+            "color": ["red", "yellow", "blue", "green", "orange", "pink", "multi", "white", "purple", "teal", "fuchsia"],
+            "color_2": ["yellow", "white", "red", "multi", "orange", "green", "blue", "pink", "cream", "gold"],
+            "detail": ["button", "pocket", "tie-up", "elastic", "trim", "ruffle", "bow", "embroidered", "patch-detail", "logo", "cartoon-print", "flower", "ribbed"],
+            "material": ["cotton", "100%-cotton", "cotton-blend", "rayon", "viscose-rayon", "polyester", "cotton-poly-blend", "linen-blend", "denim", "knit-fabric"],
+            "neckline": ["crew", "round", "v-neck", "boat", "hooded", "polo", "one-shoulder", "halter", "sweetheart", "square", "peter-pan-collar"],
+            "length": ["above-knee", "knee", "mid-thigh", "hip", "ankle", "below-knee", "mid-calf"],
+            "hemline_style": ["straight", "flared", "asymmetric", "elastic", "wide", "bubble", "high-low"],
+            "theme": ["novelty", "trendy", "contemporary", "love", "nature", "dainty", "fashion", "fun-vibrant", "nostalgic-childhood"],
+            "surface_styling": "not-needed",
+            "treatment": ["faded", "stone-wash", "raw"],
+            "distress": ["no-distress", "light"],
+            "transparency": ["opaque"],
+            "jewellery_pattern": ["plain", "heart", "butterfly", "cartoon", "circle-shape", "star", "floral", "dainty-minimal", "animal-based", "teddy"],
+            "pendants_type": ["no-pendant", "solitaire", "crystal", "stylised"],
+            "size_group": ["regular", "plus-size", "kids"],
+            "preferred_categories": [
+                "T-shirts", "Tops", "Dresses", "Skirts",
+                "Shirts", "Trousers", "Shorts", "Jeans",
+                "Co-ords/Other Sets", "Sweatshirts", "Jackets",
+                "Onesies", "Ethnic Sets", "Kurtis",
+                "Caps", "Bags", "Watches",
+                "Earrings", "Necklaces", "Bracelets",
+                "Rings", "Socks", "Mobile & Telephone Accessories"
+            ],
+            "avoid_categories": [
+                "Sarees", "Lehenga Choli", "Heavy Ethnic Suits",
+                "Sequin Clubwear", "Formal Suits",
+                "Sleepwear", "Innerwear",
+                "Heavy Ethnic Jewellery", "Sportswear"
+            ],
+            "style_notes": "Children's Day is the most joyful and colorful non-festival dressing day of the year — bright, fun, and unapologetically playful. Kids categories are the absolute hero today — bright cotton T-shirts in primary colors, fun printed dresses, colorful ethnic sets for the post-Diwali festive mood, and onesies for the little ones. Cartoon and character-based prints are uniquely relevant — the most fun graphic tees and playful printed pieces in the catalog belong here. Teachers in smart casual with a playful color pop — a bright yellow or red piece in an otherwise smart outfit. GenZ adults going nostalgic — oversized cartoon-print tees, bright color-blocked co-ords, Y2K-inspired playful pieces that reference childhood aesthetics. The November Bengaluru cool weather makes layered fun dressing possible — a bright printed tee under a denim jacket, or a colorful co-ord with a fun cap. Caps in bright colors and fun prints. Cartoon and character jewellery — butterfly earrings, star pendants, teddy bear pieces. Fun printed socks. Small colorful bags. Mobile accessories in fun colors for the GenZ nostalgia crowd. The overall energy is — dressed like growing up was never really the plan."
+        },
+        "marketing": {
+            "app": {
+                "headline": "Children's Day. Growing Up Is Optional.",
+                "lines": [
+                    "Bright colors, cartoon prints, and the most joyful catalog moment.",
+                    "Little ones deserve the most colorful ethnic and western picks.",
+                    "Your inner child called — it wants the fun graphic tee."
+                ]
+            },
+            "social_media": {
+                "headline": "Children's Day. Dress Like You Never Grew Up.",
+                "lines": [
+                    "POV: Children's Day and you wore an oversized cartoon tee with bright co-ords and accidentally had the most fun you've had all year.",
+                    "Children's Day — bright colors, cartoon prints, kids in their best ethnic sets, and every adult secretly wishing they could wear the onesie. 🎈"
+                ]
+            }
+        }
+    },
+    {
+        "id": "echoes-of-earth-begins_06_dec",
+        "title": "Echoes of Earth Begins",
+        "date": "06 Dec 2026",
+        "genres": "Music, Festival, Sustainable, Electronic, Indie, World Music",
+        "description": "Echoes of Earth returns — Bengaluru's iconic sustainable music festival bringing together world-class electronic and indie acts in a breathtaking outdoor setting, where the music, the art installations, and the earth itself are the experience.",
+        "fashion_keywords": {
+            "reasoning": "Echoes of Earth is Bengaluru's most beloved and culturally significant music festival — genZScore 8-9. It is distinctly different from any other concert or festival in the calendar because of its sustainability ethos and outdoor nature setting. The crowd is environmentally conscious, culturally aware, and deeply aesthetic GenZ and millennials. December in Bengaluru is the most beautiful weather of the year — cool, crisp, and perfect for a multi-day outdoor festival. The fashion energy is conscious festival dressing — earthy, natural, textured, and intentionally sustainable-looking. This is not EDM neon and sequins — this is the intersection of bohemian festival fashion, earth-toned artsy dressing, and conscious style. Think natural fabrics, earthy tones, interesting layering, handcrafted accessories, and the kind of outfit that looks like it belongs in a forest clearing under fairy lights. Colors are deeply earth-inspired — forest green, rust, terracotta, warm brown, cream, olive, mustard, and deep teal. Natural fabrics — linen, cotton, khadi — are not just a style choice but an ethos statement at this festival. The sustainability angle makes Indian handwoven and artisan textiles uniquely relevant — ikat, kalamkari, block-print, and hand-painted fabrics are both beautiful and consciously sourced references. Layering is essential for the December cool evenings. Tote bags are non-negotiable — canvas over plastic. Jewellery is artisanal, natural, and handcrafted.",
+            "occasion": ["special", "party", "elevated", "outdoor-festival", "sustainable-event"],
+            "activity": ["concert", "day-and-night", "holiday", "travel", "art-walk", "indie-fest", "sustainable-festival"],
+            "department": ["men", "women", "unisex"],
+            "ethnicity": ["western", "fusion", "ethnic"],
+            "fit": ["relaxed", "oversized", "regular", "loose"],
+            "style": ["relaxed", "over-sized", "straight-fit", "boxy", "wide-leg", "loose-fit", "regular-fit", "a-line"],
+            "pattern": ["solid", "printed", "abstract", "geometric", "ikat-inspired", "block-print", "botanical", "floral", "ethnic-motif", "textured", "color-block", "checks", "tie-dye"],
+            "color": ["forest-green", "rust", "terracotta", "warm-brown", "cream", "olive", "mustard", "deep-teal", "tan", "beige", "off-white", "indigo"],
+            "color_2": ["cream", "off-white", "orange", "gold", "tan", "sage", "brown", "multi", "beige", "light-green"],
+            "detail": ["pocket", "button", "tie-up", "tassel-and-fringe", "embroidered", "seam", "trim", "cargo-pocket", "roll-up-sleeve", "overlap", "knit", "ribbed", "patch-detail"],
+            "material": ["cotton", "100%-cotton", "linen", "linen-blend", "cotton-linen-blend", "khadi", "rayon", "cotton-blend", "viscose-rayon", "cotton-viscose-blend", "denim", "canvas", "knit-fabric", "bamboo-cotton"],
+            "neckline": ["crew", "round", "v-neck", "camp", "button-down", "boat", "mandarin", "cowl", "turtleneck", "mock", "henley", "hooded"],
+            "length": ["ankle", "below-knee", "mid-calf", "knee", "above-knee", "hip", "waist", "floor"],
+            "hemline_style": ["straight", "asymmetric", "high-low", "fringed", "wide", "raw-hem", "handkerchief"],
+            "theme": ["bohemian", "contemporary", "nature", "trendy", "fashion", "indie-artsy", "conscious-fashion", "travel-wanderlust", "spiritual"],
+            "surface_styling": ["ikat", "kalamkari", "block-print", "hand-painted", "ajrak", "dabu", "bandhej", "sanganeri", "hand-woven", "phulkari"],
+            "treatment": ["faded", "stone-wash", "raw", "dyed", "tie-dye-wash"],
+            "distress": ["no-distress", "light"],
+            "transparency": ["opaque", "semi-sheer"],
+            "jewellery_pattern": ["plain", "geometrical", "abstract-pattern", "twisted", "circle-shape", "dainty-minimal", "textured-design", "floral", "animal-based", "star", "leaf-inspired", "evil-eye"],
+            "pendants_type": ["no-pendant", "solitaire", "stylised", "medallion", "amulet", "crystal"],
+            "size_group": ["regular", "plus-size"],
+            "preferred_categories": [
+                "T-shirts", "Shirts", "Tops", "Co-ords/Other Sets",
+                "Dresses", "Skirts", "Trousers", "Shorts",
+                "Jeans", "Jackets", "Blazers", "Sweatshirts",
+                "Shrugs", "Ethnic Sets", "Kurtis",
+                "Caps", "Tote Bags", "Bags", "Glasses",
+                "Earrings", "Necklaces", "Bracelets",
+                "Rings", "Anklets", "Watches", "Socks",
+                "Wallets", "Mobile & Telephone Accessories"
+            ],
+            "avoid_categories": [
+                "Sarees", "Lehenga Choli", "Heavy Ethnic Suits",
+                "Sequin Party Wear", "Neon Clubwear",
+                "Heavy Embellished Pieces", "Sleepwear",
+                "Innerwear", "Heavy Ethnic Jewellery",
+                "Formal Suits", "Synthetic Heavy Fabrics"
+            ],
+            "style_notes": "Echoes of Earth is the most consciously dressed festival in Bengaluru — the sustainability ethos means natural fabrics are not just a style choice but a values statement. Lead with linen, cotton, and khadi in deep earthy tones — forest green, rust, terracotta, and warm brown are the festival's color language. Indian handwoven and artisan textiles are uniquely on-brand — an ikat co-ord, a kalamkari block-print dress, or an ajrak-printed linen shirt references both global festival fashion AND India's conscious craft traditions simultaneously. Women in a flowing ikat midi dress in earthy tones, a rust linen co-ord with interesting texture, or a hand-painted block-print top with wide-leg cotton trousers. Men in a camp collar or kalamkari-printed linen shirt in olive or forest green with straight-fit cotton or linen trousers — the Echoes of Earth male uniform perfected. December Bengaluru cool evenings make layering essential and beautiful — a khadi or linen overshirt, a cotton-knit shrug, or a vintage-inspired denim jacket over an earthy co-ord. Canvas tote bags are non-negotiable — the sustainability ethos makes canvas over synthetic a genuine statement. Artisanal jewellery in natural materials — wooden beads, oxidised silver, natural stone pieces, leaf-inspired designs. Caps in earthy tones for the daytime stages. Interesting ankle boots or sandals implied — hemlines should allow for varied footwear. The overall energy is — dressed like the earth is your runway and every fabric choice is intentional."
+        },
+        "marketing": {
+            "app": {
+                "headline": "Echoes Of Earth. Dress Like You Mean It.",
+                "lines": [
+                    "Linen, ikat, kalamkari — the most conscious festival wardrobe.",
+                    "Earth tones, natural fabrics, artisan jewels for Bengaluru's best festival.",
+                    "December cool meets the most beautifully dressed outdoor night of the year."
+                ]
+            },
+            "social_media": {
+                "headline": "Echoes Of Earth. Fashion With A Conscience.",
+                "lines": [
+                    "POV: Echoes of Earth and your ikat linen co-ord with a canvas tote proved that sustainable fashion is the most beautiful fashion.",
+                    "Echoes of Earth fit — earthy tones, handwoven fabrics, artisanal jewels, canvas tote, December Bengaluru cool. The earth notices what you wear tonight. 🌿"
+                ]
+            }
+        }
+    },
+    {
+        "id": "blr-litfest-begins_11_dec",
+        "title": "BLR LitFest Begins",
+        "date": "11 Dec 2026",
+        "genres": "Literature, Arts & Culture, Intellectual, Community, Festival",
+        "description": "Bangalore Literature Festival returns — the city's most celebrated gathering of writers, thinkers, poets, and readers, bringing together India's finest literary voices for conversations, readings, panel discussions, and the kind of intellectual energy that makes Bengaluru feel like the world's most literate city.",
+        "fashion_keywords": {
+            "reasoning": "BLR LitFest is one of India's premier literary festivals — genZScore 5-7. The crowd is a beautiful mix — established writers and academics, literary millennials, culturally curious GenZ, students, and the broader Bengaluru intellectual community. The fashion energy is the most specifically 'bookish intellectual' of the entire calendar — quiet, considered, and deeply intentional. Think dark academia meets Indian intellectual aesthetic meets Bengaluru indie cool. December in Bengaluru is the most beautiful weather — cool, crisp, and perfect for interesting layered dressing. The aesthetic is the literary world's fashion language — interesting textures, earth and muted tones, vintage-inspired pieces, interesting glasses, tote bags overflowing with books, and the kind of outfit that looks effortlessly put-together without trying. Colors are muted and deep — charcoal, olive, cream, burgundy, navy, warm brown, forest green, and dusty mauve. No loud prints, no festive embellishments — this is quiet luxury meets bookish cool. Natural fabrics — linen, wool-blend, corduroy, cotton — feel right for the literary setting and December cool. Layering is at its most relevant — December Bengaluru's cool weather makes interesting jacket, blazer, and overshirt combinations genuinely necessary. The tote bag is the single most important accessory — carrying books is both functional and the ultimate LitFest accessory. Jewellery is minimal and artisanal.",
+            "occasion": ["casual", "elevated", "special", "cultural-event", "intellectual-gathering"],
+            "activity": ["day-and-night", "brunch", "travel", "art-walk", "literary-festival", "panel-discussion", "book-reading"],
+            "department": ["men", "women", "unisex"],
+            "ethnicity": ["western", "fusion", "ethnic"],
+            "fit": ["regular", "relaxed", "oversized", "slim", "loose"],
+            "style": ["regular-fit", "relaxed", "over-sized", "straight-fit", "boxy", "wide-leg", "tailored", "loose-fit"],
+            "pattern": ["solid", "self-design", "checks", "abstract", "minimal-print", "textured", "vertical-stripes", "color-block", "geometric", "printed", "tweed-inspired"],
+            "color": ["charcoal-grey", "olive", "cream", "burgundy", "navy", "warm-brown", "forest-green", "dusty-mauve", "off-white", "tan", "rust", "indigo"],
+            "color_2": ["cream", "off-white", "tan", "gold", "burgundy", "orange", "sage", "light-brown", "multi", "beige"],
+            "detail": ["button", "pocket", "trim", "seam", "lapel-detail", "tie-up", "knit", "pleat", "overlap", "ribbed", "roll-up-sleeve", "elbow-patch-detail"],
+            "material": ["cotton", "100%-cotton", "linen", "linen-blend", "cotton-linen-blend", "rayon", "cotton-blend", "wool-blend", "corduroy", "denim", "knit-fabric", "cotton-viscose-blend", "khadi"],
+            "neckline": ["crew", "v-neck", "round", "turtleneck", "mock", "button-down", "camp", "boat", "polo", "henley", "half-zip", "spread"],
+            "length": ["ankle", "below-knee", "mid-calf", "knee", "above-knee", "hip", "floor"],
+            "hemline_style": ["straight", "wide", "asymmetric", "cuffed", "fringed", "raw-hem"],
+            "theme": ["contemporary", "classic", "bohemian", "fashion", "nature", "dark-academia", "quiet-luxury", "indie-intellectual", "literary-aesthetic"],
+            "surface_styling": ["ikat", "block-print", "hand-woven", "hand-painted", "kalamkari"],
+            "treatment": ["faded", "stone-wash", "raw"],
+            "distress": ["no-distress", "light"],
+            "transparency": ["opaque", "semi-sheer"],
+            "jewellery_pattern": ["plain", "geometrical", "abstract-pattern", "twisted", "circle-shape", "dainty-minimal", "textured-design", "star", "infinity", "floral"],
+            "pendants_type": ["no-pendant", "stylised", "medallion", "crystal", "solitaire"],
+            "size_group": ["regular", "plus-size"],
+            "preferred_categories": [
+                "Shirts", "T-shirts", "Tops", "Trousers",
+                "Jeans", "Co-ords/Other Sets", "Dresses",
+                "Skirts", "Jackets", "Blazers", "Suits",
+                "Sweatshirts", "Sweaters", "Shrugs",
+                "Kurtas", "Kurtis", "Ethnic Sets",
+                "Glasses", "Tote Bags", "Bags",
+                "Watches", "Earrings", "Necklaces",
+                "Rings", "Bracelets", "Socks",
+                "Wallets", "Caps"
+            ],
+            "avoid_categories": [
+                "Sarees", "Lehenga Choli", "Heavy Ethnic Suits",
+                "Sequin Party Wear", "Neon Clubwear",
+                "Heavy Embellished Pieces", "Sleepwear",
+                "Innerwear", "Heavy Ethnic Jewellery",
+                "Sportswear", "Loud Graphic Tees"
+            ],
+            "style_notes": "BLR LitFest is the dark academia fantasy made real in Bengaluru — dress like you have strong opinions about books and a deeply considered relationship with your wardrobe. Lead with interesting textures and layering — December Bengaluru's cool weather finally justifies the full dark academia layering brief. Women in wide-leg corduroy or linen trousers with a tucked-in cream turtleneck and an oversized blazer in charcoal or olive — the LitFest female intellectual uniform. A flowing midi dress in dusty mauve or forest green with a structured blazer is equally powerful. Men in a well-fitted tweed-inspired or checks shirt with straight-fit corduroy or chino trousers and an interesting overshirt or jacket — the literary intellectual's most considered look. A structured blazer or suit jacket is the single most important LitFest piece for men — it references the intellectual register of the event beautifully. Kurtas in khadi or cotton for the Indian intellectual aesthetic — a simple khadi kurta with interesting trousers is deeply on-brand for a literature festival. Statement glasses are the most important accessory — bold frames, round tortoiseshell, or vintage-inspired glasses signal the LitFest crowd identity more than any other piece. Tote bags overflowing with books are both functional and the ultimate accessory — canvas or printed literary tote bags. Wallets for the inevitable book purchases. Minimal artisanal jewellery — a thin chain, a simple ring, small hoop earrings. The December cool makes sweaters and knit pieces genuinely relevant. Socks with interesting patterns visible under trousers. The overall energy is — dressed like every word in your wardrobe was chosen as carefully as every word in a good sentence."
+        },
+        "marketing": {
+            "app": {
+                "headline": "BLR LitFest. Dress Like You Read.",
+                "lines": [
+                    "Corduroy, blazers, and a tote full of books — sorted.",
+                    "Dark academia in December Bengaluru is genuinely the best thing.",
+                    "The intellectual crowd dresses with intention. So should you."
+                ]
+            },
+            "social_media": {
+                "headline": "LitFest Season. Dress Your Bookshelf.",
+                "lines": [
+                    "POV: BLR LitFest and your olive corduroy blazer with a tote full of books made three authors ask where you got your outfit.",
+                    "LitFest fit — wide-leg trousers, statement glasses, khadi kurta or structured blazer, canvas tote, December Bengaluru cool. Dress like every choice was deliberate. 📚"
+                ]
+            }
+        }
+    },
+    {
+        "id": "christmas_25_dec",
+        "title": "Christmas",
+        "date": "25 Dec 2026",
+        "genres": "Festival, Cultural, Celebration, Family, Social",
+        "description": "Christmas in Bengaluru — a city that celebrates with genuine warmth, from the illuminated streets of MG Road and Brigade Road to midnight masses at St. Patrick's Cathedral, family lunches, gift exchanges, and the most festive dressing of the December season.",
+        "fashion_keywords": {
+            "reasoning": "Christmas in Bengaluru is a genuinely beloved city-wide celebration — genZScore 6-8. The crowd spans Christian families at church and celebrations, young couples and friend groups at Christmas parties and brunches, and the broader Bengaluru population that participates in the festive energy. December 25th in Bengaluru is the most beautiful cool weather of the year — the perfect dressing conditions for the most festive non-ethnic occasion. Three distinct fashion moments: (1) Christmas morning church and family — elegant, modest, and warmly festive; (2) Christmas lunch and family gatherings — smart casual to elevated, coordinated family looks; (3) Christmas evening parties — the most glamorous and festive of the three. The Christmas color palette spans classic red and green, winter whites and creams, gold and silver metallics, and the more contemporary burgundy, deep green, and navy interpretations. Western fashion dominates Christmas dressing — dresses, co-ords, blazers, and smart casual pieces. But Indian fusion is increasingly relevant — a red ethnic set or a festive co-ord with Christmas color accents. December Bengaluru cool finally justifies the full winter dressing aesthetic — layering, blazers, coats, and interesting textures. Jewellery is festive and warm — gold and silver pieces, star motifs, and sparkle.",
+            "occasion": ["special", "elevated", "party", "festive-family", "christmas-celebration"],
+            "activity": ["dinner-and-ceremonies", "brunch", "day-and-night", "cocktail", "holiday", "church-service", "family-gathering", "christmas-party"],
+            "department": ["men", "women", "unisex"],
+            "ethnicity": ["western", "fusion", "ethnic"],
+            "fit": ["slim", "regular", "relaxed", "oversized"],
+            "style": ["slim-fit", "regular-fit", "straight-fit", "relaxed", "tailored", "a-line", "fit-and-flare", "wide-leg", "boxy", "over-sized", "flared"],
+            "pattern": ["solid", "printed", "self-design", "color-block", "floral", "abstract", "shimmer", "embellished", "checks", "plaid", "sequins", "lace", "geometric", "minimal-print"],
+            "color": ["red", "deep-green", "forest-green", "white", "cream", "gold", "burgundy", "navy", "silver", "off-white", "champagne", "multi"],
+            "color_2": ["gold", "silver", "red", "cream", "white", "multi", "green", "burgundy", "champagne", "rose-gold"],
+            "detail": ["button", "sequin", "ruching", "lace", "trim", "strap", "tie-up", "ruffle", "bow", "cut-out", "overlay", "pleat", "pocket", "lapel-detail", "velvet-detail", "embroidered"],
+            "material": ["satin", "velvet-feel", "rayon", "viscose-rayon", "cotton-blend", "linen-blend", "polyester", "cotton", "lace-fabric", "wool-blend", "cotton-viscose-blend", "knit-fabric", "synthetic"],
+            "neckline": ["v-neck", "round", "crew", "sweetheart", "square", "one-shoulder", "halter", "spaghetti-straps", "off-shoulder", "boat", "turtleneck", "mock", "cowl", "button-down", "spread"],
+            "length": ["mid-thigh", "above-knee", "knee", "below-knee", "ankle", "floor", "hip", "mid-calf"],
+            "hemline_style": ["straight", "flared", "asymmetric", "high-low", "wide", "tulip", "handkerchief", "bubble"],
+            "theme": ["festive-vibrant", "classic", "contemporary", "trendy", "fashion", "designer", "love", "dainty", "novelty", "christmas-aesthetic"],
+            "surface_styling": "not-needed",
+            "treatment": ["faded", "stone-wash", "raw"],
+            "distress": ["no-distress", "light"],
+            "transparency": ["opaque", "semi-sheer", "sheer"],
+            "jewellery_pattern": ["plain", "geometrical", "star", "heart", "faceted-stones", "circle-shape", "twisted", "dainty-minimal", "embellishment", "abstract-pattern", "crystal-inspired"],
+            "pendants_type": ["solitaire", "crystal", "stylised", "no-pendant", "star", "medallion"],
+            "size_group": ["regular", "plus-size", "kids"],
+            "preferred_categories": [
+                "Dresses", "Co-ords/Other Sets", "Tops",
+                "Shirts", "Trousers", "Jeans", "Skirts",
+                "Jumpsuits", "Blazers", "Suits", "Jackets",
+                "Waistcoats", "Sweaters", "Shrugs",
+                "Ethnic Sets", "Kurtis", "Kurtas",
+                "Necklaces", "Earrings", "Rings",
+                "Bracelets", "Bags", "Watches",
+                "Glasses", "Caps", "Socks",
+                "Pocket Squares", "Ties"
+            ],
+            "avoid_categories": [
+                "Sarees", "Lehenga Choli", "Heavy Ethnic Suits",
+                "Sleepwear", "Innerwear", "Sportswear",
+                "Heavily Distressed Denim", "Dark Grunge Pieces"
+            ],
+            "style_notes": "Christmas in Bengaluru is the most versatile and joyfully dressed day of December — the perfect weather, the festive energy, and the variety of occasions make it the richest single-day fashion moment of the winter season. Red is the undisputed Christmas color but the December Bengaluru crowd has evolved — deep forest green, rich burgundy, and classic cream are equally on-trend Christmas choices. Women in a red velvet-feel midi dress for the church and family lunch — classic, elegant, and deeply Christmas. An embellished green co-ord or a champagne satin dress for the evening Christmas party. A deep burgundy fit-and-flare dress with statement gold jewellery is the sophisticated Bengaluru Christmas look. Men in a well-fitted blazer in deep forest green or burgundy over a white shirt with slim trousers — the Christmas smart casual uniform done beautifully. A full suit in deep green or navy for the more formal Christmas dinner. A pocket square in Christmas red completes the men's look perfectly. Ties are relevant for the more formal church and family contexts. December Bengaluru cool makes the velvet-feel fabric option perfect — a velvet-feel dress or blazer is the most luxurious Christmas catalog recommendation. Sweaters and knit pieces are genuinely appropriate for Christmas morning. Layering with a structured blazer or elegant jacket is both practical and stylish. Festive jewellery — star pendants, crystal earrings, gold statement pieces. Kids Christmas outfits — bright red and green ethnic sets and western dresses. The overall energy is — dressed for the warmth of the season, the joy of the gathering, and the magic of the most festive day of December."
+        },
+        "marketing": {
+            "app": {
+                "headline": "Christmas In Bengaluru. Dress For The Magic.",
+                "lines": [
+                    "Red velvet dress, forest green blazer, or champagne satin — all Christmas.",
+                    "December cool finally justifies the most festive dressing of the year.",
+                    "Church, family lunch, Christmas party — we dressed every moment."
+                ]
+            },
+            "social_media": {
+                "headline": "Bengaluru Christmas. Dress Like The City Glows.",
+                "lines": [
+                    "POV: Christmas in Bengaluru in a deep red velvet dress on Brigade Road and the whole city felt like a film set.",
+                    "Christmas fit — velvet dress or forest green blazer, gold jewels, December Bengaluru cool, the most festive night of the year. Merry Christmas. 🎄✨"
+                ]
+            }
+        }
+    },
+    {
+        "id": "new-years-eve_31_dec",
+        "title": "New Year's Eve",
+        "date": "31 Dec 2026",
+        "genres": "Celebration, Party, Nightlife, Social, Cultural Moment",
+        "description": "New Year's Eve — the biggest party night of the year, where Bengaluru's rooftops, venues, and streets come alive with countdowns, fireworks, champagne, and the collective human ritual of dressing for the most anticipated midnight of the calendar.",
+        "fashion_keywords": {
+            "reasoning": "New Year's Eve is the single biggest party fashion moment of the year — genZScore 8-10. This is the night everyone dresses to their absolute maximum party potential — more than any birthday, more than any concert, more than any festival. The crowd is entirely GenZ and millennial — party-ready, social-media-native, and dressing for the midnight moment that will be photographed from every angle. Bengaluru's NYE scene is premium and diverse — rooftop parties, venue celebrations, club nights, and intimate friend gatherings. December 31st in Bengaluru is the most beautiful cool weather of the year — ideal for the most elaborate party dressing. Three distinct NYE fashion modes: (1) rooftop and venue parties — maximum glamour, sequins, metallics, and bold silhouettes; (2) intimate friend gatherings — elevated casual with a festive edge; (3) club and nightlife — the most unhinged club-ready looks. The NYE palette is the most maximally glamorous of the year — black and gold as the undisputed anchors, with silver metallics, deep midnight tones, champagne, and bold jewel pops. Sequins are non-negotiable — NYE and sequins are inseparable in the fashion calendar. The countdown moment means the outfit must look incredible at midnight under whatever lighting the venue provides. December cool makes interesting layering possible — a sleek blazer or structured jacket over a party dress. Jewellery is maximalist and statement — this is the night for everything simultaneously.",
+            "occasion": ["party", "special", "elevated", "nye-celebration", "nightlife"],
+            "activity": ["clubbing", "cocktail", "dinner-and-ceremonies", "day-and-night", "nye-party", "rooftop-event", "concert"],
+            "department": ["men", "women", "unisex"],
+            "ethnicity": ["western", "fusion"],
+            "fit": ["slim", "regular", "oversized", "relaxed"],
+            "style": ["slim-fit", "straight-fit", "tailored", "boxy", "over-sized", "wide-leg", "sheath", "a-line", "fit-and-flare"],
+            "pattern": ["sequins", "shimmer", "solid", "color-block", "abstract", "metallic-finish", "printed", "embellished", "geometric", "holographic", "self-design", "lace"],
+            "color": ["black", "gold", "silver", "champagne", "midnight-blue", "deep-purple", "red", "white", "multi", "burgundy", "rose-gold"],
+            "color_2": ["gold", "silver", "black", "champagne", "multi", "red", "cream", "neon", "rose-gold", "white"],
+            "detail": ["sequin", "cut-out", "strap", "ruching", "beaded", "overlay", "metallic-trim", "shimmer-finish", "ruffle", "lace", "tie-up", "button", "chain-detail", "pearl-detail", "bow", "scallop"],
+            "material": ["satin", "polyester", "spandex-blend", "nylon", "velvet-feel", "lace-fabric", "synthetic", "metallic-fabric", "rayon", "viscose-rayon", "cotton-blend", "sheer-fabric", "elastane"],
+            "neckline": ["v-neck", "halter", "one-shoulder", "square", "sweetheart", "spaghetti-straps", "cowl", "off-shoulder", "keyhole", "tie-up", "turtleneck", "mock", "crew", "boat"],
+            "length": ["mid-thigh", "above-knee", "knee", "floor", "ankle", "hip", "crop-length"],
+            "hemline_style": ["straight", "asymmetric", "high-low", "shark-bite", "flared", "wide", "handkerchief"],
+            "theme": ["trendy", "fashion", "contemporary", "designer", "novelty", "maximalist", "y2k", "luxury-party"],
+            "surface_styling": "not-needed",
+            "treatment": ["faded", "stone-wash", "raw"],
+            "distress": ["no-distress", "light"],
+            "transparency": ["opaque", "semi-sheer", "sheer"],
+            "jewellery_pattern": ["plain", "geometrical", "faceted-stones", "abstract-pattern", "twisted", "circle-shape", "star", "embellishment", "chain-link", "ball-encrusted", "heart", "intricately-craft"],
+            "pendants_type": ["no-pendant", "solitaire", "crystal", "stylised", "medallion"],
+            "size_group": ["regular", "plus-size"],
+            "preferred_categories": [
+                "Dresses", "Tops", "Co-ords/Other Sets",
+                "Skirts", "Jumpsuits", "Shirts",
+                "Trousers", "Jeans", "Blazers",
+                "Suits", "Jackets", "Shrugs",
+                "Necklaces", "Earrings", "Rings",
+                "Bracelets", "Bags", "Watches",
+                "Glasses", "Caps", "Socks",
+                "Nail Care", "Nail Makeup Accessories",
+                "Pocket Squares", "Ties"
+            ],
+            "avoid_categories": [
+                "Sarees", "Lehenga Choli", "Heavy Ethnic Suits",
+                "Sleepwear", "Innerwear", "Sportswear",
+                "Casual Basics", "Ethnic Formal Wear",
+                "Heavy Traditional Jewellery"
+            ],
+            "style_notes": "New Year's Eve is the fashion culmination of the entire year — every bold choice, every statement piece, and every maximalist instinct belongs tonight. Sequins are the undisputed NYE fabric — a black or gold sequin dress, a silver sequin co-ord, or a shimmer top with wide-leg trousers are the most catalog-relevant pieces for the night. Black and gold is the classic NYE combination — but midnight blue with silver, champagne satin, and deep burgundy with rose gold are the sophisticated GenZ elevations of the traditional palette. Women in a floor-length gold sequin dress for the grand venue party, a black sequin mini for the club, or a champagne satin midi for the intimate rooftop gathering — all three are correct NYE answers. A sleek black or gold blazer over a sequin dress adds both December warmth and evening sophistication. Men in a well-tailored suit in midnight blue or charcoal with a crisp white shirt and gold or silver accessories — the NYE gentleman. A black suit with a black shirt for the more fashion-forward approach. A pocket square in gold or champagne is the most NYE-appropriate men's detail. Ties for the formal dinner countdown. Jewellery is at its annual maximum — stack everything, layer everything, wear the statement earrings AND the layered necklaces AND the rings simultaneously. Nail art for the midnight moment — nail care and accessories are a strong catalog category. The December Bengaluru cool makes a structured velvet-feel blazer genuinely both warm and glamorous. The countdown moment needs an outfit that earns its photograph — dress accordingly."
+        },
+        "marketing": {
+            "app": {
+                "headline": "New Year's Eve. The Whole Year Led Here.",
+                "lines": [
+                    "Sequins, midnight blue, gold — the only NYE palette that matters.",
+                    "Rooftop, venue, or intimate — we dressed every countdown moment.",
+                    "December cool, midnight magic, most glamorous night of the year."
+                ]
+            },
+            "social_media": {
+                "headline": "2026 Ends. Dress Like It Deserves.",
+                "lines": [
+                    "POV: New Year's Eve in Bengaluru and your gold sequin dress at midnight made the whole year worth it.",
+                    "NYE fit — sequins or satin, midnight blue or gold, blazer for the December cool, maximum jewellery, nail art for the countdown. 2026 goes out in style. 🥂✨🎆"
+                ]
+            }
+        }
+    },
 ]
