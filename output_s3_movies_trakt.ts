@@ -770,5 +770,69 @@ export const STATIC_TRAKT_MOVIES = [
                 ]
             }
         }
+    },
+    {
+        "id": "dhurandhar-the-revenge_18_mar",
+        "title": "Dhurandhar The Revenge",
+        "date": "18 Mar 2026",
+        "genres": "Action, Thriller, Drama, Bollywood",
+        "description": "Dhurandhar returns — a high-octane Bollywood action thriller built on vengeance, power, and the kind of raw cinematic energy that makes every frame feel like a reckoning. The revenge has a name and it arrives March 18th.",
+        "fashion_keywords": {
+            "reasoning": "Dhurandhar The Revenge is a Bollywood action thriller — genZScore 7-8. The title and genre signal a dark, intense, power-driven aesthetic — the kind of film where the protagonist is both feared and respected. The Bollywood action thriller crowd in India dresses with maximum intention for premieres — the fan base is passionate, style-conscious, and deeply invested in the hero's aesthetic. Character fashion references for a revenge thriller: (1) The protagonist Dhurandhar — the vengeful hero, dark and powerful aesthetic, structured blacks and deep navy, intensity in every silhouette; (2) The antagonist world — dark, opulent, and menacing — deep maroon, charcoal, and gold excess; (3) The revenge thriller tone — dark, brooding, and cinematic. March in Bengaluru is warming up toward summer — the transitional weather makes light layering still possible but heavy fabrics are being set aside. The Bollywood connection means the screening crowd dresses up significantly — smart casual to elevated, with a dark and powerful color palette. Dark navy, charcoal grey, deep maroon, black, and occasional gold accents are the most catalog-relevant colors. The action thriller genre opens tactical and structured fashion directions alongside the elevated Bollywood party aesthetic.",
+            "occasion": ["special", "elevated", "party", "movie-premiere", "screening-event"],
+            "activity": ["day-and-night", "movie-screening", "fan-event", "dinner-and-ceremonies", "cocktail", "college-event"],
+            "department": ["men", "women", "unisex"],
+            "ethnicity": ["western", "fusion"],
+            "fit": ["regular", "slim", "relaxed", "oversized"],
+            "style": ["regular-fit", "slim-fit", "straight-fit", "tailored", "boxy", "over-sized", "wide-leg", "cargo"],
+            "pattern": ["solid", "self-design", "color-block", "abstract", "minimal-print", "printed", "geometric", "vertical-stripes", "textured"],
+            "color": ["black", "charcoal-grey", "navy", "deep-red", "maroon", "burgundy", "gold", "dark-green", "white"],
+            "color_2": ["gold", "silver", "red", "cream", "white", "multi", "maroon", "grey", "black"],
+            "detail": ["button", "pocket", "lapel-detail", "seam", "trim", "panel", "metallic-trim", "chain-detail", "rivet", "overlap", "stud-detail", "cargo-pocket"],
+            "material": ["cotton", "polyester", "rayon", "viscose-rayon", "satin", "linen-blend", "cotton-blend", "leather", "synthetic", "nylon", "wool-blend"],
+            "neckline": ["crew", "v-neck", "round", "turtleneck", "mock", "button-down", "spread", "hooded", "half-zip", "mandarin"],
+            "length": ["hip", "below-hip", "above-knee", "knee", "ankle", "floor", "mid-thigh"],
+            "hemline_style": ["straight", "cuffed", "wide", "asymmetric"],
+            "theme": ["contemporary", "classic", "fashion", "dark-aesthetic", "villain-coded", "power-dressing", "revenge-aesthetic", "quiet-luxury"],
+            "surface_styling": "not-needed",
+            "treatment": ["faded", "stone-wash", "raw"],
+            "distress": ["no-distress", "light"],
+            "transparency": ["opaque", "semi-sheer"],
+            "jewellery_pattern": ["plain", "geometrical", "twisted", "chain-link", "circle-shape", "abstract-pattern", "textured-design", "faceted-stones"],
+            "pendants_type": ["no-pendant", "medallion", "stylised", "amulet"],
+            "size_group": ["regular", "plus-size"],
+            "preferred_categories": [
+                "Shirts", "T-shirts", "Suits", "Blazers",
+                "Jackets", "Trousers", "Jeans", "Co-ords/Other Sets",
+                "Tops", "Dresses", "Sweatshirts", "Waistcoats",
+                "Necklaces", "Bracelets", "Rings",
+                "Earrings", "Bags", "Watches",
+                "Glasses", "Caps", "Pocket Squares"
+            ],
+            "avoid_categories": [
+                "Sarees", "Lehenga Choli", "Heavy Ethnic Suits",
+                "Sleepwear", "Innerwear", "Sportswear",
+                "Bright Festive Colors", "Heavy Embellished Ethnic Wear",
+                "Pastel Casual Basics"
+            ],
+            "style_notes": "Dhurandhar The Revenge screening is a dark, powerful Bollywood fashion moment — dress like the protagonist just walked into the room and everyone went quiet. The hero aesthetic is the dominant catalog direction — structured, dark, and intentional. Men in a sharp black or midnight navy suit with a crisp white or deep red shirt — the Bollywood action hero screening uniform at its most powerful. A dark blazer with slim black trousers and a turtleneck in charcoal or deep maroon is equally cinematic. Pocket squares in gold or red for the elevated men's detail. Women in a deep burgundy or midnight blue satin co-ord, a structured black dress with gold accessories, or a dark dramatic silhouette that matches the film's intensity. The antagonist direction — deep maroon with gold excess — is the most editorial screening choice for women. Chain jewellery in gold or silver is the most revenge-thriller-coded accessory — layered chains, bold rings, and statement watches. The March Bengaluru transitional weather makes a structured blazer or dark jacket the perfect layer. Dark sunglasses for the premiere swagger. The overall energy is — dressed like you walked in knowing exactly what Dhurandhar came to do."
+        },
+        "marketing": {
+            "app": {
+                "headline": "The Revenge Has A Dress Code.",
+                "lines": [
+                    "Dark, sharp, and powerful — Dhurandhar's world demands your most intense look.",
+                    "Black suit or midnight co-ord — dress like the reckoning is tonight.",
+                    "Gold chains, dark blazer, and the confidence of someone with a plan."
+                ]
+            },
+            "social_media": {
+                "headline": "Dhurandhar Dressed For Revenge. So Should You.",
+                "lines": [
+                    "The most powerful man in the room never announces himself — but his black suit and gold chain do it for him. Dhurandhar The Revenge, March 18th.",
+                    "Revenge is a dish best served in a midnight navy blazer and zero apologies. 🖤⚡"
+                ]
+            }
+        }
     }
 ]
