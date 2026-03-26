@@ -96,9 +96,9 @@ async function runUnifiedPipeline(options = { dryRun: false }) {
   }
 
   console.log("☁️  Uploading to S3...");
-  const grouped = groupByDate(processedEvents);
-  for (const [sKey, events] of Object.entries(grouped)) {
-    await mergeAndUploadToS3(sKey, events);
+  const grouped = groupByMonth(processedEvents);
+  for (const [monthKey, dayData] of Object.entries(grouped)) {
+    await mergeAndUploadToS3(monthKey, dayData);
   }
 
   console.log("\n✅ Pipeline completed successfully.");
@@ -109,15 +109,18 @@ async function runUnifiedPipeline(options = { dryRun: false }) {
 async function buildS3EventIndex() {
   const ids = new Set();
   const objects = await listObjectsInS3("");
-  const dayFilePattern = /^\d{4}-\d{2}\/\d{2}\.json$/;
-  const dayKeys = objects.filter(o => dayFilePattern.test(o.Key)).map(o => o.Key);
+  const monthFilePattern = /^\d{4}-\d{2}\.json$/;
+  const monthKeys = objects.filter(o => monthFilePattern.test(o.Key)).map(o => o.Key);
 
-  for (const key of dayKeys) {
+  for (const key of monthKeys) {
     try {
       const content = await getObjectFromS3(key);
       const data = JSON.parse(content);
-      (data.events || []).forEach(e => {
-        if (e.id) ids.add(e.id);
+      // data is { "DD": { "events": [...], "last_updated": "..." } }
+      Object.values(data).forEach(dayObj => {
+        (dayObj.events || []).forEach(e => {
+          if (e.id) ids.add(e.id);
+        });
       });
     } catch (e) {
       console.warn(`  ⚠️  Failed to read day file ${key}: ${e.message}`);
@@ -126,44 +129,53 @@ async function buildS3EventIndex() {
   return ids;
 }
 
-function groupByDate(events) {
+function groupByMonth(events) {
   const groups = {};
   events.forEach(e => {
     const dateStr = e.date || "unknown"; // "YYYY-MM-DD" expected
     if (dateStr === "unknown" || dateStr === "Upcoming") return;
 
-    // Normalize "YYYY-MM-DD" to S3 key "YYYY-MM/DD.json"
+    // Normalize "YYYY-MM-DD" to S3 key "YYYY-MM.json" and day key "DD"
     const match = dateStr.match(/^(\d{4})-(\d{2})-(\d{2})/);
     if (!match) return;
 
-    const sKey = `${match[1]}-${match[2]}/${match[3]}.json`;
-    if (!groups[sKey]) groups[sKey] = [];
-    groups[sKey].push(e);
+    const monthKey = `${match[1]}-${match[2]}.json`;
+    const dayKey = match[3];
+
+    if (!groups[monthKey]) groups[monthKey] = {};
+    if (!groups[monthKey][dayKey]) groups[monthKey][dayKey] = [];
+    groups[monthKey][dayKey].push(e);
   });
   return groups;
 }
 
-async function mergeAndUploadToS3(sKey, newEvents) {
-  let existingData = { events: [] };
+async function mergeAndUploadToS3(monthKey, dayData) {
+  let existingContent = {};
   try {
-    const content = await getObjectFromS3(sKey);
-    if (content) existingData = JSON.parse(content);
+    const content = await getObjectFromS3(monthKey);
+    if (content) existingContent = JSON.parse(content);
   } catch (e) {
     // File doesn't exist yet, that's fine
   }
 
-  // Merge (unique by id)
-  const eventMap = new Map();
-  existingData.events.forEach(e => eventMap.set(e.id, e));
-  newEvents.forEach(e => eventMap.set(e.id, e));
+  // Merge each day in dayData into existingContent
+  for (const [day, newEvents] of Object.entries(dayData)) {
+    if (!existingContent[day]) {
+      existingContent[day] = { events: [], last_updated: "" };
+    }
 
-  const finalData = {
-    events: Array.from(eventMap.values()),
-    last_updated: new Date().toISOString()
-  };
+    const eventMap = new Map();
+    // Use existing events for this day
+    (existingContent[day].events || []).forEach(e => eventMap.set(e.id, e));
+    // Add new events
+    newEvents.forEach(e => eventMap.set(e.id, e));
 
-  await uploadToS3(sKey, JSON.stringify(finalData, null, 2), "application/json");
-  console.log(`  ✅ Synced: ${sKey} (+${newEvents.length} items)`);
+    existingContent[day].events = Array.from(eventMap.values());
+    existingContent[day].last_updated = new Date().toISOString();
+  }
+
+  await uploadToS3(monthKey, JSON.stringify(existingContent, null, 2), "application/json");
+  console.log(`  ✅ Synced month file: ${monthKey} (${Object.keys(dayData).length} days updated/added)`);
 }
 
 // ─── MAIN ─────────────────────────────────────────────────────────────────────
@@ -175,4 +187,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { runUnifiedPipeline };
+module.exports = { runUnifiedPipeline, groupByMonth, mergeAndUploadToS3, buildS3EventIndex };

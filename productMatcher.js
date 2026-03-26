@@ -60,27 +60,27 @@ function parseExcel(filePathOrBuffer, fileName = "upload") {
 
 // ─── STEP 2: LOAD DAY FILES FROM S3 ──────────────────────────────────────────
 
-async function loadAllDayFilesFromS3() {
-  const dayFilePattern = /^\d{4}-\d{2}\/\d{2}\.json$/;
+async function loadAllMonthlyFilesFromS3() {
+  const monthFilePattern = /^\d{4}-\d{2}\.json$/;
   const allObjects = await listObjectsInS3("");
-  const dayKeys = (allObjects || []).map((o) => o.Key).filter((k) => dayFilePattern.test(k));
+  const monthKeys = (allObjects || []).map((o) => o.Key).filter((k) => monthFilePattern.test(k));
 
-  if (dayKeys.length === 0) {
-    console.warn("⚠️  No YYYY-MM/DD.json files found in S3.");
+  if (monthKeys.length === 0) {
+    console.warn("⚠️  No YYYY-MM.json files found in S3.");
     return new Map();
   }
 
-  const dayFileMap = new Map();
-  for (const key of dayKeys) {
+  const monthFileMap = new Map();
+  for (const key of monthKeys) {
     try {
       const content = await getObjectFromS3(key);
       if (!content) continue;
-      dayFileMap.set(key, { data: JSON.parse(content), dirty: false });
+      monthFileMap.set(key, { data: JSON.parse(content), dirty: false });
     } catch (e) {
       console.warn(`   ⚠️  Skipped ${key}: ${e.message}`);
     }
   }
-  return dayFileMap;
+  return monthFileMap;
 }
 
 // ─── STEP 2.5: MANAGE PRODUCT CATALOG IN S3 ──────────────────────────────────
@@ -130,11 +130,14 @@ async function saveCatalogToS3(products) {
 
 // ─── STEP 3: MATCH + MERGE + UPLOAD ──────────────────────────────────────
 
-async function matchAndMerge(products, dayFileMap, dryRun = false) {
+async function matchAndMerge(products, monthFileMap, dryRun = false) {
   const allEvents = [];
-  for (const [dayKey, { data }] of dayFileMap) {
-    for (const event of (data.events || [])) {
-      if (event.id) allEvents.push({ dayKey, event });
+  for (const [monthKey, { data }] of monthFileMap) {
+    // data is { "DD": { "events": [...], "last_updated": "..." } }
+    for (const [dayKey, dayObj] of Object.entries(data)) {
+      for (const event of (dayObj.events || [])) {
+        if (event.id) allEvents.push({ monthKey, dayKey, event });
+      }
     }
   }
 
@@ -145,7 +148,7 @@ async function matchAndMerge(products, dayFileMap, dryRun = false) {
 
   console.log(`\n🔗 Re-matching ${totalEvents} events using unified service logic...`);
 
-  for (const { dayKey, event } of allEvents) {
+  for (const { monthKey, dayKey, event } of allEvents) {
     const oldProducts = new Set(event.products || []);
     const newMatches = await matchProducts(event);
     const merged = new Set([...oldProducts, ...newMatches]);
@@ -153,7 +156,7 @@ async function matchAndMerge(products, dayFileMap, dryRun = false) {
     if (merged.size > oldProducts.size) {
         const added = [...merged].filter(code => !oldProducts.has(code));
         event.products = [...merged];
-        dayFileMap.get(dayKey).dirty = true;
+        monthFileMap.get(monthKey).dirty = true;
         matchSummary[event.id] = added;
         totalMatches += added.length;
         eventsUpdated++;
@@ -171,11 +174,10 @@ async function matchAndMerge(products, dayFileMap, dryRun = false) {
 
   if (!dryRun) {
     fs.writeFileSync(LOCAL_OUTPUT_FILE, JSON.stringify(output, null, 2), "utf-8");
-    const dirtyFiles = [...dayFileMap.entries()].filter(([, v]) => v.dirty);
-    for (const [dayKey, { data }] of dirtyFiles) {
-      data.last_updated = new Date().toISOString();
-      await uploadToS3(dayKey, JSON.stringify(data, null, 2), "application/json");
-      console.log(`   ✅ Updated: ${dayKey}`);
+    const dirtyFiles = [...monthFileMap.entries()].filter(([, v]) => v.dirty);
+    for (const [monthKey, { data }] of dirtyFiles) {
+      await uploadToS3(monthKey, JSON.stringify(data, null, 2), "application/json");
+      console.log(`   ✅ Updated month file: ${monthKey}`);
     }
   }
 
@@ -191,8 +193,8 @@ async function _run(newProducts, dryRun) {
   });
   const updatedCatalog = Array.from(catalogMap.values());
   if (!dryRun) await saveCatalogToS3(updatedCatalog);
-  const dayFileMap = await loadAllDayFilesFromS3();
-  return matchAndMerge(updatedCatalog, dayFileMap, dryRun);
+  const monthFileMap = await loadAllMonthlyFilesFromS3();
+  return matchAndMerge(updatedCatalog, monthFileMap, dryRun);
 }
 
 async function runProductMatcher(excelFilePath, dryRun = false) {

@@ -1,0 +1,2856 @@
+{
+  "10": {
+    "events": [
+      {
+        "id": "moana_10_jul",
+        "title": "Moana",
+        "date": "10 Jul 2026",
+        "genres": "Adventure, Comedy, Family, Fantasy, Musical, Live Action",
+        "description": "The ocean calls and Moana answers — Disney's live-action reimagining of the beloved story follows Motunui's chosen daughter as she voyages beyond the barrier reef with the demigod Maui, carrying the fate of her people on a journey that is as much about discovering herself as saving her world.",
+        "fashion_keywords": {
+          "reasoning": "Moana live-action is one of Disney's most anticipated reimaginings of 2026 — genZScore 7-9. The screening crowd spans families, Disney fans of all ages, and GenZ who grew up with the original 2016 animation. The live-action context makes the fashion even more culturally rich — real Polynesian textiles, real ocean colors, and a genuine cultural celebration of Pacific Islander fashion traditions. The poster colors — powder blue and deep ocean teal — perfectly capture the film's visual world and give direct catalog direction. Character fashion references are beautifully specific: (1) Moana — the most direct catalog reference. Coral red and warm tropical colors, a tapa-inspired printed skirt, lei accessories, natural materials. Her live-action costume will reference real Polynesian dress — woven textures, natural dyes, ocean colors; (2) Maui — bold, large, tattooed warrior energy, warm earth tones and brown; (3) The ocean itself — the dominant visual character of the film, powder blue, deep teal, aqua, and sea foam. The ocean palette from the poster is the strongest catalog signal. July in Bengaluru is peak monsoon — indoor screening but the tropical ocean palette feels perfectly appropriate for the July humidity. The tropical and Polynesian cultural references open a unique fashion direction — resort wear, ocean tones, natural fabrics, floral prints, and woven textures are all deeply relevant.",
+          "occasion": [
+            "casual",
+            "special",
+            "movie-premiere",
+            "screening-event",
+            "family-event",
+            "fan-event"
+          ],
+          "activity": [
+            "day-and-night",
+            "movie-screening",
+            "fan-event",
+            "college-event",
+            "holiday",
+            "brunch"
+          ],
+          "department": [
+            "men",
+            "women",
+            "unisex"
+          ],
+          "ethnicity": [
+            "western",
+            "fusion"
+          ],
+          "fit": [
+            "regular",
+            "relaxed",
+            "oversized",
+            "loose",
+            "slim"
+          ],
+          "style": [
+            "regular-fit",
+            "relaxed",
+            "over-sized",
+            "straight-fit",
+            "a-line",
+            "wide-leg",
+            "flared",
+            "loose-fit",
+            "boxy"
+          ],
+          "pattern": [
+            "floral",
+            "printed",
+            "botanical",
+            "color-block",
+            "abstract",
+            "geometric",
+            "tapa-inspired",
+            "tribal-print",
+            "leaf-print",
+            "solid",
+            "wave-print"
+          ],
+          "color": [
+            "teal",
+            "ocean-blue",
+            "powder-blue",
+            "coral",
+            "red",
+            "aqua",
+            "turquoise",
+            "cream",
+            "brown",
+            "tan",
+            "multi",
+            "white"
+          ],
+          "color_2": [
+            "gold",
+            "white",
+            "cream",
+            "orange",
+            "multi",
+            "tan",
+            "light-blue",
+            "green",
+            "coral",
+            "sea-foam"
+          ],
+          "detail": [
+            "button",
+            "tie-up",
+            "tassel-and-fringe",
+            "flower",
+            "trim",
+            "seam",
+            "ruffle",
+            "elastic",
+            "pocket",
+            "overlap",
+            "bow",
+            "embroidered",
+            "woven-detail"
+          ],
+          "material": [
+            "cotton",
+            "100%-cotton",
+            "linen",
+            "linen-blend",
+            "cotton-linen-blend",
+            "rayon",
+            "viscose-rayon",
+            "cotton-blend",
+            "cotton-viscose-blend",
+            "chiffon-feel",
+            "microfiber",
+            "canvas"
+          ],
+          "neckline": [
+            "round",
+            "v-neck",
+            "halter",
+            "one-shoulder",
+            "off-shoulder",
+            "boat",
+            "square",
+            "spaghetti-straps",
+            "sweetheart",
+            "tie-up",
+            "crew"
+          ],
+          "length": [
+            "mid-thigh",
+            "above-knee",
+            "knee",
+            "below-knee",
+            "mid-calf",
+            "ankle",
+            "floor",
+            "hip"
+          ],
+          "hemline_style": [
+            "straight",
+            "flared",
+            "asymmetric",
+            "high-low",
+            "wide",
+            "fringed",
+            "handkerchief"
+          ],
+          "theme": [
+            "bohemian",
+            "contemporary",
+            "nature",
+            "trendy",
+            "fashion",
+            "love",
+            "novelty",
+            "tropical-resort",
+            "ocean-aesthetic",
+            "polynesian-inspired"
+          ],
+          "surface_styling": "not-needed",
+          "treatment": [
+            "faded",
+            "stone-wash",
+            "raw"
+          ],
+          "distress": [
+            "no-distress",
+            "light"
+          ],
+          "transparency": [
+            "opaque",
+            "semi-sheer"
+          ],
+          "jewellery_pattern": [
+            "plain",
+            "floral",
+            "circle-shape",
+            "shell-motif",
+            "wave-motif",
+            "twisted",
+            "dainty-minimal",
+            "abstract-pattern",
+            "leaf-inspired",
+            "geometrical"
+          ],
+          "pendants_type": [
+            "no-pendant",
+            "solitaire",
+            "stylised",
+            "medallion",
+            "amulet",
+            "crystal"
+          ],
+          "size_group": [
+            "regular",
+            "plus-size",
+            "kids"
+          ],
+          "preferred_categories": [
+            "Dresses",
+            "Tops",
+            "Shirts",
+            "Co-ords/Other Sets",
+            "Skirts",
+            "Shorts",
+            "Trousers",
+            "Jumpsuits",
+            "Shrugs",
+            "Jackets",
+            "Onesies",
+            "Caps",
+            "Tote Bags",
+            "Bags",
+            "Glasses",
+            "Earrings",
+            "Necklaces",
+            "Bracelets",
+            "Rings",
+            "Anklets",
+            "Watches",
+            "Socks"
+          ],
+          "avoid_categories": [
+            "Sarees",
+            "Lehenga Choli",
+            "Heavy Ethnic Suits",
+            "Sequin Clubwear",
+            "Formal Suits",
+            "Sleepwear",
+            "Innerwear",
+            "Heavy Traditional Jewellery",
+            "Dark Grunge Pieces",
+            "Tactical Cargo"
+          ],
+          "style_notes": "Moana live-action screening is the most ocean-inspired and tropically joyful fashion moment of July — the sea is the palette and Polynesia is the texture reference. Lead with the ocean color palette from the poster — powder blue, deep teal, and aqua are the most direct catalog signals. The live-action context makes botanical and tapa-inspired prints uniquely relevant — bold floral and tribal-adjacent prints in ocean tones reference Polynesian textile traditions beautifully without being culturally appropriative. Women in a flowing teal or ocean blue floral midi dress — the single most catalog-relevant Moana screening piece. A coral red and teal color-blocked co-ord references Moana's own costume palette directly. A powder blue linen set captures the ocean's gentle energy. Men in a bold floral or botanical printed shirt in ocean tones with linen shorts — the tropical resort aesthetic is perfect for this film. Shell motif and ocean-inspired jewellery are uniquely relevant — shell pendants, coral-toned bead necklaces, wave-motif earrings, anklets for the barefoot ocean energy. The lei reference opens floral jewellery and floral accessory directions. Flower earrings and floral hair accessories are the most Moana-coded beauty choices. Tote bags in canvas or woven textures reference the natural material world of Polynesia. Kids onesies and floral dresses in ocean tones are the most heartwarming catalog category. The July monsoon makes the ocean palette feel genuinely seasonal — dress like the rain is the ocean calling."
+        },
+        "marketing": {
+          "app": {
+            "headline": "The Ocean Is Calling. Dress For It.",
+            "lines": [
+              "Powder blue, deep teal, coral — the ocean palette is the whole brief.",
+              "Floral prints, shell jewels, and ocean tones for Disney's most beautiful film.",
+              "Moana knew how to dress for a voyage. Now so do you."
+            ]
+          },
+          "social_media": {
+            "headline": "How Far I'll Go — In This Teal Dress.",
+            "lines": [
+              "Moana live-action dress code — ocean blue florals, shell jewellery, and the kind of outfit that makes the sea want to help you find your way.",
+              "The ocean chose Moana. We chose this powder blue linen co-ord. Disney's Moana live-action, July 10th. 🌊🌺"
+            ]
+          }
+        },
+        "products": [
+          {
+            "Style Code": "VVa1000054",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Brown Tiered Midi Dresses",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/5143954de35505a697f1e94c4c7aeb22",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVCS000087",
+            "Category": "Other Sets",
+            "Product Name": "Vara By Vishudh Women Off White Black  Printed Co-Ord Set With Boat Neck Crop Top And Palazzo",
+            "Brand": "Vara By Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/7f38575b9070bf36b948c860c74a79f5",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVCS000120",
+            "Category": "Other Sets",
+            "Product Name": "Vara By Vishudh Women Blue Cotton Slub Printed Co-ord set",
+            "Brand": "Vara By Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/307931d7f9d05f2ea1d7c7c8c1bf3aa8",
+            "gender": "women"
+          },
+          {
+            "Style Code": "GS-PRT-0037-PGN",
+            "Category": "Shirts",
+            "Product Name": "Men Premium Green Relaxed Fit Cuban Collar Printed Cotton Linen Casual Shirt",
+            "Brand": "Guns & Sons",
+            "Image URL 1": "https://assets.catalogix.ai/700fd0882cfa7d04f34c84bc9006de74",
+            "gender": "men"
+          },
+          {
+            "Style Code": "VVa1000063",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Brown Tiered Short Dresses",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/d8861e2793e49dcbb18b5f8ff64b76ea",
+            "gender": "women"
+          },
+          {
+            "Style Code": "TTCE001357",
+            "Category": "Other Sets",
+            "Product Name": "Tokyo Talkies Pure Cotton Round Neck Top With Shorts",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/4408f0a3e39c42e5cd8d158ec4d9cf06",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVCS000082",
+            "Category": "Other Sets",
+            "Product Name": "Vara By Vishudh Women Tan Off White Printed  Co-Ord Set With Mandarin Collar Shirt And Shorts",
+            "Brand": "Vara By Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/0222f31879182fd3160b4808a6cf49dc",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFSETS9820",
+            "Category": "Other Sets",
+            "Product Name": "Women Blue Mughal Print Crop Top With Straight Pants",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/77b898d20af0304e9028fa8b3febc3f4",
+            "gender": "women"
+          },
+          {
+            "Style Code": "TTCE000334",
+            "Category": "Other Sets",
+            "Product Name": "Tokyo Talkies Checked Sleeveless Pure Cotton Crop Top With Trouser",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/33cdefb5c2c8ced863e2962f75d71b2b",
+            "gender": "women"
+          },
+          {
+            "Style Code": "HLSH018996",
+            "Category": "Shirts",
+            "Product Name": "HIGHLANDER Men Dobby Textured Relaxed Shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/9631bc71f9bfc3d00c4a4f09e4ba45f6",
+            "gender": "men"
+          },
+          {
+            "Style Code": "TTSH002417",
+            "Category": "Shirts",
+            "Product Name": "Tokyo Talkies Women Floral Printed Casual Shirt",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/e313a44c99eadf96d23ce6ffab9d405b",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVa1000093",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Brown Printed Strap Tiered Dress",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/f5253aa2917ae9a9a13362eff3db774b",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVCS000118",
+            "Category": "Other Sets",
+            "Product Name": "Vara By Vishudh Women Yellow Cotton Slub Printed Co-ord set",
+            "Brand": "Vara By Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/b290f3de6bc25190f5abe87e2502b998",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVCS000119",
+            "Category": "Other Sets",
+            "Product Name": "Vara By Vishudh Women Pink Cotton Slub Printed Co-ord set",
+            "Brand": "Vara By Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/0a62d56dfcb1ec8443219c4ef150c9cd",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVa1000056",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Black Tiered Midi Dresses",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/128c1909986dc0b6f8c73a354e9d8a81",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ULSS24DR18-77-065",
+            "Category": "Dresses",
+            "Product Name": "Uptownie Stretchable Ribbed Side Cutout Dress",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/0ef2ea301442a7bdea89bb7fc054cf6a",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ULSS25DR20-14-121",
+            "Category": "Dresses",
+            "Product Name": "Uptownie Stretchable Halter Neck Mini Skater Dress",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/695a8487eb37c4e882a54a68a86387e5",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVSD000037",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Grey Green Embroidered Short Dress",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/ebf01d51131aaabb252a3474ad101af1",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVSD000042",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Beige Cotton Slub Printed Reglan Sleeve Short Dress",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/d471803100a01bbf1be590a33f54e6e4",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVSH000037",
+            "Category": "Shirts",
+            "Product Name": "Vara By Vishudh Women Tan Off White Printed Crop Shirt",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/853bd430ac82bc056b6f1cb5a5548e4f",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVa1000097",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Black Embroidered Strap Dress",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/e12036f731b7964d45b1938f8bc9869a",
+            "gender": "women"
+          },
+          {
+            "Style Code": "GS-PRT-0039-TBL",
+            "Category": "Shirts",
+            "Product Name": "Men Premium Teal Relaxed Fit Cuban Collar Printed Cotton Linen Casual Shirt",
+            "Brand": "Guns & Sons",
+            "Image URL 1": "https://assets.catalogix.ai/75f5cdc97e09ab3743d0e7901410e461",
+            "gender": "men"
+          },
+          {
+            "Style Code": "VVa1000079",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women White Schiffli Midi Dress",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/dc913b547138e525e1d1a2430a207773",
+            "gender": "women"
+          },
+          {
+            "Style Code": "0524-BEP-181-12",
+            "Category": "T-shirts",
+            "Product Name": "0524-BEP-181-12-Almond-XL",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/15d0a4f4c9d6e8ff5c6278583c5d271f",
+            "gender": "men"
+          },
+          {
+            "Style Code": "CSMSSRT8316",
+            "Category": "Shirts",
+            "Product Name": "Gloomy Daisy Shirt",
+            "Brand": "Campus Sutra",
+            "Image URL 1": "https://assets.catalogix.ai/2ae2b6c86551f2e8a0c3dce6c1cbdbf2",
+            "gender": "men"
+          },
+          {
+            "Style Code": "LMPS000102",
+            "Category": "Shirts",
+            "Product Name": "Locomotive Luxe Men Solid Evening Casual Shirt",
+            "Brand": "LOCOMOTIVE",
+            "Image URL 1": "https://assets.catalogix.ai/cb3fc7f406f1ac4e76402c774fffeb9e",
+            "gender": "men"
+          },
+          {
+            "Style Code": "VNa1004076",
+            "Category": "Dresses",
+            "Product Name": "Vishudh Bohemian Print A-Line Midi Dress",
+            "Brand": "Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/7b9815865b84397c6a2658c73e6868cf",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVa1000055",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Green Tiered Midi Dresses",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/fa7bed1411f5ea255179255bc331a31d",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVa1000064",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Green Tiered Short Dresses",
+            "Brand": "Vara By Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/a69aae64a901640352f3e9bbf7a7097c",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWTBJ0226",
+            "Category": "Other Sets",
+            "Product Name": "Bohemian Flora Co-Ord Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/51fd96fe0d47d9f2a34183f99af16c25",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ULSS23CM17-18-066",
+            "Category": "Other Sets",
+            "Product Name": "Uptownie Halter Neck Linen Top With Pants",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/0d26672711ea512b15e4bee77fa9e678",
+            "gender": "women"
+          },
+          {
+            "Style Code": "0324-ZFHDR-351-C",
+            "Category": "Dresses",
+            "Product Name": "0324-ZFHDR-351-C-Brilliant White-XL",
+            "Brand": "Freehand",
+            "Image URL 1": "https://assets.catalogix.ai/dba2e502af693e07c239bd9c641c1de6",
+            "gender": "women"
+          },
+          {
+            "Style Code": "LMSH017898",
+            "Category": "Shirts",
+            "Product Name": "LOCOMOTIVE Men Slim Fit Cutaway Collar Solid Cotton Formal Shirt",
+            "Brand": "LOCOMOTIVE",
+            "Image URL 1": "https://assets.catalogix.ai/70ba2f03ee72a55206662dc307442a41",
+            "gender": "men"
+          },
+          {
+            "Style Code": "LMSH017932",
+            "Category": "Shirts",
+            "Product Name": "LOCOMOTIVE Premium Men Jacquard Textured Occasion Shirt",
+            "Brand": "LOCOMOTIVE",
+            "Image URL 1": "https://assets.catalogix.ai/76022d9ec9250ab1ab7c1b6985478422",
+            "gender": "men"
+          },
+          {
+            "Style Code": "SFDRSS12301",
+            "Category": "Dresses",
+            "Product Name": "Women Orange Poplin Abstract Ruffle Neck Smocked Skater Dress",
+            "Brand": "Pink Paprika By SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/fb82f0a798c338046bfb486d15e80bb3",
+            "gender": "women"
+          },
+          {
+            "Style Code": "TTJ6009481",
+            "Category": "Dresses",
+            "Product Name": "Tokyo Talkies Floral Printed Puff Sleeves A-Line Dress",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/dec18cf6170a83d7529e3ab556f3687a",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVCS000042",
+            "Category": "Other Sets",
+            "Product Name": "Vara By Vishudh Women White Schiffli Co-Ord Set With Notch Collar Crop Top And Wide Palazzo",
+            "Brand": "Vara By Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/4406c6584014ec53c7d95f93c6e6ef58",
+            "gender": "women"
+          },
+          {
+            "Style Code": "HLTS004297",
+            "Category": "T-shirts",
+            "Product Name": "HIGHLANDER Graphic Oversized T-shirt with Drop-Shoulder Sleeves",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/f7d9c4c49f379b73da33fa2977a2b273",
+            "gender": "men"
+          },
+          {
+            "Style Code": "SFDRSS1808",
+            "Category": "Dresses",
+            "Product Name": "Red Floral Tiered Trapeze Dress",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/2ddc142f6de0ffb62e1df37b8ff6fa86",
+            "gender": "women"
+          },
+          {
+            "Style Code": "CSMSSRT8623",
+            "Category": "Shirts",
+            "Product Name": "Contour-Lines Pleated Shirt",
+            "Brand": "Campus Sutra",
+            "Image URL 1": "https://assets.catalogix.ai/c0ac3026072e2d6fe747b30b610b0bf5",
+            "gender": "men"
+          }
+        ]
+      }
+    ],
+    "last_updated": "2026-03-26T18:31:50.250Z"
+  },
+  "17": {
+    "events": [
+      {
+        "id": "the-odyssey_17_jul",
+        "title": "The Odyssey",
+        "date": "17 Jul 2026",
+        "genres": "Drama, Adventure, Fantasy, Epic, Mythology",
+        "description": "The greatest journey ever told returns to the screen — Odysseus, legendary King of Ithaca, battles monsters, gods, and his own longing across a decade of perilous sea voyages to return home after the Trojan War, facing the Cyclops, the Sirens, and the witch-goddess Circe in Christopher Nolan's most ambitious epic.",
+        "fashion_keywords": {
+          "reasoning": "The Odyssey is Christopher Nolan's most ambitious epic — genZScore 6-8. The screening crowd is the most culturally sophisticated and aesthetically intentional of any summer blockbuster — Nolan fans dress with intellectual intention, and the Greek mythology angle adds a rich fashion reference layer. The poster colors — deep ocean blue and near-midnight black — immediately establish the film's visual language. Character fashion references are strong: (1) Odysseus — the warrior-king aesthetic, battle-worn leather, deep navy and ocean blue, tactical but regal; (2) Penelope — elegant draped silhouettes, ivory and cream, classical Greek draping references in contemporary cuts; (3) Circe — the witch-goddess angle, deep forest green, mystical and powerful; (4) The Sirens — ethereal, sheer, ocean-toned, otherworldly. July in Bengaluru is peak monsoon — indoor screening, breathable fabrics essential. The ocean palette dominates — deep blue, midnight navy, teal, sea green, and storm grey. The mythology angle opens a unique fashion direction — draped silhouettes, toga-inspired cuts, classical references in contemporary fashion. This is not cosplay — it is the Odyssey's world translated into catalog-matchable pieces.",
+          "occasion": [
+            "special",
+            "elevated",
+            "movie-premiere",
+            "screening-event",
+            "cultural-moment"
+          ],
+          "activity": [
+            "day-and-night",
+            "movie-screening",
+            "fan-event",
+            "dinner-and-ceremonies",
+            "brunch"
+          ],
+          "department": [
+            "men",
+            "women",
+            "unisex"
+          ],
+          "ethnicity": [
+            "western",
+            "fusion"
+          ],
+          "fit": [
+            "regular",
+            "relaxed",
+            "slim",
+            "loose",
+            "oversized"
+          ],
+          "style": [
+            "relaxed",
+            "straight-fit",
+            "wide-leg",
+            "tailored",
+            "a-line",
+            "drape",
+            "over-sized",
+            "regular-fit",
+            "empire",
+            "flared"
+          ],
+          "pattern": [
+            "solid",
+            "self-design",
+            "abstract",
+            "minimal-print",
+            "textured",
+            "color-block",
+            "geometric",
+            "printed",
+            "wave-inspired",
+            "lace",
+            "shimmer"
+          ],
+          "color": [
+            "deep-blue",
+            "midnight-blue",
+            "navy",
+            "teal",
+            "ocean-blue",
+            "sea-green",
+            "dark-green",
+            "black",
+            "ivory",
+            "cream",
+            "storm-grey"
+          ],
+          "color_2": [
+            "gold",
+            "silver",
+            "cream",
+            "off-white",
+            "teal",
+            "multi",
+            "bronze",
+            "copper",
+            "white",
+            "forest-green"
+          ],
+          "detail": [
+            "draped",
+            "button",
+            "trim",
+            "seam",
+            "tie-up",
+            "overlay",
+            "pleat",
+            "tassel-and-fringe",
+            "lace",
+            "ruching",
+            "strap",
+            "scallop",
+            "knit",
+            "one-shoulder"
+          ],
+          "material": [
+            "satin",
+            "linen",
+            "linen-blend",
+            "cotton-linen-blend",
+            "rayon",
+            "viscose-rayon",
+            "cotton-blend",
+            "chiffon-feel",
+            "georgette-feel",
+            "cotton",
+            "polyester",
+            "silk-feel"
+          ],
+          "neckline": [
+            "one-shoulder",
+            "off-shoulder",
+            "halter",
+            "v-neck",
+            "cowl",
+            "boat",
+            "sweetheart",
+            "square",
+            "round",
+            "tie-up",
+            "spaghetti-straps",
+            "keyhole"
+          ],
+          "length": [
+            "floor",
+            "ankle",
+            "mid-calf",
+            "below-knee",
+            "knee",
+            "above-knee",
+            "hip",
+            "mid-thigh"
+          ],
+          "hemline_style": [
+            "straight",
+            "asymmetric",
+            "high-low",
+            "handkerchief",
+            "wide",
+            "flared",
+            "fringed"
+          ],
+          "theme": [
+            "contemporary",
+            "classic",
+            "bohemian",
+            "fashion",
+            "nature",
+            "designer",
+            "dark-aesthetic",
+            "mythology-inspired",
+            "ocean-aesthetic",
+            "spiritual"
+          ],
+          "surface_styling": "not-needed",
+          "treatment": [
+            "faded",
+            "stone-wash",
+            "raw"
+          ],
+          "distress": [
+            "no-distress",
+            "light"
+          ],
+          "transparency": [
+            "opaque",
+            "semi-sheer",
+            "sheer"
+          ],
+          "jewellery_pattern": [
+            "plain",
+            "geometrical",
+            "intricately-craft",
+            "twisted",
+            "circle-shape",
+            "abstract-pattern",
+            "faceted-stones",
+            "tear-drop",
+            "swirl",
+            "star",
+            "ocean-motif",
+            "leaf-inspired"
+          ],
+          "pendants_type": [
+            "no-pendant",
+            "solitaire",
+            "crystal",
+            "stylised",
+            "medallion",
+            "amulet"
+          ],
+          "size_group": [
+            "regular",
+            "plus-size"
+          ],
+          "preferred_categories": [
+            "Dresses",
+            "Tops",
+            "Co-ords/Other Sets",
+            "Shirts",
+            "Trousers",
+            "Skirts",
+            "Jumpsuits",
+            "Blazers",
+            "Jackets",
+            "Shrugs",
+            "Necklaces",
+            "Earrings",
+            "Rings",
+            "Bracelets",
+            "Bags",
+            "Watches",
+            "Glasses",
+            "Tote Bags"
+          ],
+          "avoid_categories": [
+            "Sarees",
+            "Lehenga Choli",
+            "Heavy Ethnic Suits",
+            "Sequin Clubwear",
+            "Neon Party Wear",
+            "Sleepwear",
+            "Innerwear",
+            "Sportswear",
+            "Heavy Traditional Jewellery",
+            "Loud Graphic Tees"
+          ],
+          "style_notes": "The Odyssey screening is the most mythologically inspired fashion moment of July — the ocean is the palette and ancient Greece is the silhouette reference. Lead with the deep ocean blue and midnight navy that dominates the film's visual world — a deep navy satin midi dress, a teal draped co-ord, or a midnight blue wide-leg suit captures the Odyssey's sea-voyage energy beautifully. The Penelope character direction — ivory and cream draped silhouettes — is the most catalog-translatable mythology reference. Women in a cream or ivory flowy midi dress with a one-shoulder or cowl neckline, referencing classical Greek draping in a completely contemporary silhouette. A deep ocean blue satin dress or a teal asymmetric hemline dress channels the film's visual palette directly. The Circe character direction — deep forest green with mystical accessories — is the most dramatic and editorial option for the evening crowd. Men in a deep navy linen suit or a midnight blue shirt with cream linen trousers — the scholar-warrior aesthetic of Odysseus translated into a Bengaluru screening look. The one-shoulder and off-shoulder necklines are uniquely relevant — the most mythology-adjacent contemporary neckline in the catalog. Gold and bronze-toned jewellery references the ancient world beautifully — layered gold chains, statement coin-inspired pendants, chunky gold cuffs. The July monsoon means breathable fabrics over heavy ones — satin and chiffon-feel in ocean tones are both cool and cinematic."
+        },
+        "marketing": {
+          "app": {
+            "headline": "Defy The Gods. Dress For The Ocean.",
+            "lines": [
+              "Midnight navy, ocean teal, ivory drape — the Odyssey palette is everything.",
+              "Penelope's draped elegance or Circe's forest green power — both are correct.",
+              "The greatest journey ever told deserves the most intentional outfit of July."
+            ]
+          },
+          "social_media": {
+            "headline": "Ten Years To Get Home. Worth The Outfit.",
+            "lines": [
+              "The Odyssey dress code — deep ocean blue, ivory draped silhouettes, gold jewellery. Odysseus traveled ten years for this screening and so did your outfit.",
+              "Circe would turn you into something magnificent in that teal dress. The Odyssey arrives July 17th. 🌊⚡"
+            ]
+          }
+        },
+        "products": [
+          {
+            "Style Code": "WMD129640072514",
+            "Category": "Dresses",
+            "Product Name": "Green Square Halter Neck Dress",
+            "Brand": "Outzidr",
+            "Image URL 1": "https://cdn.shopify.com/s/files/1/0681/5386/8461/files/41615f34fd3e2473041353c1c3346e6d.jpg?v=1751888464",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVSD000049",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Grey Green Embroidered A-Line Short Dress",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/14f98d69101729e102dbd0d3ce448482",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFDRSS13090",
+            "Category": "Dresses",
+            "Product Name": "Women Black Ric Rac Lace Strappy Midi Dress",
+            "Brand": "Pink Paprika By SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/ab8d9f693c1b774c44a3b1b2815bd726",
+            "gender": "women"
+          },
+          {
+            "Style Code": "W17771089A",
+            "Category": "Skirts",
+            "Product Name": "Solid Pencil Skirt",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/5df49eab9492d26b3263d41bb3e72ca8",
+            "gender": "women"
+          },
+          {
+            "Style Code": "PCWSSCO7207",
+            "Category": "Other Sets",
+            "Product Name": "Ditsy Floral Co-Ord Set",
+            "Brand": "PINACOLADA",
+            "Image URL 1": "https://assets.catalogix.ai/d4947d555a14ece3efd051e76e81c1a9",
+            "gender": "women"
+          },
+          {
+            "Style Code": "W251232902D",
+            "Category": "Dresses",
+            "Product Name": "Solid A-Line Dress",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/20480edff70bc11663002e0f0192bb10",
+            "gender": "women"
+          },
+          {
+            "Style Code": "W202FDC1736A",
+            "Category": "Dresses",
+            "Product Name": "Solid Bodycon Dress",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/3f2699c0a1f992d9180dc6da927063d6",
+            "gender": "women"
+          },
+          {
+            "Style Code": "W244YL25306MHO",
+            "Category": "Dresses",
+            "Product Name": "Solid Bodycon Dress",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/0ad9c0c62f601e6f613f6bd47ab19fbe",
+            "gender": "women"
+          },
+          {
+            "Style Code": "GS-PRT-0147-BLK",
+            "Category": "Shirts",
+            "Product Name": "Men Black Satin Floral Printed Shirt",
+            "Brand": "Guns & Sons",
+            "Image URL 1": "https://assets.catalogix.ai/40d3a1f6fdb4412117455fca8c8192e5",
+            "gender": "men"
+          },
+          {
+            "Style Code": "ULSS23CM17-18-066",
+            "Category": "Other Sets",
+            "Product Name": "Uptownie Halter Neck Linen Top With Pants",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/0d26672711ea512b15e4bee77fa9e678",
+            "gender": "women"
+          },
+          {
+            "Style Code": "W34817175B",
+            "Category": "Dresses",
+            "Product Name": "Solid Fit and Flare Dress",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/ef0f92bae7e9d9132919bd67a82db6b5",
+            "gender": "women"
+          },
+          {
+            "Style Code": "W47829389B",
+            "Category": "Dresses",
+            "Product Name": "Solid Fit and Flare Dress",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/facc3116097bbff638df553a608373bb",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVa1000056",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Black Tiered Midi Dresses",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/128c1909986dc0b6f8c73a354e9d8a81",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ULSS24DR18-46-166",
+            "Category": "Dresses",
+            "Product Name": "Uptownie Stretchable One Shoulder Ruched Dress",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/424318cd0206515ae943efb1aaab90b4",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFDRSS12044",
+            "Category": "Dresses",
+            "Product Name": "Women Navy Blue Waist Cut-Out Midi Dress",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/726f115d16c66992781abfed1501772c",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFPANT50845",
+            "Category": "Trousers",
+            "Product Name": "Women Black Front Button Flared Bell Bottom Pants",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/dd3d03bc5e4c89a9c925774f31d8a776",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVa1000097",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Black Embroidered Strap Dress",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/e12036f731b7964d45b1938f8bc9869a",
+            "gender": "women"
+          },
+          {
+            "Style Code": "PCWSSDR7279",
+            "Category": "Dresses",
+            "Product Name": "Coil Maxi Dress",
+            "Brand": "PINACOLADA",
+            "Image URL 1": "https://assets.catalogix.ai/a264bb096fb9fe41dc51fa819c977b62",
+            "gender": "women"
+          },
+          {
+            "Style Code": "W393DM8699B",
+            "Category": "Skirts",
+            "Product Name": "Embellished A-Line Skirt",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/b9249d2dd9b95c3f39997b411377f042",
+            "gender": "women"
+          },
+          {
+            "Style Code": "CSWSSDR5084",
+            "Category": "Dresses",
+            "Product Name": "Women's Solid Dress With Cutout Detail",
+            "Brand": "PINACOLADA",
+            "Image URL 1": "https://assets.catalogix.ai/bbb6a77dfb5f4264f4e7f2915193bbd8",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ULSS25DR20-14-121",
+            "Category": "Dresses",
+            "Product Name": "Uptownie Stretchable Halter Neck Mini Skater Dress",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/695a8487eb37c4e882a54a68a86387e5",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ULSS24DR18-55-885",
+            "Category": "Dresses",
+            "Product Name": "Uptownie Stretchable Off-Shoulder Drape Dress",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/4b513bd3aa9d45d38ad743d3e58e7daf",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFDRSS12249",
+            "Category": "Dresses",
+            "Product Name": "Women Black Schiffli Square Neck Frill Hem Maxi Dress",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/74444b3a652f514de5804e23b27ae03b",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFDRSS1699",
+            "Category": "Dresses",
+            "Product Name": "Black Blazer Dress",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/306d9a08bcbb11cd1f7b43ac3a18d72a",
+            "gender": "women"
+          },
+          {
+            "Style Code": "TTJ6006251",
+            "Category": "Dresses",
+            "Product Name": "TOKYO TALKIES Women Stylish Black Geometric Dress",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/d404e5104d1b52f932a871a79bb36535",
+            "gender": "women"
+          },
+          {
+            "Style Code": "W018Y276",
+            "Category": "Tops",
+            "Product Name": "Solid Regular Top",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/e14767f4255fbe724df257a6113cf663",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ULSS24DR18-88-013",
+            "Category": "Dresses",
+            "Product Name": "Uptownie Stretchable Twisted Front Cut Out Dress",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/ea9d8be14b10ab3d6536bc330b43b925",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ULSS24TP18-07-874",
+            "Category": "Shirts",
+            "Product Name": "Uptownie Printed Tie-Up Full Sleeve Cotton Shirt",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/0c362e46a9baa94ac31bcd60d1cb3f70",
+            "gender": "women"
+          },
+          {
+            "Style Code": "W254ZK2434043",
+            "Category": "Tops",
+            "Product Name": "Printed Fitted Top",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/c0c61bf6ee708d0f238f20e838d4baba",
+            "gender": "women"
+          },
+          {
+            "Style Code": "W369J25TP197A",
+            "Category": "Tops",
+            "Product Name": "Solid Regular Top",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/1117a3f25ab8da6e930bfa405ec603d2",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWTB0155",
+            "Category": "Other Sets",
+            "Product Name": "Flora Striped Co-Ord Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/2b533c7fa96ec8d5d9a9fb48e486eb9d",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFDRSS11297",
+            "Category": "Dresses",
+            "Product Name": "Women White Square Neck Frill Hem Maxi Dress",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/655d06e25c153f84dd9e52b602eca227",
+            "gender": "women"
+          },
+          {
+            "Style Code": "TTJ6008883",
+            "Category": "Dresses",
+            "Product Name": "Tokyo Talkies Women Black Cutout Bow Mini Dress",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/2ec8b624f57b05f0261a62db53b78e43",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVCS000088",
+            "Category": "Other Sets",
+            "Product Name": "Vara By Vishudh Women Tan Off White  Printed Co-Ord Set With Boat Neck Crop Top And Palazzo",
+            "Brand": "Vara By Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/c448e0a4b9ffa98e4c7b53ebc54b300d",
+            "gender": "women"
+          },
+          {
+            "Style Code": "PCWSSDR7122",
+            "Category": "Dresses",
+            "Product Name": "Satin Slip Dress",
+            "Brand": "PINACOLADA",
+            "Image URL 1": "https://assets.catalogix.ai/e5c2b3c592fc448340d6ee81ae7455c3",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFPANT5535",
+            "Category": "Trousers",
+            "Product Name": "Women Black Wide Leg Pants",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/36a471cf9db87613b0e4dafd95f2aad2",
+            "gender": "women"
+          },
+          {
+            "Style Code": "TTJ6008899",
+            "Category": "Dresses",
+            "Product Name": "Tokyo Talkies Ruched One Shoulder Puff Sleeve Bodycon Dress",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/963b605bc544ccab684b11d6c34bc0a0",
+            "gender": "women"
+          },
+          {
+            "Style Code": "TTJ6012638",
+            "Category": "Dresses",
+            "Product Name": "Tokyo Talkies Halter Neck Embellished A-Line Dress",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/b604e75aec89cd5259890c03c4108ad5",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ULSS25DR20-31-013",
+            "Category": "Dresses",
+            "Product Name": "Uptownie Stretchable Polka Mini Dress With In-Built Shorts",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/87a52c00542a42dca5872d8d41a1294a",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVa1000054",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Brown Tiered Midi Dresses",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/5143954de35505a697f1e94c4c7aeb22",
+            "gender": "women"
+          }
+        ]
+      }
+    ],
+    "last_updated": "2026-03-26T18:31:50.244Z"
+  },
+  "19": {
+    "events": [
+      {
+        "id": "fifa-world-cup-final_19_jul",
+        "title": "FIFA World Cup Final",
+        "date": "19 Jul 2026",
+        "genres": "Sports, Football, International, Celebration, Global Event",
+        "description": "The FIFA World Cup Final — the single most watched sporting event in human history — arrives, uniting billions of fans in the most electric 90 minutes on the planet as two nations battle for football's ultimate prize.",
+        "fashion_keywords": {
+          "reasoning": "FIFA World Cup Final is the absolute pinnacle of global sports fashion — genZScore 8-10. This is an order of magnitude bigger than the opener — by the Final, two months of football fever have built to a crescendo. The fashion energy is maximally charged — fans are more passionate, more dressed, and more invested than any other sporting event. The Final crowd in Bengaluru will be split between supporters of the two finalist nations — the stadium screening venues, sports bars, and fan parks will be seas of two specific national colors. July in Bengaluru is monsoon season — this is a critical fashion consideration. The weather is wet, humid, and unpredictable — waterproof, quick-dry, and darker fabrics become relevant alongside the jersey culture. The monsoon context means lighter and water-resistant fabrics over heavy cotton. Jersey culture is at its absolute peak — the World Cup Final jersey is the most coveted sports fashion piece of the year. The GenZ crowd will style their national jerseys as complete fashion statements — layered, cropped, co-ordinated. Caps are essential — both for fan identity and monsoon protection. The Final night energy means the crowd dresses for a celebration that will happen either way — someone is lifting the trophy.",
+          "occasion": [
+            "special",
+            "party",
+            "casual",
+            "sports-event",
+            "global-moment",
+            "watch-party",
+            "finals-night"
+          ],
+          "activity": [
+            "athleisure",
+            "day-and-night",
+            "holiday",
+            "leisure-sport",
+            "football-screening",
+            "sports-bar",
+            "fan-gathering",
+            "festival-outdoor"
+          ],
+          "department": [
+            "men",
+            "women",
+            "unisex"
+          ],
+          "ethnicity": [
+            "western"
+          ],
+          "fit": [
+            "regular",
+            "relaxed",
+            "oversized",
+            "slim",
+            "loose"
+          ],
+          "style": [
+            "regular-fit",
+            "relaxed",
+            "over-sized",
+            "straight-fit",
+            "boxy",
+            "tapered",
+            "cargo"
+          ],
+          "pattern": [
+            "solid",
+            "color-block",
+            "printed",
+            "logo",
+            "statement-print",
+            "geometric",
+            "jersey-stripe",
+            "graphic-print",
+            "number-print",
+            "flag-print",
+            "national-flag-inspired"
+          ],
+          "color": [
+            "navy",
+            "white",
+            "blue",
+            "red",
+            "yellow",
+            "green",
+            "black",
+            "gold",
+            "sky-blue",
+            "multi",
+            "orange"
+          ],
+          "color_2": [
+            "gold",
+            "white",
+            "red",
+            "multi",
+            "silver",
+            "yellow",
+            "light-blue",
+            "black",
+            "cream",
+            "orange"
+          ],
+          "detail": [
+            "logo",
+            "pocket",
+            "elastic",
+            "panel",
+            "trim",
+            "ribbed",
+            "seam",
+            "stripe-detail",
+            "number-print",
+            "flag-detail",
+            "cargo-pocket",
+            "cap-with-logo",
+            "snapback-detail",
+            "waterproof-finish"
+          ],
+          "material": [
+            "polyester",
+            "100%-polyester",
+            "microfiber",
+            "nylon",
+            "spandex-blend",
+            "cotton-poly-blend",
+            "synthetic",
+            "nylon-elastane",
+            "quick-dry-fabric"
+          ],
+          "neckline": [
+            "crew",
+            "round",
+            "polo",
+            "v-neck",
+            "hooded",
+            "henley",
+            "collarless",
+            "baseball"
+          ],
+          "length": [
+            "hip",
+            "below-hip",
+            "above-knee",
+            "knee",
+            "ankle",
+            "waist"
+          ],
+          "hemline_style": [
+            "straight",
+            "elastic",
+            "cuffed",
+            "wide"
+          ],
+          "theme": [
+            "trendy",
+            "contemporary",
+            "novelty",
+            "sports-fashion",
+            "fan-culture",
+            "streetwear",
+            "global-pride"
+          ],
+          "surface_styling": "not-needed",
+          "treatment": [
+            "faded",
+            "stone-wash",
+            "raw"
+          ],
+          "distress": [
+            "no-distress",
+            "light"
+          ],
+          "transparency": [
+            "opaque"
+          ],
+          "jewellery_pattern": [
+            "plain",
+            "geometrical",
+            "circle-shape",
+            "twisted",
+            "star",
+            "abstract-pattern",
+            "flag-motif"
+          ],
+          "pendants_type": [
+            "no-pendant",
+            "stylised",
+            "medallion"
+          ],
+          "size_group": [
+            "regular",
+            "plus-size",
+            "kids"
+          ],
+          "preferred_categories": [
+            "T-shirts",
+            "Jerseys",
+            "Shirts",
+            "Shorts",
+            "Trousers",
+            "Sweatshirts",
+            "Jackets",
+            "Co-ords/Other Sets",
+            "Joggers",
+            "Tracksuits",
+            "Caps",
+            "Socks",
+            "Watches",
+            "Bags",
+            "Bracelets",
+            "Rings",
+            "Sunglasses",
+            "Raincoats",
+            "Windcheaters"
+          ],
+          "avoid_categories": [
+            "Sarees",
+            "Lehenga Choli",
+            "Ethnic Suits",
+            "Formal Suits",
+            "Sleepwear",
+            "Innerwear",
+            "Heavy Jewellery",
+            "Sequin Party Wear",
+            "Heavy Ethnic Wear",
+            "White Cotton Anything",
+            "Suede or Heavy Fabric Pieces"
+          ],
+          "style_notes": "FIFA World Cup Final is the biggest sports fashion moment of the year — and July monsoon Bengaluru adds a critical practical layer. The national team jersey is the non-negotiable hero piece — by the Final, only two national palettes dominate the room — and the crowd splits dramatically between them. Style the jersey as a complete fashion statement — men layering the national jersey over a longline tee with cargo shorts or slim joggers in national colors. Women tying or cropping the jersey over a matching team-color co-ord. The monsoon consideration is real — quick-dry polyester jerseys are actually the perfect fabric for a July screening — they handle humidity and any rain beautifully. A lightweight windcheater or waterproof jacket in team colors is a uniquely relevant layering piece for July — functional AND fan-appropriate. Darker national colors — navy, deep blue, dark red — photograph better in monsoon light than light pastels. Caps are essential — both for fan identity AND monsoon drizzle protection — a waterproof or quick-dry cap in national team colors. Socks in flag colors. Tracksuits in team color palettes are a strong monsoon-appropriate catalog direction. Kids national jerseys are the most heartwarming category — World Cup Final is the ultimate family viewing event. The trophy lift moment means the crowd needs to be ready to celebrate — dress for the entire emotional arc of 90 minutes plus extra time plus penalties."
+        },
+        "marketing": {
+          "app": {
+            "headline": "World Cup Final. Every Minute Counts.",
+            "lines": [
+              "National jersey styled right — the Final deserves your best.",
+              "Quick-dry, fan-ready, monsoon-proof — Final night sorted.",
+              "Dress for 90 minutes, extra time, and the trophy lift."
+            ]
+          },
+          "social_media": {
+            "headline": "Final Whistle. Final Fit. World Cup.",
+            "lines": [
+              "POV: FIFA World Cup Final and your national jersey co-ord just became the most important outfit of the year.",
+              "World Cup Final fit check — national jersey layered, team cap on, quick-dry everything, monsoon-ready, trophy-ready. Let's go."
+            ]
+          }
+        },
+        "products": [
+          {
+            "Style Code": "HLCE000067",
+            "Category": "Other Sets",
+            "Product Name": "HIGHLANDER High Neck Sweatshirt & Trouser",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/e4c5b903f08c1d1e33244f6a208f9477",
+            "gender": "men"
+          },
+          {
+            "Style Code": "HLCE000056",
+            "Category": "Other Sets",
+            "Product Name": "HIGHLANDER Colourblocked Mock Collar Jacket With Slim Fit Trousers",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/c198ff8c5a928746683bf2d9778c592a",
+            "gender": "men"
+          },
+          {
+            "Style Code": "0925-RX-SW-05-01",
+            "Category": "Sweatshirts",
+            "Product Name": "The Indian Garage Co Men Relaxed Fit Graphic Crew Neck Full Sleeves Sweatshirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/d9484e69b1e58b199e268d22e97d358b",
+            "gender": "men"
+          },
+          {
+            "Style Code": "TTCE001357",
+            "Category": "Other Sets",
+            "Product Name": "Tokyo Talkies Pure Cotton Round Neck Top With Shorts",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/4408f0a3e39c42e5cd8d158ec4d9cf06",
+            "gender": "women"
+          },
+          {
+            "Style Code": "HLCE000057",
+            "Category": "Other Sets",
+            "Product Name": "HIGHLANDER Colorblocked Long Sleeves Sweatshirt & Trouser",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/121a1337d3ebf8d8224955efb682d463",
+            "gender": "men"
+          },
+          {
+            "Style Code": "ATTS000043",
+            "Category": "T-shirts",
+            "Product Name": "Tokyo Talkies Typography Printed Cotton Relaxed Fit T-shirt",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/a03806d6b582ff22446b87da4d484a93",
+            "gender": "women"
+          },
+          {
+            "Style Code": "GS-PRT-0037-PGN",
+            "Category": "Shirts",
+            "Product Name": "Men Premium Green Relaxed Fit Cuban Collar Printed Cotton Linen Casual Shirt",
+            "Brand": "Guns & Sons",
+            "Image URL 1": "https://assets.catalogix.ai/700fd0882cfa7d04f34c84bc9006de74",
+            "gender": "men"
+          },
+          {
+            "Style Code": "0525-TSRNST-05A",
+            "Category": "T-shirts",
+            "Product Name": "The Indian Garage Co Men Relaxed Fit Graphic Crew Neck Half Sleeves T-Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/e2799a026192c974215550dbbbc52a02",
+            "gender": "men"
+          },
+          {
+            "Style Code": "0525-TSRNST-10A",
+            "Category": "T-shirts",
+            "Product Name": "The Indian Garage Co Men Relaxed Fit Graphic Crew Neck Half Sleeves T-Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/581445be3c99430128b19c899c84b416",
+            "gender": "men"
+          },
+          {
+            "Style Code": "0525-TSRNST-26A",
+            "Category": "T-shirts",
+            "Product Name": "The Indian Garage Co Men Relaxed Fit Graphic Crew Neck Half Sleeves T-Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/faa5437d27a2a4ab4e465e8f2f64b04b",
+            "gender": "men"
+          },
+          {
+            "Style Code": "0925-OS-HD-01-01",
+            "Category": "Sweatshirts",
+            "Product Name": "The Indian Garage Co Men Oversized Fit Solid Hooded Full Sleeves Sweatshirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/fc02a83db8191c5cec6fc4ac47668d44",
+            "gender": "men"
+          },
+          {
+            "Style Code": "ATP0000008",
+            "Category": "Trousers",
+            "Product Name": "Tokyo Talkies Women Striped Relaxed Fit Mid-Rise Trousers",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/2cce6e9e28981c1404dcb35611eb347d",
+            "gender": "women"
+          },
+          {
+            "Style Code": "HLTS003177",
+            "Category": "T-shirts",
+            "Product Name": "HIGHLANDER Blue Typography Printed  Relaxed Fit T-shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/f4978a36eddced2a640238d691141050",
+            "gender": "men"
+          },
+          {
+            "Style Code": "HLTS004584",
+            "Category": "T-shirts",
+            "Product Name": "HIGHLANDER Men Sports Graphic Round Neck T-shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/6af9bc96df58c0c8079298a986afbc86",
+            "gender": "men"
+          },
+          {
+            "Style Code": "LMTS009341",
+            "Category": "T-shirts",
+            "Product Name": "LOCOMOTIVE Premium Round Neck Oversized T Shirt",
+            "Brand": "LOCOMOTIVE",
+            "Image URL 1": "https://assets.catalogix.ai/a44db83c7620ac648cd5dde875c5c728",
+            "gender": "men"
+          },
+          {
+            "Style Code": "HLCE000033",
+            "Category": "Other Sets",
+            "Product Name": "HIGHLANDER Raglan Neck Sweatshirt With Jogger Co-Ords",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/c946e2dba6ffebbc6111a5153d9cf1cb",
+            "gender": "men"
+          },
+          {
+            "Style Code": "0925-OS-HD-02-02",
+            "Category": "Sweatshirts",
+            "Product Name": "The Indian Garage Co Men Oversized Fit Applique Hooded Full Sleeves Sweatshirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/72cbc69e53d1dac5a9e626e127f534a4",
+            "gender": "men"
+          },
+          {
+            "Style Code": "23771-0488",
+            "Category": "T-shirts",
+            "Product Name": "Women's Printed Regular Fit T-Shirt",
+            "Brand": "Levi's",
+            "Image URL 1": "https://assets.catalogix.ai/8512948dd7390b1cde046fee4864fb8e",
+            "gender": "women"
+          },
+          {
+            "Style Code": "23771-0522",
+            "Category": "T-shirts",
+            "Product Name": "Women's Printed Regular Fit T-Shirt",
+            "Brand": "Levi's",
+            "Image URL 1": "https://assets.catalogix.ai/dec6f05fbc5b343fe3e7686885d7d5ee",
+            "gender": "women"
+          },
+          {
+            "Style Code": "87177-0243",
+            "Category": "T-shirts",
+            "Product Name": "Women's Typographic Regular Fit T-Shirt",
+            "Brand": "Levi's",
+            "Image URL 1": "https://assets.catalogix.ai/9a0c83e105fd7a3e22eb97e8f1427215",
+            "gender": "women"
+          },
+          {
+            "Style Code": "M0067-WHT-OHT",
+            "Category": "T-shirts",
+            "Product Name": "Why are we here ?: White printed oversized Tshirt",
+            "Brand": "Recast",
+            "Image URL 1": "https://assets.catalogix.ai/173abd28e4308056f1a52c8cd14778f8",
+            "gender": "men"
+          },
+          {
+            "Style Code": "M0102-AQA-OHT",
+            "Category": "T-shirts",
+            "Product Name": "It's chaos, Be Kind : Men's Relaxed fit Aqua Blue T-Shirts",
+            "Brand": "Recast",
+            "Image URL 1": "https://assets.catalogix.ai/467451c9d4558f39c6d5b33334562aaf",
+            "gender": "men"
+          },
+          {
+            "Style Code": "M0122-AQA-OHT",
+            "Category": "T-shirts",
+            "Product Name": "You mad ? Stay Mad : Men's Relaxed fit Aqua Blue T-Shirts",
+            "Brand": "Recast",
+            "Image URL 1": "https://assets.catalogix.ai/937c515513117d8e9657a93d51f7b159",
+            "gender": "men"
+          },
+          {
+            "Style Code": "MMS134727XXWTOPBLACK",
+            "Category": "Tops",
+            "Product Name": "WOMENS PRINT BOXYFIT TOP",
+            "Brand": "MINUTE MIRTH",
+            "Image URL 1": "https://assets.catalogix.ai/1d97e9df2f829b43001d40d73d6e8c95",
+            "gender": "women"
+          },
+          {
+            "Style Code": "MMS134728XXWTOPBLACK",
+            "Category": "Tops",
+            "Product Name": "WOMENS PRINT BOXYFIT TOP",
+            "Brand": "MINUTE MIRTH",
+            "Image URL 1": "https://assets.catalogix.ai/fbb1a9e628c30ffb1f74c00f20015c24",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVCS000120",
+            "Category": "Other Sets",
+            "Product Name": "Vara By Vishudh Women Blue Cotton Slub Printed Co-ord set",
+            "Brand": "Vara By Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/307931d7f9d05f2ea1d7c7c8c1bf3aa8",
+            "gender": "women"
+          },
+          {
+            "Style Code": "GS-SOL-0015-SBL",
+            "Category": "Shirts",
+            "Product Name": "Men Slub Sky Blue Regular Fit Mandarin Collar Solid Cotton Linen Casual Shirt",
+            "Brand": "Guns & Sons",
+            "Image URL 1": "https://assets.catalogix.ai/3ef29018e3a735252c0cb0257e8cd53d",
+            "gender": "men"
+          },
+          {
+            "Style Code": "0525-TSRNST-22B",
+            "Category": "T-shirts",
+            "Product Name": "The Indian Garage Co Men Relaxed Fit Applique Crew Neck Half Sleeves T-Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/9f80eb08643e41c6cb3466ce0b5814fc",
+            "gender": "men"
+          },
+          {
+            "Style Code": "0525-TSRNST-25A",
+            "Category": "T-shirts",
+            "Product Name": "The Indian Garage Co Men Relaxed Fit Embroided Crew Neck Half Sleeves T-Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/8b2bf33f5745055758522ca36f42d23a",
+            "gender": "men"
+          },
+          {
+            "Style Code": "0525-TSRNST-28C",
+            "Category": "T-shirts",
+            "Product Name": "The Indian Garage Co Men Relaxed Fit Graphic Crew Neck Half Sleeves T-Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/79acfa172eb1530a94044c8773745c03",
+            "gender": "men"
+          },
+          {
+            "Style Code": "1224-TSBXTX-03-06",
+            "Category": "T-shirts",
+            "Product Name": "The Indian Garage Co Men Boxy Fit Textured Crew Neck Full Sleeves T-Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/89432ab47c42025547129f5ff8ab2ebf",
+            "gender": "men"
+          },
+          {
+            "Style Code": "HLTS003559",
+            "Category": "T-shirts",
+            "Product Name": "HIGHLANDER Typography Printed Drop Shoulder Oversized T-shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/45f525bb5f7845bccd2cc93f833ee7e5",
+            "gender": "unisex"
+          },
+          {
+            "Style Code": "HLTS004055",
+            "Category": "T-shirts",
+            "Product Name": "HIGHLANDER Popcorn Structured Oversized T-shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/7f0857615372cf6fb98b07f1f09e0c79",
+            "gender": "men"
+          },
+          {
+            "Style Code": "HLTS004059",
+            "Category": "T-shirts",
+            "Product Name": "HIGHLANDER Popcorn Structured Drop-Shoulder Sleeves Oversized T-shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/f36ff2679c81e281168ede03663d3894",
+            "gender": "men"
+          },
+          {
+            "Style Code": "LMSH017635",
+            "Category": "Shirts",
+            "Product Name": "LOCOMOTIVE Men Premiums Printed Casual Slim Fit Shirt",
+            "Brand": "LOCOMOTIVE",
+            "Image URL 1": "https://assets.catalogix.ai/1a32c9aaafe050f25ade1dade6fcd921",
+            "gender": "men"
+          },
+          {
+            "Style Code": "TTP0000852",
+            "Category": "Trousers",
+            "Product Name": "Tokyo Talkies Women Green Pleated Peg Trousers",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/6267b30e4d1b4582641051b00b6d613c",
+            "gender": "women"
+          },
+          {
+            "Style Code": "0058G-0001",
+            "Category": "T-shirts",
+            "Product Name": "Men's Pure Cotton Slim Fit Polo T-shirt",
+            "Brand": "Levi's",
+            "Image URL 1": "https://assets.catalogix.ai/6a311dfe3945b6df5218bf9fe131bfca",
+            "gender": "men"
+          },
+          {
+            "Style Code": "0524-BEP-181-15",
+            "Category": "T-shirts",
+            "Product Name": "0524-BEP-181-15-Pacific Green-XL",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/dd4ecd247d6aa291236bccba274c4f85",
+            "gender": "men"
+          },
+          {
+            "Style Code": "ATZ4000016",
+            "Category": "Trousers",
+            "Product Name": "Tokyo Talkies Women High-Rise Straight Fit Cargos Trousers",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/528805504e488940ba7be9192b57a948",
+            "gender": "women"
+          },
+          {
+            "Style Code": "W34817175B",
+            "Category": "Dresses",
+            "Product Name": "Solid Fit and Flare Dress",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/ef0f92bae7e9d9132919bd67a82db6b5",
+            "gender": "women"
+          }
+        ]
+      }
+    ],
+    "last_updated": "2026-03-26T18:26:21.947Z"
+  },
+  "24": {
+    "events": [
+      {
+        "id": "international-self-care-day_24_jul",
+        "title": "International Self-Care Day",
+        "date": "24 Jul 2026",
+        "genres": "Wellness, Self-Care, Pop Culture, Gen Z Cultural Moment, Lifestyle",
+        "description": "International Self-Care Day — a globally recognized moment to pause, reset, and invest in yourself through rest, skincare, movement, nourishment, and the kind of intentional slowness that Gen Z has turned into an art form.",
+        "fashion_keywords": {
+          "reasoning": "International Self-Care Day is a peak Gen Z wellness cultural moment — genZScore 7-9. The crowd is entirely self-care-native GenZ who has turned loungewear, skincare routines, and rest aesthetics into a full visual language. July in Bengaluru is peak monsoon — this adds a cozy, indoor, rainy-day dimension that makes self-care dressing even more relevant. The fashion energy splits into two distinct but equally valid modes: (1) indoors self-care — the most elevated loungewear, cozy sets, soft textures, plush fabrics, and the kind of outfit that looks incredible on a rainy window sill; (2) outdoor self-care — a café walk, a yoga session, or a wellness activity — clean girl athleisure, linen basics, elevated casual. The monsoon cozy factor makes this the most relevant loungewear fashion moment of the year. Colors are soft, calming, and skin-toned — lavender, blush, cream, sage, soft grey, warm white, dusty rose. Fabrics are the story — modal, ribbed cotton, fleece, satin — textures that feel as good as they look. Nail care is critically relevant — self-care day and nail aesthetics are inseparable for GenZ.",
+          "occasion": [
+            "casual",
+            "sleep-and-loungewear",
+            "special",
+            "wellness-moment",
+            "self-care-day"
+          ],
+          "activity": [
+            "loungewear",
+            "sleepwear",
+            "athleisure",
+            "walking",
+            "day-and-night",
+            "brunch",
+            "yoga-session",
+            "cozy-indoors",
+            "monsoon-day"
+          ],
+          "department": [
+            "women",
+            "men",
+            "unisex"
+          ],
+          "ethnicity": [
+            "western"
+          ],
+          "fit": [
+            "relaxed",
+            "oversized",
+            "regular",
+            "loose",
+            "slim"
+          ],
+          "style": [
+            "relaxed",
+            "over-sized",
+            "boxy",
+            "regular-fit",
+            "straight-fit",
+            "loose-fit",
+            "wide-leg"
+          ],
+          "pattern": [
+            "solid",
+            "self-design",
+            "ribbed",
+            "textured",
+            "minimal-print",
+            "color-block",
+            "abstract",
+            "knit-pattern",
+            "satin-finish",
+            "floral"
+          ],
+          "color": [
+            "lavender",
+            "blush",
+            "cream",
+            "sage",
+            "soft-grey",
+            "white",
+            "dusty-rose",
+            "mint",
+            "warm-white",
+            "off-white",
+            "powder-blue"
+          ],
+          "color_2": [
+            "cream",
+            "white",
+            "gold",
+            "off-white",
+            "beige",
+            "lavender",
+            "pink",
+            "silver",
+            "multi",
+            "sage"
+          ],
+          "detail": [
+            "ribbed",
+            "knit",
+            "pocket",
+            "button",
+            "tie-up",
+            "elastic",
+            "trim",
+            "seam",
+            "ruffle",
+            "lace",
+            "bow",
+            "plush-texture",
+            "satin-trim",
+            "shirring"
+          ],
+          "material": [
+            "cotton",
+            "100%-cotton",
+            "cotton-blend",
+            "rayon",
+            "viscose-rayon",
+            "polyester",
+            "cotton-viscose-blend",
+            "fleece",
+            "knit-fabric",
+            "spandex-blend",
+            "satin",
+            "modal",
+            "bamboo-cotton",
+            "microfiber"
+          ],
+          "neckline": [
+            "crew",
+            "round",
+            "v-neck",
+            "turtleneck",
+            "mock",
+            "hooded",
+            "spaghetti-straps",
+            "halter",
+            "sweetheart",
+            "cowl",
+            "boat",
+            "half-zip"
+          ],
+          "length": [
+            "above-waist",
+            "waist",
+            "hip",
+            "above-knee",
+            "knee",
+            "ankle",
+            "mid-calf",
+            "floor"
+          ],
+          "hemline_style": [
+            "straight",
+            "ribbed",
+            "elastic",
+            "wide",
+            "asymmetric",
+            "high-low",
+            "flared"
+          ],
+          "theme": [
+            "contemporary",
+            "trendy",
+            "dainty",
+            "nature",
+            "love",
+            "cozy-aesthetic",
+            "quiet-luxury",
+            "clean-girl",
+            "self-care-aesthetic"
+          ],
+          "surface_styling": "not-needed",
+          "treatment": "not-needed",
+          "distress": "not-needed",
+          "transparency": [
+            "opaque",
+            "semi-sheer"
+          ],
+          "jewellery_pattern": [
+            "plain",
+            "heart",
+            "infinity",
+            "circle-shape",
+            "dainty-minimal",
+            "floral",
+            "twisted",
+            "star",
+            "butterfly"
+          ],
+          "pendants_type": [
+            "no-pendant",
+            "solitaire",
+            "crystal",
+            "stylised",
+            "locket"
+          ],
+          "size_group": [
+            "regular",
+            "plus-size"
+          ],
+          "preferred_categories": [
+            "Co-ords/Other Sets",
+            "Sweatshirts",
+            "T-shirts",
+            "Tops",
+            "Shorts",
+            "Trousers",
+            "Dresses",
+            "Onesies",
+            "Sweaters",
+            "Shrugs",
+            "Necklaces",
+            "Earrings",
+            "Rings",
+            "Bracelets",
+            "Nail Care",
+            "Nail Makeup Accessories",
+            "Bags",
+            "Watches",
+            "Glasses",
+            "Mobile & Telephone Accessories"
+          ],
+          "avoid_categories": [
+            "Sarees",
+            "Lehenga Choli",
+            "Ethnic Suits",
+            "Formal Suits",
+            "Sequin Party Wear",
+            "Heavy Embellished Pieces",
+            "Heavy Ethnic Jewellery",
+            "Sportswear",
+            "Caps",
+            "Loud Graphic Prints",
+            "Dark Grunge Pieces"
+          ],
+          "style_notes": "International Self-Care Day in July monsoon Bengaluru is the most legitimate loungewear fashion moment of the year — the rain outside makes the cozy inside outfit non-negotiable. The ribbed matching co-ord set is the hero category — a soft lavender or cream ribbed set that works equally for an indoor self-care day and a quick café run between rain showers. The onesie is uniquely relevant today — the most committed self-care outfit in the catalog. Satin pyjama sets in blush or cream reference the luxury self-care aesthetic that GenZ has made aspirational — satin is no longer just sleepwear, it's a whole mood. Women in a soft ribbed co-ord in sage or lavender, a flowy satin pyjama set in blush, or an oversized cotton shirt dress in cream — all valid self-care dressing. Men in a soft ribbed set or an oversized fleece co-ord in neutral tones — the most comfortable and intentional dressing of the year. A soft shrug or oversized cardigan adds the perfect monsoon layer. Dainty minimal jewellery — a thin gold chain, a small heart pendant, a simple ring — because even on self-care day the details matter. Nail care is the beauty hero of the day — nail accessories and nail care products are the single most relevant beauty catalog category. Mobile accessories — phone cases, stands — are uniquely relevant for a day of journaling, Netflix, and self-care content. The overall energy is — dressed like the only appointment today is with yourself."
+        },
+        "marketing": {
+          "app": {
+            "headline": "Self-Care Day. The Cosiest Fit Wins.",
+            "lines": [
+              "Ribbed co-ords, satin sets, and a whole monsoon day to yourself.",
+              "Lavender loungewear and nail care — self-care sorted.",
+              "The only appointment today is with your most comfortable outfit."
+            ]
+          },
+          "social_media": {
+            "headline": "Rain Outside. Cosy Fit Inside. Self-Care Day.",
+            "lines": [
+              "POV: International Self-Care Day and your sage ribbed co-ord is the only decision you need to make today.",
+              "Self-care day fit check — soft textures, pastel tones, dainty jewels, nails done, rain outside, fully unbothered."
+            ]
+          }
+        },
+        "products": [
+          {
+            "Style Code": "HLSH013323",
+            "Category": "Shirts",
+            "Product Name": "HIGHLANDER Men White Slim Fit Printed Casual Shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/98e0fc7ce98b0b50e24744d538bbe1bc",
+            "gender": "men"
+          },
+          {
+            "Style Code": "HLTS004055",
+            "Category": "T-shirts",
+            "Product Name": "HIGHLANDER Popcorn Structured Oversized T-shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/7f0857615372cf6fb98b07f1f09e0c79",
+            "gender": "men"
+          },
+          {
+            "Style Code": "1224-TSBXTX-02-03",
+            "Category": "T-shirts",
+            "Product Name": "The Indian Garage Co Men Boxy Fit Textured Crew Neck Half Sleeves T-Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/2aa6311c79292290af6890271f58d33a",
+            "gender": "men"
+          },
+          {
+            "Style Code": "TTCE000334",
+            "Category": "Other Sets",
+            "Product Name": "Tokyo Talkies Checked Sleeveless Pure Cotton Crop Top With Trouser",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/33cdefb5c2c8ced863e2962f75d71b2b",
+            "gender": "women"
+          },
+          {
+            "Style Code": "TTTP007831",
+            "Category": "Tops",
+            "Product Name": "Tokyo Talkies Floral Printed Sweetheart Neck Crop Top",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/343e25374f1af6967456cf495ed48556",
+            "gender": "women"
+          },
+          {
+            "Style Code": "1224-PLJNSF-01B",
+            "Category": "T-shirts",
+            "Product Name": "The Indian Garage Co Men Slim Fit Textured Polo Neck Half Sleeves T-Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/33f0a5bce98bc4d9b3ed6e3de0cb6e78",
+            "gender": "men"
+          },
+          {
+            "Style Code": "HLTS002864",
+            "Category": "T-shirts",
+            "Product Name": "HIGHLANDER Popcorn Structured Oversized Tshirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/2f140a0bf41042a64bbdd3d53fc64e02",
+            "gender": "men"
+          },
+          {
+            "Style Code": "1224-TSRNOF-09A",
+            "Category": "T-shirts",
+            "Product Name": "The Indian Garage Co Men Oversized Fit Textured Crew Neck Half Sleeves T-Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/f07be657351075d4ea37786a31012a30",
+            "gender": "men"
+          },
+          {
+            "Style Code": "TCN-FIKONA-WH",
+            "Category": "T-shirts",
+            "Product Name": "FIKONA",
+            "Brand": "The Bear House",
+            "Image URL 1": "https://assets.catalogix.ai/c026e1be2c3c4868083009c2b0f990af",
+            "gender": "men"
+          },
+          {
+            "Style Code": "HMCE000013",
+            "Category": "Other Sets",
+            "Product Name": "HIGHLANDER Marvel Avengers Printed Cotton Shirt With Shorts Co-Ords",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/532060baf4b11f2e9ab597918a7948ac",
+            "gender": "men"
+          },
+          {
+            "Style Code": "TTCE001357",
+            "Category": "Other Sets",
+            "Product Name": "Tokyo Talkies Pure Cotton Round Neck Top With Shorts",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/4408f0a3e39c42e5cd8d158ec4d9cf06",
+            "gender": "women"
+          },
+          {
+            "Style Code": "HLTS004058",
+            "Category": "T-shirts",
+            "Product Name": "HIGHLANDER Round Neck Drop-Shoulder Sleeves Oversized Popcorn structured T-shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/3427c0a4e3882007a1e28a4502830234",
+            "gender": "men"
+          },
+          {
+            "Style Code": "HLTS004059",
+            "Category": "T-shirts",
+            "Product Name": "HIGHLANDER Popcorn Structured Drop-Shoulder Sleeves Oversized T-shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/f36ff2679c81e281168ede03663d3894",
+            "gender": "men"
+          },
+          {
+            "Style Code": "TTTP006974",
+            "Category": "Tops",
+            "Product Name": "Tokyo Talkies Blue Ruffles Crepe Top",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/6204ffe2f5550bec3e9d85a7adc704fb",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVSH000037",
+            "Category": "Shirts",
+            "Product Name": "Vara By Vishudh Women Tan Off White Printed Crop Shirt",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/853bd430ac82bc056b6f1cb5a5548e4f",
+            "gender": "women"
+          },
+          {
+            "Style Code": "1224-TSRNSFFS-01B",
+            "Category": "T-shirts",
+            "Product Name": "The Indian Garage Co Men Slim Fit Textured Crew Neck Full Sleeves T-Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/156025dd9afbff0c3241447a12ca09e3",
+            "gender": "men"
+          },
+          {
+            "Style Code": "87177-0246",
+            "Category": "T-shirts",
+            "Product Name": "Women's Typographic Regular Fit T-Shirt",
+            "Brand": "Levi's",
+            "Image URL 1": "https://assets.catalogix.ai/fdd197a9353a42ad826c1f24e36d2651",
+            "gender": "women"
+          },
+          {
+            "Style Code": "HLOT000084",
+            "Category": "T-shirts",
+            "Product Name": "HIGHLANDER Men Graphic Printed Graphic Print Others Round Neck Polyester Oversized T-Shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/75b78ea75ac240b432ccccf06fea853e",
+            "gender": "unisex"
+          },
+          {
+            "Style Code": "HLTS002177",
+            "Category": "T-shirts",
+            "Product Name": "HIGHLANDER Men White & Blue Printed Slim Fit Cotton T-shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/f49967a14ec5641f1738038002bb3789",
+            "gender": "men"
+          },
+          {
+            "Style Code": "HLTS003333",
+            "Category": "T-shirts",
+            "Product Name": "HIGHLANDER Unisex Graphic Printed Drop-Shoulder Sleeves Oversized T-shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/983bfd1c10bfda9c5961390172261fe8",
+            "gender": "unisex"
+          },
+          {
+            "Style Code": "M0069-WHT-OHT",
+            "Category": "T-shirts",
+            "Product Name": "Vaccation mode On: White printed oversized Tshirt",
+            "Brand": "Recast",
+            "Image URL 1": "https://assets.catalogix.ai/044fd8e9d1e7ab313f3601c8d50292ea",
+            "gender": "men"
+          },
+          {
+            "Style Code": "M0070-WHT-OHT",
+            "Category": "T-shirts",
+            "Product Name": "Just Chillin : White printed oversized Tshirt",
+            "Brand": "Recast",
+            "Image URL 1": "https://assets.catalogix.ai/343b770746aa2d5943e7208d44721493",
+            "gender": "men"
+          },
+          {
+            "Style Code": "MMS134723XXWTOPENG GREEN",
+            "Category": "Tops",
+            "Product Name": "WOMENS PRINT BOXYFIT TOP",
+            "Brand": "MINUTE MIRTH",
+            "Image URL 1": "https://assets.catalogix.ai/a14a94bd545557b5f8d202591af9d775",
+            "gender": "women"
+          },
+          {
+            "Style Code": "MMS134728XXWTOPWHITE",
+            "Category": "Tops",
+            "Product Name": "WOMENS PRINT BOXYFIT TOP",
+            "Brand": "MINUTE MIRTH",
+            "Image URL 1": "https://assets.catalogix.ai/5b8656a8da0d5161e3c77aec66b97424",
+            "gender": "women"
+          },
+          {
+            "Style Code": "MMS136246TJWTOPWHITE",
+            "Category": "Tops",
+            "Product Name": "WOMEN TJ PRINTED BOXYFIT TOP",
+            "Brand": "MINUTE MIRTH",
+            "Image URL 1": "https://assets.catalogix.ai/e66566ce2ce3dce6003f1273695b11bb",
+            "gender": "women"
+          },
+          {
+            "Style Code": "MMS136254PNWTOPWHITE",
+            "Category": "Tops",
+            "Product Name": "WOMEN PN PRINTED OVERSIZE TOP 01",
+            "Brand": "MINUTE MIRTH",
+            "Image URL 1": "https://assets.catalogix.ai/6ff564aba6d3322c5af19c76243be506",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SWT-KOI-WH",
+            "Category": "Sweatshirts",
+            "Product Name": "KOI",
+            "Brand": "The Bear House",
+            "Image URL 1": "https://assets.catalogix.ai/53aacea69b9748ead7f604f37d823c25",
+            "gender": "men"
+          },
+          {
+            "Style Code": "0225-TSNPCS-05-01",
+            "Category": "T-shirts",
+            "Product Name": "The Indian Garage Co Men Boxy Fit Textured Polo Neck Full Sleeves T-Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/1e2cb4ae0cd06e2862ac80dc7dacb61e",
+            "gender": "men"
+          },
+          {
+            "Style Code": "0525-TSRNST-22B",
+            "Category": "T-shirts",
+            "Product Name": "The Indian Garage Co Men Relaxed Fit Applique Crew Neck Half Sleeves T-Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/9f80eb08643e41c6cb3466ce0b5814fc",
+            "gender": "men"
+          },
+          {
+            "Style Code": "HLSH018996",
+            "Category": "Shirts",
+            "Product Name": "HIGHLANDER Men Dobby Textured Relaxed Shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/9631bc71f9bfc3d00c4a4f09e4ba45f6",
+            "gender": "men"
+          },
+          {
+            "Style Code": "LMSH017898",
+            "Category": "Shirts",
+            "Product Name": "LOCOMOTIVE Men Slim Fit Cutaway Collar Solid Cotton Formal Shirt",
+            "Brand": "LOCOMOTIVE",
+            "Image URL 1": "https://assets.catalogix.ai/70ba2f03ee72a55206662dc307442a41",
+            "gender": "men"
+          },
+          {
+            "Style Code": "LMSH017932",
+            "Category": "Shirts",
+            "Product Name": "LOCOMOTIVE Premium Men Jacquard Textured Occasion Shirt",
+            "Brand": "LOCOMOTIVE",
+            "Image URL 1": "https://assets.catalogix.ai/76022d9ec9250ab1ab7c1b6985478422",
+            "gender": "men"
+          },
+          {
+            "Style Code": "TTTP011688",
+            "Category": "Tops",
+            "Product Name": "TOKYO TALKIES Shirt Collar Cotton Top",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/b44cc67529642b8ca531ed00215e8003",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVSH000035",
+            "Category": "Shirts",
+            "Product Name": "Vara By Vishudh Women Off White Blue Printed Crop Shirt",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/faa1b7faa8502432e5c3a0e7487b6426",
+            "gender": "women"
+          },
+          {
+            "Style Code": "HLSH013531",
+            "Category": "Shirts",
+            "Product Name": "HIGHLANDER Men Blue Slim Fit Printed Casual Shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/b02d813341f708252b9af3d79908dbf8",
+            "gender": "men"
+          },
+          {
+            "Style Code": "HLSH021071",
+            "Category": "Shirts",
+            "Product Name": "HIGHLANDER Men Opaque Casual Relaxed Fit Shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/e275190918d5b1f613a27ab4ab9c0e87",
+            "gender": "men"
+          },
+          {
+            "Style Code": "HLTS004115",
+            "Category": "T-shirts",
+            "Product Name": "HIGHLANDER Unisex Abstract Printed Slim Fit T-shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/b4759107c3e5ef2a52f60a1c0056dcd1",
+            "gender": "unisex"
+          },
+          {
+            "Style Code": "HLTS002890",
+            "Category": "T-shirts",
+            "Product Name": "HIGHLANDER Men Popcorn Structured Slim Fit T-shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/d1aee8ffb0028db54284559ed7215106",
+            "gender": "men"
+          },
+          {
+            "Style Code": "HLV8001269",
+            "Category": "Shorts",
+            "Product Name": "HIGHLANDER Men Cotton Relaxed Fit Shorts",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/b22b5de0a25673e61b7a22153b9dd00c",
+            "gender": "men"
+          },
+          {
+            "Style Code": "ULSS24DR18-77-065",
+            "Category": "Dresses",
+            "Product Name": "Uptownie Stretchable Ribbed Side Cutout Dress",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/0ef2ea301442a7bdea89bb7fc054cf6a",
+            "gender": "women"
+          }
+        ]
+      }
+    ],
+    "last_updated": "2026-03-26T18:26:21.947Z"
+  },
+  "31": {
+    "events": [
+      {
+        "id": "spider-man-brand-new-day_31_jul",
+        "title": "Spider-Man: Brand New Day",
+        "date": "31 Jul 2026",
+        "genres": "Science Fiction, Action, Adventure, Superhero, Marvel",
+        "description": "Four years after No Way Home, Peter Parker lives completely alone — his identity erased from everyone he loves. A full-time Spider-Man in a New York that no longer knows his name, a strange physical evolution and a powerful new threat force him to confront what it truly means to be a hero with nothing left to lose.",
+        "fashion_keywords": {
+          "reasoning": "Spider-Man: Brand New Day is one of the most emotionally charged and culturally significant Marvel films — genZScore 8-10. The film's premise — isolation, identity erasure, starting over — resonates deeply with GenZ's emotional landscape and makes the fashion moment uniquely personal. The screening crowd is the most passionately dressed Spider-Man fan base in the world — people who grew up with Peter Parker as their emotional anchor. The fashion energy pulls from three directions: (1) Spider-Man's iconic red and blue color code — the most universally recognizable superhero palette; (2) the film's emotional tone — lonely New York streets, early morning city energy, urban casual with a melancholic edge; (3) Marvel streetwear fan culture — graphic tees, bold co-ords, hypebeast-adjacent Spider-Man merch styled as fashion. The 'Brand New Day' tagline opens a fresh start fashion angle — clean, new, and forward-looking. July in Bengaluru is peak monsoon — the screening is likely indoor, so the monsoon context affects fabric choices over silhouette. Red and blue remain the dominant palette — but the film's warmer amber and golden poster colors suggest a more nuanced approach — warm reds, rust, navy, and cream rather than primary-color cosplay.",
+          "occasion": [
+            "special",
+            "party",
+            "elevated",
+            "movie-premiere",
+            "screening-event"
+          ],
+          "activity": [
+            "day-and-night",
+            "movie-screening",
+            "fan-event",
+            "college-event",
+            "brunch"
+          ],
+          "department": [
+            "men",
+            "women",
+            "unisex"
+          ],
+          "ethnicity": [
+            "western"
+          ],
+          "fit": [
+            "regular",
+            "slim",
+            "oversized",
+            "relaxed"
+          ],
+          "style": [
+            "regular-fit",
+            "slim-fit",
+            "over-sized",
+            "straight-fit",
+            "boxy",
+            "cargo",
+            "wide-leg",
+            "tapered"
+          ],
+          "pattern": [
+            "solid",
+            "printed",
+            "statement-print",
+            "color-block",
+            "geometric",
+            "abstract",
+            "logo",
+            "graphic-print",
+            "web-inspired"
+          ],
+          "color": [
+            "red",
+            "navy",
+            "blue",
+            "black",
+            "white",
+            "rust",
+            "cream",
+            "indigo",
+            "maroon"
+          ],
+          "color_2": [
+            "blue",
+            "red",
+            "white",
+            "silver",
+            "multi",
+            "cream",
+            "navy",
+            "grey",
+            "orange"
+          ],
+          "detail": [
+            "logo",
+            "pocket",
+            "panel",
+            "seam",
+            "button",
+            "elastic",
+            "hood",
+            "cargo-pocket",
+            "strap",
+            "rivet"
+          ],
+          "material": [
+            "cotton",
+            "100%-cotton",
+            "polyester",
+            "denim",
+            "nylon",
+            "cotton-blend",
+            "cotton-poly-blend",
+            "spandex-blend",
+            "synthetic"
+          ],
+          "neckline": [
+            "crew",
+            "round",
+            "v-neck",
+            "hooded",
+            "baseball",
+            "mock",
+            "half-zip",
+            "turtleneck"
+          ],
+          "length": [
+            "hip",
+            "below-hip",
+            "above-knee",
+            "knee",
+            "ankle",
+            "waist"
+          ],
+          "hemline_style": [
+            "straight",
+            "cuffed",
+            "wide",
+            "elastic",
+            "asymmetric"
+          ],
+          "theme": [
+            "trendy",
+            "contemporary",
+            "novelty",
+            "fashion",
+            "streetwear",
+            "superhero-inspired",
+            "urban-lonely",
+            "fresh-start"
+          ],
+          "surface_styling": "not-needed",
+          "treatment": [
+            "faded",
+            "stone-wash",
+            "raw",
+            "ripped"
+          ],
+          "distress": [
+            "no-distress",
+            "light",
+            "moderate"
+          ],
+          "transparency": [
+            "opaque"
+          ],
+          "jewellery_pattern": [
+            "plain",
+            "geometrical",
+            "twisted",
+            "circle-shape",
+            "star",
+            "abstract-pattern",
+            "web-motif",
+            "chain-link"
+          ],
+          "pendants_type": [
+            "no-pendant",
+            "medallion",
+            "stylised",
+            "solitaire"
+          ],
+          "size_group": [
+            "regular",
+            "plus-size"
+          ],
+          "preferred_categories": [
+            "T-shirts",
+            "Shirts",
+            "Sweatshirts",
+            "Hoodies",
+            "Jackets",
+            "Trousers",
+            "Jeans",
+            "Shorts",
+            "Co-ords/Other Sets",
+            "Caps",
+            "Bags",
+            "Glasses",
+            "Necklaces",
+            "Bracelets",
+            "Rings",
+            "Earrings",
+            "Watches",
+            "Socks"
+          ],
+          "avoid_categories": [
+            "Sarees",
+            "Lehenga Choli",
+            "Ethnic Suits",
+            "Sleepwear",
+            "Innerwear",
+            "Heavy Ethnic Wear",
+            "Sequin Party Wear",
+            "Heavy Traditional Jewellery",
+            "Formal Suits"
+          ],
+          "style_notes": "Spider-Man: Brand New Day screening is the most emotionally personal Marvel fashion moment of 2026 — the red and blue of Peter Parker's world is the brief, but elevated beyond cosplay. Lead with a warm red and navy color-block co-ord, a graphic Spider-Man tee styled with dark denim and a clean navy overshirt, or a rust and cream combination that references the film's warm amber poster palette. Women in a red or navy co-ord with white accents, or a bold color-blocked dress in Spider-Man's palette — red top, navy bottom, white detail. Men in a clean navy hoodie with red accents and slim black trousers, or a graphic Spider-Man tee with well-fitted dark jeans and a structured navy jacket. The 'Brand New Day' fresh start angle makes clean, crisp dressing with a single bold color pop highly relevant — a white base with a single red or blue statement piece captures the film's emotional reset energy beautifully. Caps are essential for the fan crowd. July monsoon means quick-dry fabrics and avoiding white that shows rain. Web-motif jewellery and red or blue beaded accessories are uniquely relevant for the Spider-Man fan community. Socks with Spider-Man web prints — the most subtle and catalog-appropriate fan nod."
+        },
+        "marketing": {
+          "app": {
+            "headline": "Brand New Day. Fresh Start. New Fit.",
+            "lines": [
+              "Red, navy, and the weight of a city no one remembers you saved.",
+              "Peter Parker started over. Your wardrobe can too.",
+              "The most emotionally devastating Marvel film deserves your most intentional outfit."
+            ]
+          },
+          "social_media": {
+            "headline": "New York Forgot Him. His Fit Remembers.",
+            "lines": [
+              "Spider-Man erased himself from everyone's memory but wore red and blue anyway. Respect the commitment.",
+              "Brand New Day dress code — red and navy, clean silhouette, one bold color pop. A fresh start never looked this good. 🕷️❤️"
+            ]
+          }
+        },
+        "products": [
+          {
+            "Style Code": "W17771089A",
+            "Category": "Skirts",
+            "Product Name": "Solid Pencil Skirt",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/5df49eab9492d26b3263d41bb3e72ca8",
+            "gender": "women"
+          },
+          {
+            "Style Code": "W34817175B",
+            "Category": "Dresses",
+            "Product Name": "Solid Fit and Flare Dress",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/ef0f92bae7e9d9132919bd67a82db6b5",
+            "gender": "women"
+          },
+          {
+            "Style Code": "W202FDC1736A",
+            "Category": "Dresses",
+            "Product Name": "Solid Bodycon Dress",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/3f2699c0a1f992d9180dc6da927063d6",
+            "gender": "women"
+          },
+          {
+            "Style Code": "GS-PRT-0147-BLK",
+            "Category": "Shirts",
+            "Product Name": "Men Black Satin Floral Printed Shirt",
+            "Brand": "Guns & Sons",
+            "Image URL 1": "https://assets.catalogix.ai/40d3a1f6fdb4412117455fca8c8192e5",
+            "gender": "men"
+          },
+          {
+            "Style Code": "ULSS24DR18-88-013",
+            "Category": "Dresses",
+            "Product Name": "Uptownie Stretchable Twisted Front Cut Out Dress",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/ea9d8be14b10ab3d6536bc330b43b925",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ULSS24DR18-55-885",
+            "Category": "Dresses",
+            "Product Name": "Uptownie Stretchable Off-Shoulder Drape Dress",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/4b513bd3aa9d45d38ad743d3e58e7daf",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ULSS25DR20-14-121",
+            "Category": "Dresses",
+            "Product Name": "Uptownie Stretchable Halter Neck Mini Skater Dress",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/695a8487eb37c4e882a54a68a86387e5",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ATTS000043",
+            "Category": "T-shirts",
+            "Product Name": "Tokyo Talkies Typography Printed Cotton Relaxed Fit T-shirt",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/a03806d6b582ff22446b87da4d484a93",
+            "gender": "women"
+          },
+          {
+            "Style Code": "HLTS003256",
+            "Category": "T-shirts",
+            "Product Name": "HIGHLANDER Typography Printed Relaxed Fit Sports T-shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/1d334b46cf28410123d23f75476153b0",
+            "gender": "men"
+          },
+          {
+            "Style Code": "TTJ6006251",
+            "Category": "Dresses",
+            "Product Name": "TOKYO TALKIES Women Stylish Black Geometric Dress",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/d404e5104d1b52f932a871a79bb36535",
+            "gender": "women"
+          },
+          {
+            "Style Code": "W17773159D",
+            "Category": "Skirts",
+            "Product Name": "Solid Pencil Skirt",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/03ec400e6c65b9e80c802b691aee724b",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ULSS23CM17-18-066",
+            "Category": "Other Sets",
+            "Product Name": "Uptownie Halter Neck Linen Top With Pants",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/0d26672711ea512b15e4bee77fa9e678",
+            "gender": "women"
+          },
+          {
+            "Style Code": "0425-SHSTCL-06-02",
+            "Category": "Shirts",
+            "Product Name": "The Indian Garage Co Men Slim Fit Embellishment Cutaway Collar Full Sleeves Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/3eb0419fddf6f213c24f8dd74251da1d",
+            "gender": "men"
+          },
+          {
+            "Style Code": "W193E24B0022013",
+            "Category": "Tops",
+            "Product Name": "Embellished Regular Top",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/532e3e7d29ad37d126c459eded707195",
+            "gender": "women"
+          },
+          {
+            "Style Code": "W254ZK2434043",
+            "Category": "Tops",
+            "Product Name": "Printed Fitted Top",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/c0c61bf6ee708d0f238f20e838d4baba",
+            "gender": "women"
+          },
+          {
+            "Style Code": "W369J25TP197A",
+            "Category": "Tops",
+            "Product Name": "Solid Regular Top",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/1117a3f25ab8da6e930bfa405ec603d2",
+            "gender": "women"
+          },
+          {
+            "Style Code": "CSMSSRT7975",
+            "Category": "Shirts",
+            "Product Name": "Solid Cuban Shirt",
+            "Brand": "Campus Sutra",
+            "Image URL 1": "https://assets.catalogix.ai/7c4ecc972106e8871180758a31764229",
+            "gender": "men"
+          },
+          {
+            "Style Code": "SFJMPS8078",
+            "Category": "Jumpsuits",
+            "Product Name": "Maroon Layered Jumpsuit",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/c27e5f5793824326b8b04c61effd63b2",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ULSS24DR18-46-166",
+            "Category": "Dresses",
+            "Product Name": "Uptownie Stretchable One Shoulder Ruched Dress",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/424318cd0206515ae943efb1aaab90b4",
+            "gender": "women"
+          },
+          {
+            "Style Code": "TTJ6008883",
+            "Category": "Dresses",
+            "Product Name": "Tokyo Talkies Women Black Cutout Bow Mini Dress",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/2ec8b624f57b05f0261a62db53b78e43",
+            "gender": "women"
+          },
+          {
+            "Style Code": "WMD129640072514",
+            "Category": "Dresses",
+            "Product Name": "Green Square Halter Neck Dress",
+            "Brand": "Outzidr",
+            "Image URL 1": "https://cdn.shopify.com/s/files/1/0681/5386/8461/files/41615f34fd3e2473041353c1c3346e6d.jpg?v=1751888464",
+            "gender": "women"
+          },
+          {
+            "Style Code": "0625-SHSTFR-02-01",
+            "Category": "Shirts",
+            "Product Name": "The Indian Garage Co Men Slim Fit Vertical Striped Buttondown Collar Full Sleeves Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/23dd779c7f1a5113720de21801a72d0f",
+            "gender": "men"
+          },
+          {
+            "Style Code": "D248",
+            "Category": "Dresses",
+            "Product Name": "Women Shoulder Straps Side Slits A-Line Midi Dress",
+            "Brand": "House of Mira",
+            "Image URL 1": "https://assets.catalogix.ai/4505541e2430684f7c802b3df2552842",
+            "gender": "women"
+          },
+          {
+            "Style Code": "PCWSSDR009",
+            "Category": "Dresses",
+            "Product Name": "Blurry Butterfly Dress",
+            "Brand": "PINACOLADA",
+            "Image URL 1": "https://assets.catalogix.ai/98f9b5c66d4c2f2775346bb298fdb13b",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVSD000049",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Grey Green Embroidered A-Line Short Dress",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/14f98d69101729e102dbd0d3ce448482",
+            "gender": "women"
+          },
+          {
+            "Style Code": "0625-SHSTFR-01-01",
+            "Category": "Shirts",
+            "Product Name": "The Indian Garage Co Men Slim Fit Vertical Striped Cutaway Collar Full Sleeves Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/b14ed8fda1a483532cf398f8bd50d78b",
+            "gender": "men"
+          },
+          {
+            "Style Code": "TTJ6006805",
+            "Category": "Dresses",
+            "Product Name": "Tokyo Talkies Women Red Solid Dress",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/1ceeab3cea8ead5e86f2d356467fb968",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ULSS24DR18-03-086",
+            "Category": "Dresses",
+            "Product Name": "Uptownie Stretchable Halter Neck Hardware Dress",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/c308b7ac83ef46ac2ad04eae941f2714",
+            "gender": "women"
+          },
+          {
+            "Style Code": "HLCE000067",
+            "Category": "Other Sets",
+            "Product Name": "HIGHLANDER High Neck Sweatshirt & Trouser",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/e4c5b903f08c1d1e33244f6a208f9477",
+            "gender": "men"
+          },
+          {
+            "Style Code": "SFDRSS11426",
+            "Category": "Dresses",
+            "Product Name": "Women Red Double Breasted Blazer Dress",
+            "Brand": "SASSAFRAS worklyf",
+            "Image URL 1": "https://assets.catalogix.ai/0c9f2181983ebf0f9956a5eee0bdf8e9",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFDRSS12044",
+            "Category": "Dresses",
+            "Product Name": "Women Navy Blue Waist Cut-Out Midi Dress",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/726f115d16c66992781abfed1501772c",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVa1000097",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Black Embroidered Strap Dress",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/e12036f731b7964d45b1938f8bc9869a",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFDRSS10727",
+            "Category": "Dresses",
+            "Product Name": "Women Black One Shoulder Maxi Dress",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/a70d50c29b84589e5ead52d3bc230212",
+            "gender": "women"
+          },
+          {
+            "Style Code": "0325-SHTXCL-01-05",
+            "Category": "Shirts",
+            "Product Name": "The Indian Garage Co Men Slim Fit Textured Cutaway Collar Full Sleeves Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/1c846792c04f64eefeef38a75441efe2",
+            "gender": "men"
+          },
+          {
+            "Style Code": "0425-SHSTCL-05-01",
+            "Category": "Shirts",
+            "Product Name": "The Indian Garage Co Men Slim Fit Embellishment Cutaway Collar Full Sleeves Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/85f6a6c2d29464e5381861b5f3b9270b",
+            "gender": "men"
+          },
+          {
+            "Style Code": "0525-TSRNST-10A",
+            "Category": "T-shirts",
+            "Product Name": "The Indian Garage Co Men Relaxed Fit Graphic Crew Neck Half Sleeves T-Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/581445be3c99430128b19c899c84b416",
+            "gender": "men"
+          },
+          {
+            "Style Code": "0925-OS-HD-01-01",
+            "Category": "Sweatshirts",
+            "Product Name": "The Indian Garage Co Men Oversized Fit Solid Hooded Full Sleeves Sweatshirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/fc02a83db8191c5cec6fc4ac47668d44",
+            "gender": "men"
+          },
+          {
+            "Style Code": "23771-0488",
+            "Category": "T-shirts",
+            "Product Name": "Women's Printed Regular Fit T-Shirt",
+            "Brand": "Levi's",
+            "Image URL 1": "https://assets.catalogix.ai/8512948dd7390b1cde046fee4864fb8e",
+            "gender": "women"
+          },
+          {
+            "Style Code": "23771-0522",
+            "Category": "T-shirts",
+            "Product Name": "Women's Printed Regular Fit T-Shirt",
+            "Brand": "Levi's",
+            "Image URL 1": "https://assets.catalogix.ai/dec6f05fbc5b343fe3e7686885d7d5ee",
+            "gender": "women"
+          },
+          {
+            "Style Code": "87177-0242",
+            "Category": "T-shirts",
+            "Product Name": "Women's Typographic Regular Fit T-Shirt",
+            "Brand": "Levi's",
+            "Image URL 1": "https://assets.catalogix.ai/009bdfab30cfb81f0bfad39794ed6efc",
+            "gender": "women"
+          }
+        ]
+      }
+    ],
+    "last_updated": "2026-03-26T18:31:50.243Z"
+  }
+}

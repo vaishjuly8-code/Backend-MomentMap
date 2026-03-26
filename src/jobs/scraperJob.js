@@ -1,7 +1,8 @@
 "use strict";
 
 const cron = require("node-cron");
-const { runScraper } = require("../scrapers/bmsScraper");
+// const { runScraper } = require("../scrapers/bmsScraper");
+const runScraper = async () => console.log("⚠️ [ScraperJob] bmsScraper is currently missing. Skipping.");
 const { runTraktFetcher } = require("../scrapers/traktFetcher");
 const { runTmdbFetcher } = require("../scrapers/tmdbFetcher");
 

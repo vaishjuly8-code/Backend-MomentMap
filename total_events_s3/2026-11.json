@@ -1,0 +1,3559 @@
+{
+  "14": {
+    "events": [
+      {
+        "id": "childrens-day_14_nov",
+        "title": "Children's Day",
+        "date": "14 Nov 2026",
+        "genres": "Social, Cultural, Celebration, Education, Family",
+        "description": "Children's Day — celebrated on Pandit Nehru's birthday — a joyful day of school celebrations, performances, and the kind of unrestrained fun that reminds everyone that growing up is optional.",
+        "fashion_keywords": {
+          "reasoning": "Children's Day is a unique fashion moment — genZScore 5-7. The crowd is primarily school children being celebrated, teachers organizing events, and young adults embracing the nostalgia of childhood. The fashion energy splits into distinct contexts: (1) school children — bright, colorful, fun dressing that captures the joy of being a child; (2) teachers and college students — smart casual with a playful nod to the occasion; (3) GenZ adults celebrating with nostalgia — Y2K childhood references, cartoon prints, and the kind of playful dressing that reclaims childhood joy. November in Bengaluru is beautifully cool — perfect for fun layered dressing. The color palette is the most joyful and primary-color-forward of any non-festival day — bright reds, yellows, blues, greens, and multi-color combinations. Cartoon and character prints are uniquely relevant. Kids categories are the most important catalog driver today — this is the single most relevant day for the kids section. Fun, bright, comfortable ethnic and western pieces for children. Adults going nostalgic in playful prints and colors.",
+          "occasion": [
+            "casual",
+            "special",
+            "school-event",
+            "community-celebration",
+            "nostalgic"
+          ],
+          "activity": [
+            "day-and-night",
+            "school-event",
+            "college-event",
+            "holiday",
+            "brunch",
+            "leisure-sport"
+          ],
+          "department": [
+            "men",
+            "women",
+            "unisex"
+          ],
+          "ethnicity": [
+            "western",
+            "fusion",
+            "ethnic"
+          ],
+          "fit": [
+            "regular",
+            "relaxed",
+            "oversized",
+            "loose",
+            "slim"
+          ],
+          "style": [
+            "regular-fit",
+            "relaxed",
+            "over-sized",
+            "straight-fit",
+            "boxy",
+            "a-line",
+            "loose-fit",
+            "wide-leg"
+          ],
+          "pattern": [
+            "printed",
+            "solid",
+            "cartoon",
+            "character-based",
+            "color-block",
+            "abstract",
+            "geometric",
+            "floral",
+            "statement-print",
+            "graphic-print",
+            "stripes",
+            "checks",
+            "gingham"
+          ],
+          "color": [
+            "red",
+            "yellow",
+            "blue",
+            "green",
+            "orange",
+            "pink",
+            "multi",
+            "white",
+            "purple",
+            "teal",
+            "fuchsia"
+          ],
+          "color_2": [
+            "yellow",
+            "white",
+            "red",
+            "multi",
+            "orange",
+            "green",
+            "blue",
+            "pink",
+            "cream",
+            "gold"
+          ],
+          "detail": [
+            "button",
+            "pocket",
+            "tie-up",
+            "elastic",
+            "trim",
+            "ruffle",
+            "bow",
+            "embroidered",
+            "patch-detail",
+            "logo",
+            "cartoon-print",
+            "flower",
+            "ribbed"
+          ],
+          "material": [
+            "cotton",
+            "100%-cotton",
+            "cotton-blend",
+            "rayon",
+            "viscose-rayon",
+            "polyester",
+            "cotton-poly-blend",
+            "linen-blend",
+            "denim",
+            "knit-fabric"
+          ],
+          "neckline": [
+            "crew",
+            "round",
+            "v-neck",
+            "boat",
+            "hooded",
+            "polo",
+            "one-shoulder",
+            "halter",
+            "sweetheart",
+            "square",
+            "peter-pan-collar"
+          ],
+          "length": [
+            "above-knee",
+            "knee",
+            "mid-thigh",
+            "hip",
+            "ankle",
+            "below-knee",
+            "mid-calf"
+          ],
+          "hemline_style": [
+            "straight",
+            "flared",
+            "asymmetric",
+            "elastic",
+            "wide",
+            "bubble",
+            "high-low"
+          ],
+          "theme": [
+            "novelty",
+            "trendy",
+            "contemporary",
+            "love",
+            "nature",
+            "dainty",
+            "fashion",
+            "fun-vibrant",
+            "nostalgic-childhood"
+          ],
+          "surface_styling": "not-needed",
+          "treatment": [
+            "faded",
+            "stone-wash",
+            "raw"
+          ],
+          "distress": [
+            "no-distress",
+            "light"
+          ],
+          "transparency": [
+            "opaque"
+          ],
+          "jewellery_pattern": [
+            "plain",
+            "heart",
+            "butterfly",
+            "cartoon",
+            "circle-shape",
+            "star",
+            "floral",
+            "dainty-minimal",
+            "animal-based",
+            "teddy"
+          ],
+          "pendants_type": [
+            "no-pendant",
+            "solitaire",
+            "crystal",
+            "stylised"
+          ],
+          "size_group": [
+            "regular",
+            "plus-size",
+            "kids"
+          ],
+          "preferred_categories": [
+            "T-shirts",
+            "Tops",
+            "Dresses",
+            "Skirts",
+            "Shirts",
+            "Trousers",
+            "Shorts",
+            "Jeans",
+            "Co-ords/Other Sets",
+            "Sweatshirts",
+            "Jackets",
+            "Onesies",
+            "Ethnic Sets",
+            "Kurtis",
+            "Caps",
+            "Bags",
+            "Watches",
+            "Earrings",
+            "Necklaces",
+            "Bracelets",
+            "Rings",
+            "Socks",
+            "Mobile & Telephone Accessories"
+          ],
+          "avoid_categories": [
+            "Sarees",
+            "Lehenga Choli",
+            "Heavy Ethnic Suits",
+            "Sequin Clubwear",
+            "Formal Suits",
+            "Sleepwear",
+            "Innerwear",
+            "Heavy Ethnic Jewellery",
+            "Sportswear"
+          ],
+          "style_notes": "Children's Day is the most joyful and colorful non-festival dressing day of the year — bright, fun, and unapologetically playful. Kids categories are the absolute hero today — bright cotton T-shirts in primary colors, fun printed dresses, colorful ethnic sets for the post-Diwali festive mood, and onesies for the little ones. Cartoon and character-based prints are uniquely relevant — the most fun graphic tees and playful printed pieces in the catalog belong here. Teachers in smart casual with a playful color pop — a bright yellow or red piece in an otherwise smart outfit. GenZ adults going nostalgic — oversized cartoon-print tees, bright color-blocked co-ords, Y2K-inspired playful pieces that reference childhood aesthetics. The November Bengaluru cool weather makes layered fun dressing possible — a bright printed tee under a denim jacket, or a colorful co-ord with a fun cap. Caps in bright colors and fun prints. Cartoon and character jewellery — butterfly earrings, star pendants, teddy bear pieces. Fun printed socks. Small colorful bags. Mobile accessories in fun colors for the GenZ nostalgia crowd. The overall energy is — dressed like growing up was never really the plan."
+        },
+        "marketing": {
+          "app": {
+            "headline": "Children's Day. Growing Up Is Optional.",
+            "lines": [
+              "Bright colors, cartoon prints, and the most joyful catalog moment.",
+              "Little ones deserve the most colorful ethnic and western picks.",
+              "Your inner child called — it wants the fun graphic tee."
+            ]
+          },
+          "social_media": {
+            "headline": "Children's Day. Dress Like You Never Grew Up.",
+            "lines": [
+              "POV: Children's Day and you wore an oversized cartoon tee with bright co-ords and accidentally had the most fun you've had all year.",
+              "Children's Day — bright colors, cartoon prints, kids in their best ethnic sets, and every adult secretly wishing they could wear the onesie. 🎈"
+            ]
+          }
+        },
+        "products": [
+          {
+            "Style Code": "TTCE000334",
+            "Category": "Other Sets",
+            "Product Name": "Tokyo Talkies Checked Sleeveless Pure Cotton Crop Top With Trouser",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/33cdefb5c2c8ced863e2962f75d71b2b",
+            "gender": "women"
+          },
+          {
+            "Style Code": "GS-PRT-0037-PGN",
+            "Category": "Shirts",
+            "Product Name": "Men Premium Green Relaxed Fit Cuban Collar Printed Cotton Linen Casual Shirt",
+            "Brand": "Guns & Sons",
+            "Image URL 1": "https://assets.catalogix.ai/700fd0882cfa7d04f34c84bc9006de74",
+            "gender": "men"
+          },
+          {
+            "Style Code": "TTSH002417",
+            "Category": "Shirts",
+            "Product Name": "Tokyo Talkies Women Floral Printed Casual Shirt",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/e313a44c99eadf96d23ce6ffab9d405b",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVCS000120",
+            "Category": "Other Sets",
+            "Product Name": "Vara By Vishudh Women Blue Cotton Slub Printed Co-ord set",
+            "Brand": "Vara By Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/307931d7f9d05f2ea1d7c7c8c1bf3aa8",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVa1000054",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Brown Tiered Midi Dresses",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/5143954de35505a697f1e94c4c7aeb22",
+            "gender": "women"
+          },
+          {
+            "Style Code": "W251232902D",
+            "Category": "Dresses",
+            "Product Name": "Solid A-Line Dress",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/20480edff70bc11663002e0f0192bb10",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFSETS9820",
+            "Category": "Other Sets",
+            "Product Name": "Women Blue Mughal Print Crop Top With Straight Pants",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/77b898d20af0304e9028fa8b3febc3f4",
+            "gender": "women"
+          },
+          {
+            "Style Code": "TTCE001357",
+            "Category": "Other Sets",
+            "Product Name": "Tokyo Talkies Pure Cotton Round Neck Top With Shorts",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/4408f0a3e39c42e5cd8d158ec4d9cf06",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVCS000118",
+            "Category": "Other Sets",
+            "Product Name": "Vara By Vishudh Women Yellow Cotton Slub Printed Co-ord set",
+            "Brand": "Vara By Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/b290f3de6bc25190f5abe87e2502b998",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVCS000119",
+            "Category": "Other Sets",
+            "Product Name": "Vara By Vishudh Women Pink Cotton Slub Printed Co-ord set",
+            "Brand": "Vara By Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/0a62d56dfcb1ec8443219c4ef150c9cd",
+            "gender": "women"
+          },
+          {
+            "Style Code": "TTJ6009481",
+            "Category": "Dresses",
+            "Product Name": "Tokyo Talkies Floral Printed Puff Sleeves A-Line Dress",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/dec18cf6170a83d7529e3ab556f3687a",
+            "gender": "women"
+          },
+          {
+            "Style Code": "TTTP007831",
+            "Category": "Tops",
+            "Product Name": "Tokyo Talkies Floral Printed Sweetheart Neck Crop Top",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/343e25374f1af6967456cf495ed48556",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ULSS24DR18-77-065",
+            "Category": "Dresses",
+            "Product Name": "Uptownie Stretchable Ribbed Side Cutout Dress",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/0ef2ea301442a7bdea89bb7fc054cf6a",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVSD000037",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Grey Green Embroidered Short Dress",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/ebf01d51131aaabb252a3474ad101af1",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VNa1004076",
+            "Category": "Dresses",
+            "Product Name": "Vishudh Bohemian Print A-Line Midi Dress",
+            "Brand": "Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/7b9815865b84397c6a2658c73e6868cf",
+            "gender": "women"
+          },
+          {
+            "Style Code": "0525-TSRNST-05A",
+            "Category": "T-shirts",
+            "Product Name": "The Indian Garage Co Men Relaxed Fit Graphic Crew Neck Half Sleeves T-Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/e2799a026192c974215550dbbbc52a02",
+            "gender": "men"
+          },
+          {
+            "Style Code": "HLTS003177",
+            "Category": "T-shirts",
+            "Product Name": "HIGHLANDER Blue Typography Printed  Relaxed Fit T-shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/f4978a36eddced2a640238d691141050",
+            "gender": "men"
+          },
+          {
+            "Style Code": "HLTS004300",
+            "Category": "T-shirts",
+            "Product Name": "HIGHLANDER Typography Puff Printed Round Neck Oversized T-shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/af2eb3847aef8eacd9111df8b9e66b2a",
+            "gender": "men"
+          },
+          {
+            "Style Code": "HLTS004314",
+            "Category": "T-shirts",
+            "Product Name": "HIGHLANDER Men Graphic Printed Graphic Print Others Round Neck Cotton Oversized T-Shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/54b160468ba89415306dfaa82d983431",
+            "gender": "men"
+          },
+          {
+            "Style Code": "HLTS004584",
+            "Category": "T-shirts",
+            "Product Name": "HIGHLANDER Men Sports Graphic Round Neck T-shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/6af9bc96df58c0c8079298a986afbc86",
+            "gender": "men"
+          },
+          {
+            "Style Code": "M0102-AQA-OHT",
+            "Category": "T-shirts",
+            "Product Name": "It's chaos, Be Kind : Men's Relaxed fit Aqua Blue T-Shirts",
+            "Brand": "Recast",
+            "Image URL 1": "https://assets.catalogix.ai/467451c9d4558f39c6d5b33334562aaf",
+            "gender": "men"
+          },
+          {
+            "Style Code": "M0122-AQA-OHT",
+            "Category": "T-shirts",
+            "Product Name": "You mad ? Stay Mad : Men's Relaxed fit Aqua Blue T-Shirts",
+            "Brand": "Recast",
+            "Image URL 1": "https://assets.catalogix.ai/937c515513117d8e9657a93d51f7b159",
+            "gender": "men"
+          },
+          {
+            "Style Code": "MMS135092LTMTSTDIRTY PINK",
+            "Category": "T-shirts",
+            "Product Name": "MENS LT PRINTED HS RAGLAN T-SHIRT",
+            "Brand": "MINUTE MIRTH",
+            "Image URL 1": "https://assets.catalogix.ai/bcf607f2aab544f644639f18be16e21a",
+            "gender": "men"
+          },
+          {
+            "Style Code": "MMS136175TJMTSTGREEN",
+            "Category": "T-shirts",
+            "Product Name": "MEN'S TJ PRINTED REGULAR FIT T-SHIRT 4",
+            "Brand": "MINUTE MIRTH",
+            "Image URL 1": "https://assets.catalogix.ai/e2bb13e7797c7361fb26c7574451e19d",
+            "gender": "men"
+          },
+          {
+            "Style Code": "MMS136254PNWTOPWHITE",
+            "Category": "Tops",
+            "Product Name": "WOMEN PN PRINTED OVERSIZE TOP 01",
+            "Brand": "MINUTE MIRTH",
+            "Image URL 1": "https://assets.catalogix.ai/6ff564aba6d3322c5af19c76243be506",
+            "gender": "women"
+          },
+          {
+            "Style Code": "MMS136635AVMTSTRED",
+            "Category": "T-shirts",
+            "Product Name": "MENS AV PRINT OVERSIZE T-SHIRT",
+            "Brand": "MINUTE MIRTH",
+            "Image URL 1": "https://assets.catalogix.ai/ffbece205d63a479b41a9b44c880f88b",
+            "gender": "men"
+          },
+          {
+            "Style Code": "SFDRSS1857",
+            "Category": "Dresses",
+            "Product Name": "Yellow Ditsy Floral Wrap Skater Dress",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/e3c6bbadec4c019d7ec60d2cdf8ec3c9",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVa1000064",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Green Tiered Short Dresses",
+            "Brand": "Vara By Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/a69aae64a901640352f3e9bbf7a7097c",
+            "gender": "women"
+          },
+          {
+            "Style Code": "HLCE000067",
+            "Category": "Other Sets",
+            "Product Name": "HIGHLANDER High Neck Sweatshirt & Trouser",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/e4c5b903f08c1d1e33244f6a208f9477",
+            "gender": "men"
+          },
+          {
+            "Style Code": "VVCS000087",
+            "Category": "Other Sets",
+            "Product Name": "Vara By Vishudh Women Off White Black  Printed Co-Ord Set With Boat Neck Crop Top And Palazzo",
+            "Brand": "Vara By Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/7f38575b9070bf36b948c860c74a79f5",
+            "gender": "women"
+          },
+          {
+            "Style Code": "TTTP008826",
+            "Category": "Tops",
+            "Product Name": "Tokyo Talkies Floral Printed Bell Sleeve Blouson Crop Top",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/fbafeea8d2847cbadea6f22e018af118",
+            "gender": "women"
+          },
+          {
+            "Style Code": "WMD129640072514",
+            "Category": "Dresses",
+            "Product Name": "Green Square Halter Neck Dress",
+            "Brand": "Outzidr",
+            "Image URL 1": "https://cdn.shopify.com/s/files/1/0681/5386/8461/files/41615f34fd3e2473041353c1c3346e6d.jpg?v=1751888464",
+            "gender": "women"
+          },
+          {
+            "Style Code": "JHD0423MGPL19",
+            "Category": "Sweatshirts",
+            "Product Name": "Juneberry Solid Regular Hoodie",
+            "Brand": "Juneberry",
+            "Image URL 1": "https://assets.catalogix.ai/7d83b02a2538b0b2eefe33c3d0f0e7f0",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVa1000055",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Green Tiered Midi Dresses",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/fa7bed1411f5ea255179255bc331a31d",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFSETS95881",
+            "Category": "Other Sets",
+            "Product Name": "Women Dull Pink Front Button Top With Paperback Waist Pants",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/4b1e7f5a7f9d2e3c62fa905b052d7457",
+            "gender": "women"
+          },
+          {
+            "Style Code": "0324-ZFHDR-208-A",
+            "Category": "Dresses",
+            "Product Name": "0324-ZFHDR-208-A-Skyway-L",
+            "Brand": "Freehand",
+            "Image URL 1": "https://assets.catalogix.ai/6400409ca03033ae074e33b405df1c55",
+            "gender": "women"
+          },
+          {
+            "Style Code": "HLTS003256",
+            "Category": "T-shirts",
+            "Product Name": "HIGHLANDER Typography Printed Relaxed Fit Sports T-shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/1d334b46cf28410123d23f75476153b0",
+            "gender": "men"
+          },
+          {
+            "Style Code": "TTJ6007610",
+            "Category": "Dresses",
+            "Product Name": "Tokyo Talkies Green Floral Printed Cut-Out Fit & Flare Mini Dress",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/514b213d6fa920f1faa64adafc4a8147",
+            "gender": "women"
+          },
+          {
+            "Style Code": "TTJ6007822",
+            "Category": "Dresses",
+            "Product Name": "Tokyo Talkies Ruffled Floral Mini A-Line Dress",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/6343747b6a912264db8d5af0b96d53f4",
+            "gender": "women"
+          },
+          {
+            "Style Code": "GS-PRT-0039-TBL",
+            "Category": "Shirts",
+            "Product Name": "Men Premium Teal Relaxed Fit Cuban Collar Printed Cotton Linen Casual Shirt",
+            "Brand": "Guns & Sons",
+            "Image URL 1": "https://assets.catalogix.ai/75f5cdc97e09ab3743d0e7901410e461",
+            "gender": "men"
+          }
+        ]
+      }
+    ],
+    "last_updated": "2026-03-26T18:26:21.947Z"
+  },
+  "20": {
+    "events": [
+      {
+        "id": "the-hunger-games-sunrise-on-the-reaping_20_nov",
+        "title": "The Hunger Games: Sunrise on the Reaping",
+        "date": "20 Nov 2026",
+        "genres": "Science Fiction, Action, Adventure, Post-Apocalyptic, Dystopian",
+        "description": "Return to Panem 24 years before Katniss Everdeen — the 50th Hunger Games, the Second Quarter Quell, where the rules change and the stakes double. A new generation of tributes faces a Capitol more brutal and creative in its cruelty than ever before.",
+        "fashion_keywords": {
+          "reasoning": "The Hunger Games: Sunrise on the Reaping is one of the most culturally significant YA franchise films of 2026 — genZScore 8-9. The Hunger Games has one of the most fashion-forward and politically charged aesthetics in cinema — the Capitol's maximalist excess versus the Districts' austere survival dressing creates a uniquely rich fashion binary. The screening crowd is overwhelmingly GenZ — deeply invested in the franchise's themes of rebellion, identity, and resistance. The poster colors — pale sage grey-green and dark warm brown — perfectly capture the film's pre-dawn reaping aesthetic. Character and world fashion references: (1) District tributes — the most emotionally resonant direction, dark earth tones, worn denim, practical layers, survival aesthetic; (2) Capitol fashion — the most maximally experimental direction, bold colors, avant-garde silhouettes, theatrical accessories — for fans who dress for the villain's world; (3) Haymitch Abernathy (the central character of this prequel) — a younger, rougher District 12 aesthetic, worn and working-class but with an underlying defiance. November in Bengaluru is the most pleasant weather — perfect for the dark layered dystopian dressing this film inspires. The rebellion angle resonates strongly with the GenZ political consciousness — dressing as resistance is a deeply on-brand fashion moment.",
+          "occasion": [
+            "special",
+            "elevated",
+            "movie-premiere",
+            "screening-event",
+            "fan-event",
+            "cultural-moment"
+          ],
+          "activity": [
+            "day-and-night",
+            "movie-screening",
+            "fan-event",
+            "college-event",
+            "brunch"
+          ],
+          "department": [
+            "men",
+            "women",
+            "unisex"
+          ],
+          "ethnicity": [
+            "western"
+          ],
+          "fit": [
+            "regular",
+            "slim",
+            "oversized",
+            "relaxed",
+            "loose"
+          ],
+          "style": [
+            "regular-fit",
+            "over-sized",
+            "straight-fit",
+            "boxy",
+            "cargo",
+            "relaxed",
+            "wide-leg",
+            "slim-fit",
+            "tapered"
+          ],
+          "pattern": [
+            "solid",
+            "color-block",
+            "printed",
+            "abstract",
+            "minimal-print",
+            "textured",
+            "checks",
+            "statement-print",
+            "graphic-print",
+            "color-block"
+          ],
+          "color": [
+            "charcoal-grey",
+            "dark-green",
+            "olive",
+            "black",
+            "navy",
+            "cream",
+            "rust",
+            "brown",
+            "deep-red",
+            "sage",
+            "maroon"
+          ],
+          "color_2": [
+            "gold",
+            "silver",
+            "cream",
+            "orange",
+            "multi",
+            "tan",
+            "black",
+            "rust",
+            "off-white",
+            "grey"
+          ],
+          "detail": [
+            "button",
+            "pocket",
+            "cargo-pocket",
+            "panel",
+            "seam",
+            "trim",
+            "overlap",
+            "hood",
+            "elastic",
+            "rivet",
+            "lace-up-detail",
+            "double-pocket",
+            "patch-detail"
+          ],
+          "material": [
+            "cotton",
+            "100%-cotton",
+            "denim",
+            "linen",
+            "linen-blend",
+            "cotton-linen-blend",
+            "rayon",
+            "cotton-blend",
+            "wool-blend",
+            "leather",
+            "synthetic",
+            "canvas",
+            "khadi"
+          ],
+          "neckline": [
+            "crew",
+            "round",
+            "v-neck",
+            "hooded",
+            "turtleneck",
+            "mock",
+            "henley",
+            "boat",
+            "button-down",
+            "half-zip"
+          ],
+          "length": [
+            "hip",
+            "below-hip",
+            "above-knee",
+            "knee",
+            "ankle",
+            "mid-calf",
+            "waist"
+          ],
+          "hemline_style": [
+            "straight",
+            "cuffed",
+            "wide",
+            "asymmetric",
+            "raw-hem",
+            "fringed"
+          ],
+          "theme": [
+            "contemporary",
+            "dark-academia",
+            "novelty",
+            "fashion",
+            "dark-aesthetic",
+            "dystopian-survival",
+            "rebellion-coded",
+            "nature",
+            "streetwear"
+          ],
+          "surface_styling": "not-needed",
+          "treatment": [
+            "faded",
+            "stone-wash",
+            "raw",
+            "distressed",
+            "ripped",
+            "worn"
+          ],
+          "distress": [
+            "light",
+            "moderate",
+            "heavy"
+          ],
+          "transparency": [
+            "opaque",
+            "semi-sheer"
+          ],
+          "jewellery_pattern": [
+            "plain",
+            "geometrical",
+            "twisted",
+            "circle-shape",
+            "abstract-pattern",
+            "arrow-motif",
+            "chain-link",
+            "textured-design",
+            "star"
+          ],
+          "pendants_type": [
+            "no-pendant",
+            "medallion",
+            "stylised",
+            "amulet",
+            "solitaire"
+          ],
+          "size_group": [
+            "regular",
+            "plus-size"
+          ],
+          "preferred_categories": [
+            "T-shirts",
+            "Shirts",
+            "Sweatshirts",
+            "Hoodies",
+            "Jackets",
+            "Blazers",
+            "Trousers",
+            "Jeans",
+            "Shorts",
+            "Co-ords/Other Sets",
+            "Suits",
+            "Caps",
+            "Tote Bags",
+            "Bags",
+            "Glasses",
+            "Necklaces",
+            "Bracelets",
+            "Rings",
+            "Earrings",
+            "Watches",
+            "Socks",
+            "Boots"
+          ],
+          "avoid_categories": [
+            "Sarees",
+            "Lehenga Choli",
+            "Heavy Ethnic Suits",
+            "Sequin Party Wear",
+            "Sleepwear",
+            "Innerwear",
+            "Heavy Traditional Jewellery",
+            "Bright Festive Colors",
+            "Heavy Embellished Pieces"
+          ],
+          "style_notes": "Hunger Games: Sunrise on the Reaping screening is the most politically charged and dystopian-coded fashion moment of November — two completely distinct dressing directions both work brilliantly. District survival aesthetic — the most emotionally resonant and catalog-translatable direction. Dark earth tones, worn denim, and practical layering in charcoal, olive, and deep brown capture District 12's aesthetic without looking like a costume. A worn dark denim jacket over a plain dark tee with cargo trousers — the Haymitch Abernathy tribute look for the modern Bengaluru screening crowd. Women in an oversized dark olive jacket with straight-fit distressed dark jeans or a dark earth-tone co-ord with minimal jewellery — the district girl who won't be broken. Arrow motif and mockingjay-adjacent jewellery — simple arrow pendants, minimal chain necklaces, plain rings — are the most franchise-coded accessories. Capitol maximalism direction — for fans who dress for the excess rather than the resistance. Bold, theatrical, and avant-garde — a striking color-blocked blazer in unexpected combinations, theatrical accessories, and the kind of dressing that says 'I belong in the Capitol and I know it.' November Bengaluru cool makes the full dark layered dystopian look genuinely comfortable — heavy denim, canvas jackets, and wool-blend pieces all work beautifully. Distressed and worn denim is the most catalog-relevant fabric treatment for this film. The rebellion energy is the through-line — dressed like the odds are never in your favor but your outfit definitely is."
+        },
+        "marketing": {
+          "app": {
+            "headline": "The Reaping Is Here. Dress For It.",
+            "lines": [
+              "District earth tones or Capitol maximalism — Panem has two dress codes.",
+              "Dark olive, worn denim, arrow jewels — the Hunger Games aesthetic is back.",
+              "November cool was made for the most dystopian screening of the year."
+            ]
+          },
+          "social_media": {
+            "headline": "These Games Are Going To Be Different. So Is The Outfit.",
+            "lines": [
+              "Hunger Games screening dress code — District survival layers or Capitol excess. There is no in-between in Panem and there shouldn't be in your wardrobe either.",
+              "May the odds be ever in your favor — and may your dark olive cargo jacket be the most intentional thing in the screening room. Sunrise on the Reaping, November 20th. 🏹🔥"
+            ]
+          }
+        },
+        "products": [
+          {
+            "Style Code": "ULSS23CM17-18-066",
+            "Category": "Other Sets",
+            "Product Name": "Uptownie Halter Neck Linen Top With Pants",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/0d26672711ea512b15e4bee77fa9e678",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ULSS24DR18-88-013",
+            "Category": "Dresses",
+            "Product Name": "Uptownie Stretchable Twisted Front Cut Out Dress",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/ea9d8be14b10ab3d6536bc330b43b925",
+            "gender": "women"
+          },
+          {
+            "Style Code": "W17771089A",
+            "Category": "Skirts",
+            "Product Name": "Solid Pencil Skirt",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/5df49eab9492d26b3263d41bb3e72ca8",
+            "gender": "women"
+          },
+          {
+            "Style Code": "0425-SHSTCL-06-02",
+            "Category": "Shirts",
+            "Product Name": "The Indian Garage Co Men Slim Fit Embellishment Cutaway Collar Full Sleeves Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/3eb0419fddf6f213c24f8dd74251da1d",
+            "gender": "men"
+          },
+          {
+            "Style Code": "W17773159D",
+            "Category": "Skirts",
+            "Product Name": "Solid Pencil Skirt",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/03ec400e6c65b9e80c802b691aee724b",
+            "gender": "women"
+          },
+          {
+            "Style Code": "W34817175B",
+            "Category": "Dresses",
+            "Product Name": "Solid Fit and Flare Dress",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/ef0f92bae7e9d9132919bd67a82db6b5",
+            "gender": "women"
+          },
+          {
+            "Style Code": "GS-SOL-0029-GRY",
+            "Category": "Shirts",
+            "Product Name": "Men Chambray Grey Regular Fit Button Down Collar Solid Cotton Casual Shirt",
+            "Brand": "Guns & Sons",
+            "Image URL 1": "https://assets.catalogix.ai/8f802f67748a4cb3a6141cb745d76c17",
+            "gender": "men"
+          },
+          {
+            "Style Code": "VVSD000049",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Grey Green Embroidered A-Line Short Dress",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/14f98d69101729e102dbd0d3ce448482",
+            "gender": "women"
+          },
+          {
+            "Style Code": "GS-PRT-0147-BLK",
+            "Category": "Shirts",
+            "Product Name": "Men Black Satin Floral Printed Shirt",
+            "Brand": "Guns & Sons",
+            "Image URL 1": "https://assets.catalogix.ai/40d3a1f6fdb4412117455fca8c8192e5",
+            "gender": "men"
+          },
+          {
+            "Style Code": "W202FDC1736A",
+            "Category": "Dresses",
+            "Product Name": "Solid Bodycon Dress",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/3f2699c0a1f992d9180dc6da927063d6",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ATTS000043",
+            "Category": "T-shirts",
+            "Product Name": "Tokyo Talkies Typography Printed Cotton Relaxed Fit T-shirt",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/a03806d6b582ff22446b87da4d484a93",
+            "gender": "women"
+          },
+          {
+            "Style Code": "WMD129640072514",
+            "Category": "Dresses",
+            "Product Name": "Green Square Halter Neck Dress",
+            "Brand": "Outzidr",
+            "Image URL 1": "https://cdn.shopify.com/s/files/1/0681/5386/8461/files/41615f34fd3e2473041353c1c3346e6d.jpg?v=1751888464",
+            "gender": "women"
+          },
+          {
+            "Style Code": "CSMSSRT7975",
+            "Category": "Shirts",
+            "Product Name": "Solid Cuban Shirt",
+            "Brand": "Campus Sutra",
+            "Image URL 1": "https://assets.catalogix.ai/7c4ecc972106e8871180758a31764229",
+            "gender": "men"
+          },
+          {
+            "Style Code": "SFDRSS12044",
+            "Category": "Dresses",
+            "Product Name": "Women Navy Blue Waist Cut-Out Midi Dress",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/726f115d16c66992781abfed1501772c",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFDRSS12272",
+            "Category": "Dresses",
+            "Product Name": "Women Black Washed Denim Tube Dress",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/08a43d813c0bf37302b0131414b59760",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFPANT50845",
+            "Category": "Trousers",
+            "Product Name": "Women Black Front Button Flared Bell Bottom Pants",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/dd3d03bc5e4c89a9c925774f31d8a776",
+            "gender": "women"
+          },
+          {
+            "Style Code": "1124-SHFLST-01-01",
+            "Category": "Shirts",
+            "Product Name": "The Indian Garage Co Men Slim Fit Floral Cutaway Collar Full Sleeves Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/2f7d6ea8cd17adc102db079d74a21735",
+            "gender": "men"
+          },
+          {
+            "Style Code": "0125-SHDBCL-02-01",
+            "Category": "Shirts",
+            "Product Name": "The Indian Garage Co Men Slim Fit Textured Cutaway Collar Full Sleeves Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/0a61e182a202dc537e26559114bf80de",
+            "gender": "men"
+          },
+          {
+            "Style Code": "CSWSSDR5084",
+            "Category": "Dresses",
+            "Product Name": "Women's Solid Dress With Cutout Detail",
+            "Brand": "PINACOLADA",
+            "Image URL 1": "https://assets.catalogix.ai/bbb6a77dfb5f4264f4e7f2915193bbd8",
+            "gender": "women"
+          },
+          {
+            "Style Code": "HLSH008878",
+            "Category": "Shirts",
+            "Product Name": "Highlander Olive Green Slim Fit Casual Shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/fa6c76149c72a7989eea529f272a2e4e",
+            "gender": "men"
+          },
+          {
+            "Style Code": "SFJMPS8078",
+            "Category": "Jumpsuits",
+            "Product Name": "Maroon Layered Jumpsuit",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/c27e5f5793824326b8b04c61effd63b2",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ULSS24DR18-55-885",
+            "Category": "Dresses",
+            "Product Name": "Uptownie Stretchable Off-Shoulder Drape Dress",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/4b513bd3aa9d45d38ad743d3e58e7daf",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ULSS25DR20-14-121",
+            "Category": "Dresses",
+            "Product Name": "Uptownie Stretchable Halter Neck Mini Skater Dress",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/695a8487eb37c4e882a54a68a86387e5",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFDRSS1699",
+            "Category": "Dresses",
+            "Product Name": "Black Blazer Dress",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/306d9a08bcbb11cd1f7b43ac3a18d72a",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVa1000054",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Brown Tiered Midi Dresses",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/5143954de35505a697f1e94c4c7aeb22",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVa1000097",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Black Embroidered Strap Dress",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/e12036f731b7964d45b1938f8bc9869a",
+            "gender": "women"
+          },
+          {
+            "Style Code": "GS-SOL-0013-YLW",
+            "Category": "Shirts",
+            "Product Name": "Men Slub Yellow Regular Fit Spread Collar Solid Cotton Linen Casual Shirt",
+            "Brand": "Guns & Sons",
+            "Image URL 1": "https://assets.catalogix.ai/9cae6b65b7fe30a38c9201e5ebd6a8e6",
+            "gender": "men"
+          },
+          {
+            "Style Code": "LMSH016909",
+            "Category": "Shirts",
+            "Product Name": "LOCOMOTIVE Premium Satin Solid Occasion Shirt",
+            "Brand": "LOCOMOTIVE",
+            "Image URL 1": "https://assets.catalogix.ai/f7013c0a7e5ef43b2634258d12b2b702",
+            "gender": "men"
+          },
+          {
+            "Style Code": "LMSH016913",
+            "Category": "Shirts",
+            "Product Name": "LOCOMOTIVE Premium Satin Solid Occasion Shirt",
+            "Brand": "LOCOMOTIVE",
+            "Image URL 1": "https://assets.catalogix.ai/ac2e73abd3ce4e562970a25a10b8a017",
+            "gender": "men"
+          },
+          {
+            "Style Code": "PHSH000213",
+            "Category": "Shirts",
+            "Product Name": "HIGHLANDER Men Olive Striped Slim Fit Shirt",
+            "Brand": "HIGHLANDER",
+            "Image URL 1": "https://assets.catalogix.ai/b61212ca73e0737ea244509177b0041a",
+            "gender": "men"
+          },
+          {
+            "Style Code": "SFPANT5535",
+            "Category": "Trousers",
+            "Product Name": "Women Black Wide Leg Pants",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/36a471cf9db87613b0e4dafd95f2aad2",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFDRSS11588",
+            "Category": "Dresses",
+            "Product Name": "Women Beige Rib Turtle Neck Sleeveless Midi Dress",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/d6581c0ae7a7ca29eb057880acbebe42",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFDRSS13090",
+            "Category": "Dresses",
+            "Product Name": "Women Black Ric Rac Lace Strappy Midi Dress",
+            "Brand": "Pink Paprika By SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/ab8d9f693c1b774c44a3b1b2815bd726",
+            "gender": "women"
+          },
+          {
+            "Style Code": "0524-BEP-181-12",
+            "Category": "T-shirts",
+            "Product Name": "0524-BEP-181-12-Almond-XL",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/15d0a4f4c9d6e8ff5c6278583c5d271f",
+            "gender": "men"
+          },
+          {
+            "Style Code": "SFTOPS40295",
+            "Category": "Tops",
+            "Product Name": "Black Halter Neck Top",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/e31ff684a35f255c8c16e769997186a8",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ULSS24DR18-03-086",
+            "Category": "Dresses",
+            "Product Name": "Uptownie Stretchable Halter Neck Hardware Dress",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/c308b7ac83ef46ac2ad04eae941f2714",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ULSS24DR18-46-166",
+            "Category": "Dresses",
+            "Product Name": "Uptownie Stretchable One Shoulder Ruched Dress",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/424318cd0206515ae943efb1aaab90b4",
+            "gender": "women"
+          },
+          {
+            "Style Code": "W193E24B0022013",
+            "Category": "Tops",
+            "Product Name": "Embellished Regular Top",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/532e3e7d29ad37d126c459eded707195",
+            "gender": "women"
+          },
+          {
+            "Style Code": "W369J25TP197A",
+            "Category": "Tops",
+            "Product Name": "Solid Regular Top",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/1117a3f25ab8da6e930bfa405ec603d2",
+            "gender": "women"
+          },
+          {
+            "Style Code": "CSMSSRT6023",
+            "Category": "Shirts",
+            "Product Name": "Pleat-Creased Shirt",
+            "Brand": "Campus Sutra",
+            "Image URL 1": "https://assets.catalogix.ai/d2735ce9742983d6cf089fa149fec959",
+            "gender": "men"
+          }
+        ]
+      }
+    ],
+    "last_updated": "2026-03-26T18:31:50.248Z"
+  },
+  "02": {
+    "events": [
+      {
+        "id": "karnataka-rajyotsava_02_nov",
+        "title": "Karnataka Rajyotsava",
+        "date": "02 Nov 2026",
+        "genres": "Cultural, Patriotic, State Pride, Celebration, Community",
+        "description": "Karnataka Rajyotsava — Karnataka Formation Day — celebrates the unification of Kannada-speaking regions on November 1st, 1956, with flag hoisting, cultural performances, Kannada music, folk art celebrations, and a surge of deep regional pride that turns Bengaluru red and yellow for the day.",
+        "fashion_keywords": {
+          "reasoning": "Karnataka Rajyotsava is Bengaluru's most important regional pride moment — genZScore 4-6. The red and yellow of the Karnataka flag are the non-negotiable color brief — this is as specific and culturally significant as the tricolor on Independence Day but with a distinctly Kannada cultural identity. The fashion energy is community-proud, culturally rooted, and celebratory. Karnataka's rich textile traditions make this a uniquely strong ethnic fashion moment — Ilkal sarees, Dharwad cotton, Molakalmuru silk, and Mysore silk are the most culturally authentic fabric choices for the day. Women in Karnataka's traditional sarees — Ilkal sarees with their distinctive red and white combinations, or any saree in Karnataka flag colors. Men in traditional Mysore peta (turban) styling, kurta-pyjama in red and yellow, or ethnic sets in flag colors. November in Bengaluru is beautifully cool — the most pleasant dressing weather of the year. The GenZ Bengaluru crowd expresses Kannada pride creatively — fusion pieces in red and yellow, Kannada script motif accessories, and contemporary interpretations of Karnataka textile traditions. Cultural performances mean comfortable practical ethnic dressing. Jewellery references Karnataka's traditional gold jewellery culture — temple jewellery with regional motifs.",
+          "occasion": [
+            "special",
+            "elevated",
+            "cultural-event",
+            "patriotic-celebration",
+            "state-pride"
+          ],
+          "activity": [
+            "festive",
+            "holiday",
+            "day-and-night",
+            "dinner-and-ceremonies",
+            "parade-and-ceremony",
+            "cultural-performance",
+            "community-gathering"
+          ],
+          "department": [
+            "men",
+            "women",
+            "unisex"
+          ],
+          "ethnicity": [
+            "ethnic",
+            "fusion",
+            "western"
+          ],
+          "fit": [
+            "regular",
+            "relaxed",
+            "slim",
+            "loose"
+          ],
+          "style": [
+            "straight-fit",
+            "regular-fit",
+            "relaxed",
+            "a-line",
+            "wide-leg",
+            "tailored",
+            "boxy",
+            "over-sized"
+          ],
+          "pattern": [
+            "solid",
+            "embroidered",
+            "self-design",
+            "ethnic-motif",
+            "printed",
+            "color-block",
+            "zari-border",
+            "geometric",
+            "ikat-inspired",
+            "ilkal-inspired",
+            "floral",
+            "logo"
+          ],
+          "color": [
+            "red",
+            "yellow",
+            "gold",
+            "saffron",
+            "white",
+            "off-white",
+            "cream",
+            "maroon",
+            "multi"
+          ],
+          "color_2": [
+            "gold",
+            "red",
+            "yellow",
+            "cream",
+            "multi",
+            "off-white",
+            "orange",
+            "maroon",
+            "silver"
+          ],
+          "detail": [
+            "embroidered",
+            "zari-trim",
+            "button",
+            "pleat",
+            "trim",
+            "tassel-and-fringe",
+            "tie-up",
+            "draped",
+            "ilkal-border-detail",
+            "kasuti-embroidery",
+            "stone-work-detail"
+          ],
+          "material": [
+            "cotton",
+            "100%-cotton",
+            "cotton-blend",
+            "linen",
+            "linen-blend",
+            "rayon",
+            "viscose-rayon",
+            "silk-feel",
+            "cotton-silk-blend",
+            "ilkal-cotton",
+            "dharwad-cotton",
+            "mysore-silk-feel"
+          ],
+          "neckline": [
+            "round",
+            "v-neck",
+            "boat",
+            "mandarin",
+            "sweetheart",
+            "straight",
+            "crew",
+            "square",
+            "halter",
+            "scoop"
+          ],
+          "length": [
+            "floor",
+            "ankle",
+            "full",
+            "below-knee",
+            "mid-calf",
+            "knee",
+            "above-knee",
+            "hip"
+          ],
+          "hemline_style": [
+            "straight",
+            "fringed",
+            "braided-edge",
+            "asymmetric",
+            "wide",
+            "elastic"
+          ],
+          "theme": [
+            "traditional",
+            "spiritual",
+            "classic",
+            "contemporary",
+            "patriotic",
+            "nature",
+            "cultural-heritage"
+          ],
+          "surface_styling": [
+            "zari",
+            "kasuti-embroidery",
+            "resham",
+            "aari",
+            "ikat",
+            "ilkal-weave",
+            "hand-woven",
+            "block-print",
+            "hand-painted"
+          ],
+          "treatment": [
+            "faded",
+            "stone-wash",
+            "raw"
+          ],
+          "distress": [
+            "no-distress",
+            "light"
+          ],
+          "transparency": [
+            "opaque",
+            "semi-sheer"
+          ],
+          "jewellery_pattern": [
+            "plain",
+            "geometrical",
+            "intricately-craft",
+            "floral",
+            "temple-style",
+            "circle-shape",
+            "elephant",
+            "swirl",
+            "tear-drop",
+            "animal-based",
+            "karnataka-traditional"
+          ],
+          "pendants_type": [
+            "medallion",
+            "amulet",
+            "stylised",
+            "solitaire",
+            "no-pendant"
+          ],
+          "size_group": [
+            "regular",
+            "plus-size",
+            "kids"
+          ],
+          "preferred_categories": [
+            "Sarees",
+            "Ethnic Suits",
+            "Ethnic Sets",
+            "Kurtis",
+            "Kurtas",
+            "Ethnic Dresses",
+            "Co-ords/Other Sets",
+            "T-shirts",
+            "Shirts",
+            "Tops",
+            "Trousers",
+            "Waistcoats",
+            "Blazers",
+            "Shrugs",
+            "Necklaces",
+            "Earrings",
+            "Bangles",
+            "Bracelets",
+            "Rings",
+            "Anklets",
+            "Jewellery Accessories",
+            "Bags",
+            "Watches",
+            "Caps"
+          ],
+          "avoid_categories": [
+            "Lehenga Choli",
+            "Sequin Party Wear",
+            "Neon Clubwear",
+            "Sleepwear",
+            "Innerwear",
+            "Heavily Distressed Denim",
+            "Sportswear",
+            "Dark Grunge Pieces"
+          ],
+          "style_notes": "Karnataka Rajyotsava has one color code — red and yellow, always. The Karnataka flag palette is as specific and meaningful as the national tricolor — and Bengaluru takes this seriously. The Ilkal saree is the most culturally authentic Karnataka Rajyotsava look — its distinctive red cotton body with the white and red contrast border is the textile signature of Karnataka's weaving tradition. Kasuti embroidery — Karnataka's traditional embroidery style featuring geometric and temple motifs — is uniquely relevant for the day. Women in an Ilkal saree, a Dharwad cotton saree in red or yellow, or a Mysore silk-feel saree in Karnataka flag colors. A red ethnic set with kasuti embroidery details or a yellow salwar suit with red accents captures the flag palette beautifully. Men in a red or yellow kurta-pyjama — a waistcoat in the complementary color adds a festive layer. Contemporary GenZ fusion — a red co-ord with yellow accessories, or a yellow oversized shirt with red trousers — expresses Karnataka pride in a modern language. Kannada script motif accessories and Karnataka map-inspired pieces are uniquely relevant today. November Bengaluru's beautiful cool weather makes this the most comfortable ethnic dressing day of the year — heavier silk-feel sarees and cotton-silk blends are perfectly appropriate. Gold temple jewellery in Karnataka's traditional style — layered necklaces, jhumkas, and bangles with regional motifs. Kids ethnic sets in red and yellow are deeply relevant — Rajyotsava is a community and family celebration."
+        },
+        "marketing": {
+          "app": {
+            "headline": "Kannada Rajyotsava. Red And Yellow. Always.",
+            "lines": [
+              "Ilkal saree or red kurta — Karnataka's colors, your proudest look.",
+              "Kasuti embroidery and Dharwad cotton for the state's biggest day.",
+              "November Bengaluru dressed in Karnataka pride — there's nothing better."
+            ]
+          },
+          "social_media": {
+            "headline": "Bengaluru Goes Red And Yellow Today.",
+            "lines": [
+              "POV: Karnataka Rajyotsava and your Ilkal saree made the whole city feel like home.",
+              "Rajyotsava fit check — red and yellow, Karnataka textiles, regional jewellery, dressed in the pride of Kannada Nadu. Jai Karnataka. 🔴🟡"
+            ]
+          }
+        },
+        "products": [
+          {
+            "Style Code": "SHSET95477",
+            "Category": "Other Sets",
+            "Product Name": "Women Maroon Zari Embroidered Sleeve Top With Palazzos",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/d70de950231968d09ce3488f37863349",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWTB0059",
+            "Category": "Other Sets",
+            "Product Name": "Bohemian Geometric Co-Ord Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/3e9afae430c91124484a1a86f8ad5a73",
+            "gender": "women"
+          },
+          {
+            "Style Code": "W251232902D",
+            "Category": "Dresses",
+            "Product Name": "Solid A-Line Dress",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/20480edff70bc11663002e0f0192bb10",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVCS000088",
+            "Category": "Other Sets",
+            "Product Name": "Vara By Vishudh Women Tan Off White  Printed Co-Ord Set With Boat Neck Crop Top And Palazzo",
+            "Brand": "Vara By Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/c448e0a4b9ffa98e4c7b53ebc54b300d",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVSD000049",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Grey Green Embroidered A-Line Short Dress",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/14f98d69101729e102dbd0d3ce448482",
+            "gender": "women"
+          },
+          {
+            "Style Code": "PCWSSDR7279",
+            "Category": "Dresses",
+            "Product Name": "Coil Maxi Dress",
+            "Brand": "PINACOLADA",
+            "Image URL 1": "https://assets.catalogix.ai/a264bb096fb9fe41dc51fa819c977b62",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVa1000196",
+            "Category": "Trousers",
+            "Product Name": "Vara By Vishudh Women Off White Printed Wide Leg High Waisted Palazzo",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/6bc6a02f64ded2857762f387a689bdc8",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ULSS25DR20-14-121",
+            "Category": "Dresses",
+            "Product Name": "Uptownie Stretchable Halter Neck Mini Skater Dress",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/695a8487eb37c4e882a54a68a86387e5",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHSET96048",
+            "Category": "Other Sets",
+            "Product Name": "Women Red Multi Color Peplum Top With Anarkali Skirt",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/451aff2e496a1dd7b075357b4ee8fa2e",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWTB0043",
+            "Category": "Other Sets",
+            "Product Name": "Indie Palm Co-Ord Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/b8cbb9ca714e3bf12a67fd18fb9ab2fe",
+            "gender": "women"
+          },
+          {
+            "Style Code": "CSMSSRT7975",
+            "Category": "Shirts",
+            "Product Name": "Solid Cuban Shirt",
+            "Brand": "Campus Sutra",
+            "Image URL 1": "https://assets.catalogix.ai/7c4ecc972106e8871180758a31764229",
+            "gender": "men"
+          },
+          {
+            "Style Code": "ULSS24DR18-03-086",
+            "Category": "Dresses",
+            "Product Name": "Uptownie Stretchable Halter Neck Hardware Dress",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/c308b7ac83ef46ac2ad04eae941f2714",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ULSS24DR18-46-166",
+            "Category": "Dresses",
+            "Product Name": "Uptownie Stretchable One Shoulder Ruched Dress",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/424318cd0206515ae943efb1aaab90b4",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ULSS23CM17-18-066",
+            "Category": "Other Sets",
+            "Product Name": "Uptownie Halter Neck Linen Top With Pants",
+            "Brand": "Uptownie",
+            "Image URL 1": "https://assets.catalogix.ai/0d26672711ea512b15e4bee77fa9e678",
+            "gender": "women"
+          },
+          {
+            "Style Code": "TTSH002417",
+            "Category": "Shirts",
+            "Product Name": "Tokyo Talkies Women Floral Printed Casual Shirt",
+            "Brand": "Tokyo Talkies",
+            "Image URL 1": "https://assets.catalogix.ai/e313a44c99eadf96d23ce6ffab9d405b",
+            "gender": "women"
+          },
+          {
+            "Style Code": "W17773159D",
+            "Category": "Skirts",
+            "Product Name": "Solid Pencil Skirt",
+            "Brand": "Klydo X Revolte",
+            "Image URL 1": "https://assets.catalogix.ai/03ec400e6c65b9e80c802b691aee724b",
+            "gender": "women"
+          },
+          {
+            "Style Code": "WMD129640072514",
+            "Category": "Dresses",
+            "Product Name": "Green Square Halter Neck Dress",
+            "Brand": "Outzidr",
+            "Image URL 1": "https://cdn.shopify.com/s/files/1/0681/5386/8461/files/41615f34fd3e2473041353c1c3346e6d.jpg?v=1751888464",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHJMP80032",
+            "Category": "Jumpsuits",
+            "Product Name": "Women Lilac Foil Print Lace Detail Jumpsuit",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/d06535a64fb9461954a6145dd1e1ef62",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWTBJ0141",
+            "Category": "Other Sets",
+            "Product Name": "Flower Tie-Up Co-Ord Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/a10c91adc6fe37b76fa64757e3dfb5b4",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFSETS96020",
+            "Category": "Other Sets",
+            "Product Name": "Women Green & White Floral Bustier, Pant & Shrug",
+            "Brand": "Pink Paprika By SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/370158afd50c7b86640b491ba5e99842",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHTOP41406",
+            "Category": "Tops",
+            "Product Name": "Women Maroon Front Button Gathered Top",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/c214b48db41f73d45ab705858b284cd4",
+            "gender": "women"
+          },
+          {
+            "Style Code": "PCWSSCO7452",
+            "Category": "Other Sets",
+            "Product Name": "Solid Schiffli Co-Ord Set",
+            "Brand": "PINACOLADA",
+            "Image URL 1": "https://assets.catalogix.ai/d4963cf74f4d7232652e7cc61a2981dd",
+            "gender": "women"
+          },
+          {
+            "Style Code": "0425-SHSTCL-05-01",
+            "Category": "Shirts",
+            "Product Name": "The Indian Garage Co Men Slim Fit Embellishment Cutaway Collar Full Sleeves Shirt",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/85f6a6c2d29464e5381861b5f3b9270b",
+            "gender": "men"
+          },
+          {
+            "Style Code": "PMW01NC023",
+            "Category": "Necklaces",
+            "Product Name": "PALMONAS 18k  Gold Plated Gilded Rings Layered Necklace for Womens Waterproof & Anti-Tarnish",
+            "Brand": "PALMONAS",
+            "Image URL 1": "https://assets.catalogix.ai/7e4bd503ac97886cf26946f87b077590",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWTB0033",
+            "Category": "Other Sets",
+            "Product Name": "Periwinkle Co-Ord Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/c211d2b508fb6d77979c41d0081825f7",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVCS000087",
+            "Category": "Other Sets",
+            "Product Name": "Vara By Vishudh Women Off White Black  Printed Co-Ord Set With Boat Neck Crop Top And Palazzo",
+            "Brand": "Vara By Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/7f38575b9070bf36b948c860c74a79f5",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVCS000118",
+            "Category": "Other Sets",
+            "Product Name": "Vara By Vishudh Women Yellow Cotton Slub Printed Co-ord set",
+            "Brand": "Vara By Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/b290f3de6bc25190f5abe87e2502b998",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFDRSS11426",
+            "Category": "Dresses",
+            "Product Name": "Women Red Double Breasted Blazer Dress",
+            "Brand": "SASSAFRAS worklyf",
+            "Image URL 1": "https://assets.catalogix.ai/0c9f2181983ebf0f9956a5eee0bdf8e9",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFJMPS8078",
+            "Category": "Jumpsuits",
+            "Product Name": "Maroon Layered Jumpsuit",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/c27e5f5793824326b8b04c61effd63b2",
+            "gender": "women"
+          },
+          {
+            "Style Code": "GS-PRT-0037-PGN",
+            "Category": "Shirts",
+            "Product Name": "Men Premium Green Relaxed Fit Cuban Collar Printed Cotton Linen Casual Shirt",
+            "Brand": "Guns & Sons",
+            "Image URL 1": "https://assets.catalogix.ai/700fd0882cfa7d04f34c84bc9006de74",
+            "gender": "men"
+          },
+          {
+            "Style Code": "SFDRSS11297",
+            "Category": "Dresses",
+            "Product Name": "Women White Square Neck Frill Hem Maxi Dress",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/655d06e25c153f84dd9e52b602eca227",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFPANT50845",
+            "Category": "Trousers",
+            "Product Name": "Women Black Front Button Flared Bell Bottom Pants",
+            "Brand": "SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/dd3d03bc5e4c89a9c925774f31d8a776",
+            "gender": "women"
+          },
+          {
+            "Style Code": "CSMSSRT6023",
+            "Category": "Shirts",
+            "Product Name": "Pleat-Creased Shirt",
+            "Brand": "Campus Sutra",
+            "Image URL 1": "https://assets.catalogix.ai/d2735ce9742983d6cf089fa149fec959",
+            "gender": "men"
+          },
+          {
+            "Style Code": "LMSH017898",
+            "Category": "Shirts",
+            "Product Name": "LOCOMOTIVE Men Slim Fit Cutaway Collar Solid Cotton Formal Shirt",
+            "Brand": "LOCOMOTIVE",
+            "Image URL 1": "https://assets.catalogix.ai/70ba2f03ee72a55206662dc307442a41",
+            "gender": "men"
+          },
+          {
+            "Style Code": "LMSH017932",
+            "Category": "Shirts",
+            "Product Name": "LOCOMOTIVE Premium Men Jacquard Textured Occasion Shirt",
+            "Brand": "LOCOMOTIVE",
+            "Image URL 1": "https://assets.catalogix.ai/76022d9ec9250ab1ab7c1b6985478422",
+            "gender": "men"
+          },
+          {
+            "Style Code": "VVSD000037",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Grey Green Embroidered Short Dress",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/ebf01d51131aaabb252a3474ad101af1",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVa1000054",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Brown Tiered Midi Dresses",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/5143954de35505a697f1e94c4c7aeb22",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVa1000056",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Black Tiered Midi Dresses",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/128c1909986dc0b6f8c73a354e9d8a81",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVa1000202",
+            "Category": "Dresses",
+            "Product Name": "Vara By Vishudh Women Off White Rust Printed Round Neck Midi A-Line Dress",
+            "Brand": "Vara by Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/5a1ee18d05639fb6f54cadb60d833f35",
+            "gender": "women"
+          },
+          {
+            "Style Code": "0125-SHDBCL-01-02",
+            "Category": "Shirts",
+            "Product Name": "0125-SHDBCL-01-02-Burgundy-XXL",
+            "Brand": "The Indian Garage Co",
+            "Image URL 1": "https://assets.catalogix.ai/d0587fdf3d8911433001110a595ff11a",
+            "gender": "men"
+          }
+        ]
+      }
+    ],
+    "last_updated": "2026-03-26T18:26:21.947Z"
+  },
+  "06": {
+    "events": [
+      {
+        "id": "diwali-season-begins_06_nov",
+        "title": "Diwali Season Begins",
+        "date": "06 Nov 2026",
+        "genres": "Festival, Cultural, Religious, Shopping, Celebration",
+        "description": "Diwali season officially begins — the most anticipated shopping and styling window of the Indian calendar, as families start planning their Diwali looks, gifting, and the festive wardrobe buildup that leads to the biggest night of lights.",
+        "fashion_keywords": {
+          "reasoning": "Diwali Season Begins is the most commercially and culturally significant fashion planning moment of the year — genZScore 5-7. This event marks the beginning of the Diwali shopping window — not the festival itself but the anticipatory buildup. The fashion energy is about discovery, planning, and the excitement of choosing the Diwali outfit. Families across India begin their ethnic wear shopping in the weeks leading up to Diwali — this is when the biggest ethnic wear purchases happen. November in Bengaluru is the most beautiful weather of the year — cool, dry, and perfect. The Diwali palette is rich and maximally festive — gold, deep red, emerald green, royal blue, magenta, and rich jewel tones dominate. This is also the single most important gifting fashion moment — Gold Coins are uniquely relevant, jewellery gifting is at its annual peak, and accessories are heavily purchased. The season opener means the catalog should surface the full range of Diwali-relevant pieces — sarees, lehengas, ethnic sets, sherwanis, heavy jewellery — everything that would be planned and purchased in the weeks before Diwali.",
+          "occasion": [
+            "special",
+            "elevated",
+            "festive-family",
+            "religious",
+            "shopping-season",
+            "diwali-prep"
+          ],
+          "activity": [
+            "festive",
+            "dinner-and-ceremonies",
+            "day-and-night",
+            "holiday",
+            "shopping",
+            "family-gathering"
+          ],
+          "department": [
+            "men",
+            "women",
+            "unisex"
+          ],
+          "ethnicity": [
+            "ethnic",
+            "fusion"
+          ],
+          "fit": [
+            "regular",
+            "relaxed",
+            "slim",
+            "flared",
+            "loose"
+          ],
+          "style": [
+            "straight-fit",
+            "regular-fit",
+            "relaxed",
+            "a-line",
+            "flared",
+            "empire",
+            "wide-leg",
+            "tailored",
+            "fit-and-flare",
+            "trapeze"
+          ],
+          "pattern": [
+            "embroidered",
+            "self-design",
+            "solid",
+            "embellished",
+            "ethnic-motif",
+            "floral",
+            "printed",
+            "geometric",
+            "shimmer",
+            "sequins",
+            "zari-border",
+            "bandhej-print",
+            "jacquard-weave",
+            "gota-patti",
+            "color-block"
+          ],
+          "color": [
+            "gold",
+            "red",
+            "deep-red",
+            "emerald-green",
+            "royal-blue",
+            "magenta",
+            "maroon",
+            "purple",
+            "orange",
+            "cream",
+            "multi",
+            "burgundy"
+          ],
+          "color_2": [
+            "gold",
+            "silver",
+            "cream",
+            "red",
+            "maroon",
+            "multi",
+            "champagne",
+            "off-white",
+            "orange",
+            "mirror-silver"
+          ],
+          "detail": [
+            "embroidered",
+            "sequin",
+            "beaded",
+            "zari-trim",
+            "gota-work",
+            "mirror-work",
+            "stone-work-detail",
+            "kundan-work",
+            "tassel-and-fringe",
+            "pleat",
+            "button",
+            "trim",
+            "ruffle",
+            "overlay",
+            "zardosi-work"
+          ],
+          "material": [
+            "satin",
+            "silk-feel",
+            "georgette-feel",
+            "cotton-silk-blend",
+            "rayon",
+            "viscose-rayon",
+            "net-fabric",
+            "cotton-blend",
+            "chiffon-feel",
+            "velvet-feel",
+            "brocade-feel"
+          ],
+          "neckline": [
+            "round",
+            "v-neck",
+            "square",
+            "sweetheart",
+            "halter",
+            "one-shoulder",
+            "boat",
+            "mandarin",
+            "keyhole",
+            "off-shoulder",
+            "straight",
+            "scoop"
+          ],
+          "length": [
+            "floor",
+            "ankle",
+            "full",
+            "below-knee",
+            "mid-calf",
+            "knee",
+            "above-knee"
+          ],
+          "hemline_style": [
+            "flared",
+            "straight",
+            "fringed",
+            "asymmetric",
+            "wide",
+            "layered-flare",
+            "braided-edge"
+          ],
+          "theme": [
+            "traditional",
+            "festive-vibrant",
+            "classic",
+            "contemporary",
+            "fashion",
+            "designer",
+            "dainty",
+            "spiritual"
+          ],
+          "surface_styling": [
+            "zari",
+            "zardosi",
+            "resham",
+            "aari",
+            "stone-work",
+            "gota-patti",
+            "mirror-embroidery",
+            "bandhej",
+            "mukaish",
+            "phool-patti",
+            "kundan-embroidery",
+            "sequin-work",
+            "jacquard",
+            "banarasi-weave"
+          ],
+          "treatment": "not-needed",
+          "distress": "not-needed",
+          "transparency": [
+            "opaque",
+            "semi-sheer",
+            "sheer"
+          ],
+          "jewellery_pattern": [
+            "plain",
+            "intricately-craft",
+            "geometrical",
+            "embellishment",
+            "floral",
+            "elephant",
+            "swirl",
+            "tear-drop",
+            "circle-shape",
+            "temple-style",
+            "kundan-inspired",
+            "polki-inspired",
+            "faceted-stones",
+            "mirror-studded"
+          ],
+          "pendants_type": [
+            "medallion",
+            "amulet",
+            "stylised",
+            "solitaire",
+            "crystal",
+            "locket"
+          ],
+          "size_group": [
+            "regular",
+            "plus-size",
+            "kids"
+          ],
+          "preferred_categories": [
+            "Sarees",
+            "Lehenga Choli",
+            "Ethnic Sets",
+            "Ethnic Dresses",
+            "Ethnic Suits",
+            "Kurtis",
+            "Kurtas",
+            "Sherwanis",
+            "Waistcoats",
+            "Pathani Suits",
+            "Shrugs",
+            "Co-ords/Other Sets",
+            "Necklaces",
+            "Earrings",
+            "Bangles",
+            "Bracelets",
+            "Rings",
+            "Anklets",
+            "Maang Tikka",
+            "Kamarbandh",
+            "Jewellery Accessories",
+            "Bags",
+            "Watches",
+            "Gold Coins"
+          ],
+          "avoid_categories": [
+            "Western Dresses",
+            "T-shirts",
+            "Jeans",
+            "Shorts",
+            "Sweatshirts",
+            "Caps",
+            "Sunglasses",
+            "Sportswear",
+            "Sleepwear",
+            "Innerwear",
+            "Heavily Distressed Denim"
+          ],
+          "style_notes": "Diwali Season Begins is the single most important ethnic fashion shopping window of the year — every catalog category that would be purchased for Diwali should be surfaced now, weeks before the festival itself. The Diwali palette is the richest and most maximally festive of the entire calendar — gold is the non-negotiable anchor, with deep jewel tones around it. Lead with the most elaborate and premium ethnic pieces — Banarasi-inspired sarees with gold zari, heavily embellished lehenga cholis with kundan and zardosi work, and richly embroidered ethnic sets are the hero categories. The velvet-feel fabric option is at its most relevant in November Bengaluru's cool weather — a velvet-feel lehenga or sherwani in deep jewel tones is the most premium Diwali catalog recommendation. Women in a gold-heavy Banarasi-inspired saree, a deep red or emerald lehenga choli with maximum embellishment, or a richly embroidered ethnic set in jewel tones. Men in a heavily embroidered sherwani for the main Diwali night, or a rich kurta with a brocade-feel waistcoat. Kids ethnic sets and sherwanis are the most heartwarming gifting category. Jewellery is the season's most significant purchase — kundan and polki-inspired necklace sets, jhumkas, bangles, maang tikka, and kamarbandh are all peak purchases. Gold Coins are uniquely relevant — Diwali is the most auspicious time for gold gifting in Indian culture. The November Bengaluru cool weather means heavier embellished fabrics and velvet-feel pieces are entirely wearable — the best Diwali shopping season in years for premium heavy ethnic wear."
+        },
+        "marketing": {
+          "app": {
+            "headline": "Diwali Season Is Here. Start Planning.",
+            "lines": [
+              "The lehenga, the sherwani, the gold — Diwali waits for no one.",
+              "November cool means your most embellished ethnic picks are finally wearable.",
+              "Gold coins, kundan jewels, and the most festive catalog of the year."
+            ]
+          },
+          "social_media": {
+            "headline": "Diwali Season. The Planning Starts Now.",
+            "lines": [
+              "POV: Diwali season begins and your entire family needs an ethnic intervention — starting with you.",
+              "The lehenga won't pick itself. The sherwani won't either. Diwali season is open and the catalog is ready. 🪔✨"
+            ]
+          }
+        },
+        "products": [
+          {
+            "Style Code": "RF3568-Blue",
+            "Category": "Ethnic Suits",
+            "Product Name": "Shifory Blue Straight V",
+            "Brand": "Shifory",
+            "Image URL 1": "https://assets.catalogix.ai/20e5f635f56daf30bca7d30028306607",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHSET95507",
+            "Category": "Ethnic Sets",
+            "Product Name": "Women Red Foil Print Halter Neck Kurta With Pants",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/ef1bc9862c5f4a7c26edc9d61e8b8798",
+            "gender": "women"
+          },
+          {
+            "Style Code": "RF3114-Maroon",
+            "Category": "Ethnic Sets",
+            "Product Name": "Shifory Maroon Straight Round Neck 3/4 sleeve Kurti pant",
+            "Brand": "Shifory",
+            "Image URL 1": "https://assets.catalogix.ai/64224e4801b123e949a1fa1a71d7fc3f",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ECTG",
+            "Category": "Kurtas",
+            "Product Name": "Aquamarine Blue Self Textured Cotton Blend Kurta for Men",
+            "Brand": "THE KURTA COMPANY",
+            "Image URL 1": "https://assets.catalogix.ai/0352804aaf5b2e3beb1817c8c450e1c2",
+            "gender": "men"
+          },
+          {
+            "Style Code": "06OS",
+            "Category": "Kurtas",
+            "Product Name": "Cream Multi Printed Kurta For Men",
+            "Brand": "THE KURTA COMPANY",
+            "Image URL 1": "https://assets.catalogix.ai/4d76913a46e73feb2d4ea5b1688592ba",
+            "gender": "men"
+          },
+          {
+            "Style Code": "KACE",
+            "Category": "Kurtas",
+            "Product Name": "Bottle Green Printed Kurta For Men",
+            "Brand": "THE KURTA COMPANY",
+            "Image URL 1": "https://assets.catalogix.ai/06ed088f0b6bc7b2a2dd9749a7ee3564",
+            "gender": "men"
+          },
+          {
+            "Style Code": "OYWP",
+            "Category": "Kurtas",
+            "Product Name": "Blue Multi Printed Kurta For Men",
+            "Brand": "THE KURTA COMPANY",
+            "Image URL 1": "https://assets.catalogix.ai/6552ba181b0017f4178d459980e5288e",
+            "gender": "men"
+          },
+          {
+            "Style Code": "MWP-002",
+            "Category": "Kurtas",
+            "Product Name": "Crimson Aura Kurta",
+            "Brand": "KEDIAS",
+            "Image URL 1": "https://assets.catalogix.ai/05f7fbc7ae173611ef0cc91f60e6647f",
+            "gender": "men"
+          },
+          {
+            "Style Code": "QISWKPD0097",
+            "Category": "Kurtas",
+            "Product Name": "Flora Cluster Kurta With Trousers And Dupatta",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/d2e25be6cf97564e083c808e6f5b7d47",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWKPD0222",
+            "Category": "Kurtas",
+            "Product Name": "Contrast Lustre Kurta Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/0b1ea31ceadefe75461ea93fcfa1e476",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHKUR00294",
+            "Category": "Kurtas",
+            "Product Name": "Women Maroon Floral Box Back Detail Anarkali Kurta",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/8767c8e8284e662037f07a4c7cf50714",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHSET96182",
+            "Category": "Ethnic Sets",
+            "Product Name": "Women Red Floral Short Kurta With Tiered Sharara",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/cfe27ae418f9258c1e1871f97258fffd",
+            "gender": "women"
+          },
+          {
+            "Style Code": "DTQN",
+            "Category": "Kurtas",
+            "Product Name": "Light Blue Printed Kurta For Men",
+            "Brand": "THE KURTA COMPANY",
+            "Image URL 1": "https://assets.catalogix.ai/5db33794aa2b9d55ad98aeab9150136e",
+            "gender": "men"
+          },
+          {
+            "Style Code": "RF2579-White",
+            "Category": "Ethnic Suits",
+            "Product Name": "Shifory Women's White Gown Round Neck 3/4 Sleeve Regular Fit Kurti Dupatta Set",
+            "Brand": "Shifory",
+            "Image URL 1": "https://assets.catalogix.ai/63cc7f6c50e3e0e246a04abbead924a4",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHSET95477",
+            "Category": "Other Sets",
+            "Product Name": "Women Maroon Zari Embroidered Sleeve Top With Palazzos",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/d70de950231968d09ce3488f37863349",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWKPD0087",
+            "Category": "Kurtas",
+            "Product Name": "Botanical Block Kurta With Trousers & Dupatta",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/b40317c7d91752fa26bce90d838549db",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWTB0033",
+            "Category": "Other Sets",
+            "Product Name": "Periwinkle Co-Ord Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/c211d2b508fb6d77979c41d0081825f7",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHKUR00208",
+            "Category": "Kurtas",
+            "Product Name": "Maroon Velvet Floral Embroidery Straight Kurta",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/46db3f999e5fd12defdb71799b7e009f",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHKUR00211",
+            "Category": "Kurtas",
+            "Product Name": "Purple Velvet Hem Zari Embroidered Kurta",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/7bb9d27a948c11b9bb0b9042c4ed1e6d",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWTB0043",
+            "Category": "Other Sets",
+            "Product Name": "Indie Palm Co-Ord Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/b8cbb9ca714e3bf12a67fd18fb9ab2fe",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWKP0215",
+            "Category": "Kurtas",
+            "Product Name": "Silken Lacework Kurta Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/4ef6513cb94358a12db0a5aecd55ae9c",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWKPD0252",
+            "Category": "Kurtas",
+            "Product Name": "Flora Cluster Sharara Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/2bb2fa83d86088693f493e3e6ef052d7",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHKUR00303",
+            "Category": "Kurtas",
+            "Product Name": "Women Fuchsia Velvet Straight Kurta",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/429088dbbb1bea81b58c963007ec8f8b",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWKPD0162",
+            "Category": "Kurtas",
+            "Product Name": "Maple Leaf Kurta With Crop And Trousers",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/f4629db38e9d5afa2c9f915120c50012",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWKPD0104",
+            "Category": "Kurtas",
+            "Product Name": "Floral Zari Anarkali Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/5d12c80f0b81ab6a2797ef3a40a2c654",
+            "gender": "women"
+          },
+          {
+            "Style Code": "MWP-004",
+            "Category": "Kurtas",
+            "Product Name": "Mint Mist Kurta",
+            "Brand": "KEDIAS",
+            "Image URL 1": "https://assets.catalogix.ai/8eab2d863ca7c1c2674f63ccd0546be0",
+            "gender": "men"
+          },
+          {
+            "Style Code": "QISWKP0235",
+            "Category": "Kurtas",
+            "Product Name": "Primrose Spot Kurta Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/e21edcca5c57b206c4a674f4b1c9c1c4",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHDRS11982",
+            "Category": "Kurtas",
+            "Product Name": "Women Yellow Floral Sweetheart Neck Anarkali Kurta",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/56e6b038917773c40d5a4f38841e24a0",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFSETS96020",
+            "Category": "Other Sets",
+            "Product Name": "Women Green & White Floral Bustier, Pant & Shrug",
+            "Brand": "Pink Paprika By SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/370158afd50c7b86640b491ba5e99842",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVCS000088",
+            "Category": "Other Sets",
+            "Product Name": "Vara By Vishudh Women Tan Off White  Printed Co-Ord Set With Boat Neck Crop Top And Palazzo",
+            "Brand": "Vara By Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/c448e0a4b9ffa98e4c7b53ebc54b300d",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWKPD0163",
+            "Category": "Kurtas",
+            "Product Name": "Maple Leaf Kurta With Crop And Trousers",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/0eaf4cadb9d2fd596d69284d4f52a715",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWTB0059",
+            "Category": "Other Sets",
+            "Product Name": "Bohemian Geometric Co-Ord Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/3e9afae430c91124484a1a86f8ad5a73",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHSET95613",
+            "Category": "Ethnic Sets",
+            "Product Name": "Women Rust Velvet Embroidered Short Kurta With Palazzos",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/4bbbe64e213889ee7dbce84415dc568f",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHKUR00199",
+            "Category": "Kurtas",
+            "Product Name": "Purple Velvet Zari Embroidered Belt Short Kurta",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/9540917f279afde35200e26a150814c1",
+            "gender": "women"
+          },
+          {
+            "Style Code": "RF2996-White",
+            "Category": "Ethnic Suits",
+            "Product Name": "Shifory White Anarkali Round Neck 3/4 Sleeve 3 Pcs Anarkali Suit",
+            "Brand": "Shifory",
+            "Image URL 1": "https://assets.catalogix.ai/c7eb39ed06b3f424e0c2ea499de2238b",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHKUR00280",
+            "Category": "Kurtas",
+            "Product Name": "Women Blue Chanderi Paisley Long Anarkali Kurta",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/bcd71456c1b4e7d47e09e5b3cc0d02ee",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVCS000027",
+            "Category": "Ethnic Sets",
+            "Product Name": "Vara By Vishudh Women Blue Printed Short Kurta & Palazzo",
+            "Brand": "Vara By Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/ca1dad4de096260f4c70adf9a591647d",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWTBJ0149",
+            "Category": "Other Sets",
+            "Product Name": "Paisley Flared Co-Ord Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/e82b684f38bb346d454710d3e95aa063",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHKUR00198",
+            "Category": "Kurtas",
+            "Product Name": "Black Velvet Zari Embroidered Belt Short Kurta",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/16cd20ceff4275cf54c97291feb24abf",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWTBJ0141",
+            "Category": "Other Sets",
+            "Product Name": "Flower Tie-Up Co-Ord Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/a10c91adc6fe37b76fa64757e3dfb5b4",
+            "gender": "women"
+          }
+        ]
+      }
+    ],
+    "last_updated": "2026-03-26T18:26:21.947Z"
+  },
+  "07": {
+    "events": [
+      {
+        "id": "choti-diwali_07_nov",
+        "title": "Choti Diwali",
+        "date": "07 Nov 2026",
+        "genres": "Festival, Religious, Cultural, Celebration, Family",
+        "description": "Choti Diwali — the day before the main festival — when diyas are lit, rangoli is drawn, families gather, and the anticipation of the biggest night of lights reaches its peak. The dress rehearsal for Diwali, and often just as beautifully dressed.",
+        "fashion_keywords": {
+          "reasoning": "Choti Diwali is the eve of India's biggest festival — genZScore 5-7. The fashion energy is the warm anticipatory buildup to the main Diwali night — slightly less formal than Diwali itself but still deeply festive and ethnic. Think of it as the pre-party to the biggest party of the year. People wear their second-best Diwali outfit on Choti Diwali — saving the absolute best for the main night. The palette is warm and glowing — mirroring the diyas being lit. Deep gold, warm amber, burnt orange, rust, cream, and soft jewel tones rather than the maximum festivity of the main Diwali night. November Bengaluru cool evenings mean heavier fabrics are completely wearable — silk-feel sarees, embellished ethnic sets, and velvet-feel pieces all work beautifully. The diya-lighting and rangoli context means comfortable yet festive ethnic dressing — the family gathering energy is warm and intimate rather than grand. Women in ethnic sets, sarees, or lehengas that are festive but not the absolute showstopper saved for tomorrow. Men in kurta-pyjama or ethnic sets with moderate embellishment. Jewellery is festive but not the maximum pieces saved for Diwali night. Gold Coins remain relevant as gifting continues.",
+          "occasion": [
+            "special",
+            "elevated",
+            "festive-family",
+            "religious",
+            "pre-diwali",
+            "family-gathering"
+          ],
+          "activity": [
+            "festive",
+            "dinner-and-ceremonies",
+            "day-and-night",
+            "holiday",
+            "puja-and-vrat",
+            "diya-lighting",
+            "family-gathering"
+          ],
+          "department": [
+            "men",
+            "women",
+            "unisex"
+          ],
+          "ethnicity": [
+            "ethnic",
+            "fusion"
+          ],
+          "fit": [
+            "regular",
+            "relaxed",
+            "slim",
+            "flared",
+            "loose"
+          ],
+          "style": [
+            "straight-fit",
+            "regular-fit",
+            "relaxed",
+            "a-line",
+            "flared",
+            "empire",
+            "wide-leg",
+            "fit-and-flare",
+            "tailored"
+          ],
+          "pattern": [
+            "embroidered",
+            "self-design",
+            "solid",
+            "embellished",
+            "ethnic-motif",
+            "floral",
+            "printed",
+            "geometric",
+            "shimmer",
+            "sequins",
+            "zari-border",
+            "bandhej-print",
+            "gota-patti",
+            "color-block"
+          ],
+          "color": [
+            "gold",
+            "amber",
+            "burnt-orange",
+            "rust",
+            "cream",
+            "deep-red",
+            "maroon",
+            "teal",
+            "purple",
+            "off-white",
+            "champagne",
+            "warm-yellow"
+          ],
+          "color_2": [
+            "gold",
+            "silver",
+            "cream",
+            "red",
+            "maroon",
+            "multi",
+            "champagne",
+            "off-white",
+            "orange",
+            "mirror-silver"
+          ],
+          "detail": [
+            "embroidered",
+            "sequin",
+            "beaded",
+            "zari-trim",
+            "gota-work",
+            "mirror-work",
+            "stone-work-detail",
+            "tassel-and-fringe",
+            "pleat",
+            "button",
+            "trim",
+            "ruffle",
+            "overlay",
+            "tie-up"
+          ],
+          "material": [
+            "satin",
+            "silk-feel",
+            "georgette-feel",
+            "cotton-silk-blend",
+            "rayon",
+            "viscose-rayon",
+            "net-fabric",
+            "cotton-blend",
+            "chiffon-feel",
+            "velvet-feel",
+            "cotton",
+            "100%-cotton"
+          ],
+          "neckline": [
+            "round",
+            "v-neck",
+            "square",
+            "sweetheart",
+            "halter",
+            "one-shoulder",
+            "boat",
+            "mandarin",
+            "keyhole",
+            "off-shoulder",
+            "straight",
+            "scoop"
+          ],
+          "length": [
+            "floor",
+            "ankle",
+            "full",
+            "below-knee",
+            "mid-calf",
+            "knee",
+            "above-knee"
+          ],
+          "hemline_style": [
+            "flared",
+            "straight",
+            "fringed",
+            "asymmetric",
+            "wide",
+            "layered-flare",
+            "braided-edge"
+          ],
+          "theme": [
+            "traditional",
+            "festive-vibrant",
+            "classic",
+            "contemporary",
+            "fashion",
+            "designer",
+            "dainty",
+            "spiritual"
+          ],
+          "surface_styling": [
+            "zari",
+            "resham",
+            "aari",
+            "stone-work",
+            "gota-patti",
+            "mirror-embroidery",
+            "bandhej",
+            "mukaish",
+            "phool-patti",
+            "sequin-work",
+            "zardosi"
+          ],
+          "treatment": "not-needed",
+          "distress": "not-needed",
+          "transparency": [
+            "opaque",
+            "semi-sheer",
+            "sheer"
+          ],
+          "jewellery_pattern": [
+            "plain",
+            "intricately-craft",
+            "geometrical",
+            "embellishment",
+            "floral",
+            "swirl",
+            "tear-drop",
+            "circle-shape",
+            "temple-style",
+            "kundan-inspired",
+            "faceted-stones",
+            "dainty-minimal"
+          ],
+          "pendants_type": [
+            "medallion",
+            "amulet",
+            "stylised",
+            "solitaire",
+            "crystal"
+          ],
+          "size_group": [
+            "regular",
+            "plus-size",
+            "kids"
+          ],
+          "preferred_categories": [
+            "Sarees",
+            "Ethnic Sets",
+            "Ethnic Dresses",
+            "Lehenga Choli",
+            "Ethnic Suits",
+            "Kurtis",
+            "Kurtas",
+            "Waistcoats",
+            "Shrugs",
+            "Necklaces",
+            "Earrings",
+            "Bangles",
+            "Bracelets",
+            "Rings",
+            "Anklets",
+            "Maang Tikka",
+            "Jewellery Accessories",
+            "Bags",
+            "Watches",
+            "Gold Coins"
+          ],
+          "avoid_categories": [
+            "Western Dresses",
+            "T-shirts",
+            "Jeans",
+            "Shorts",
+            "Sweatshirts",
+            "Caps",
+            "Sunglasses",
+            "Sportswear",
+            "Sleepwear",
+            "Innerwear",
+            "Heavily Distressed Denim"
+          ],
+          "style_notes": "Choti Diwali is the warm, intimate, diya-lit eve of India's biggest festival — dress with festive intent but save the absolute showstopper for tomorrow. The warm amber and gold palette mirrors the glow of a thousand diyas being lit — burnt orange, deep gold, warm cream, and rich teal ethnic wear catches the diya light beautifully. Women in a richly embroidered ethnic set in warm amber or deep teal, a silk-feel saree in gold or cream with zari borders, or a festive lehenga choli that is beautifully embellished but not the maximum showstopper saved for Diwali night. The bandhej saree or ethnic set in warm tones is a deeply traditional and beautiful Choti Diwali choice. Men in a well-embellished kurta with a brocade-feel waistcoat in warm gold or teal — a step up from casual but not the full sherwani saved for tomorrow. November Bengaluru's cool evenings make the velvet-feel fabric option relevant — a velvet-feel blouse or kurta in deep jewel tones with the ambient diya glow is extraordinarily beautiful. Jewellery is festive but moderate — the maximum kundan and polki set is being saved for the main night. Simple layered gold necklaces, jhumkas, and stacked bangles are the Choti Diwali jewellery brief. Kids ethnic sets are extremely relevant — little ones dressed in warm festive tones for diya lighting. Gold Coins as gifting continue through the Diwali eve. The overall energy is — dressed beautifully for the warmest family evening of the year, knowing tomorrow is even bigger."
+        },
+        "marketing": {
+          "app": {
+            "headline": "Choti Diwali. The Warm-Up Act.",
+            "lines": [
+              "Save the showstopper for tomorrow — tonight glows in amber and gold.",
+              "Diyas lit, family gathered, your second-best ethnic look ready.",
+              "The eve of the biggest night deserves its own beautiful moment."
+            ]
+          },
+          "social_media": {
+            "headline": "Choti Diwali. Dressed For The Diyas.",
+            "lines": [
+              "POV: Choti Diwali evening in a gold silk-feel saree by the diyas and tomorrow's lehenga is already planned.",
+              "Choti Diwali energy — warm amber ethnic, diya glow, family around, the best night of the year is literally tomorrow. 🪔"
+            ]
+          }
+        },
+        "products": [
+          {
+            "Style Code": "RF3114-Maroon",
+            "Category": "Ethnic Sets",
+            "Product Name": "Shifory Maroon Straight Round Neck 3/4 sleeve Kurti pant",
+            "Brand": "Shifory",
+            "Image URL 1": "https://assets.catalogix.ai/64224e4801b123e949a1fa1a71d7fc3f",
+            "gender": "women"
+          },
+          {
+            "Style Code": "RF3568-Blue",
+            "Category": "Ethnic Suits",
+            "Product Name": "Shifory Blue Straight V",
+            "Brand": "Shifory",
+            "Image URL 1": "https://assets.catalogix.ai/20e5f635f56daf30bca7d30028306607",
+            "gender": "women"
+          },
+          {
+            "Style Code": "06OS",
+            "Category": "Kurtas",
+            "Product Name": "Cream Multi Printed Kurta For Men",
+            "Brand": "THE KURTA COMPANY",
+            "Image URL 1": "https://assets.catalogix.ai/4d76913a46e73feb2d4ea5b1688592ba",
+            "gender": "men"
+          },
+          {
+            "Style Code": "KACE",
+            "Category": "Kurtas",
+            "Product Name": "Bottle Green Printed Kurta For Men",
+            "Brand": "THE KURTA COMPANY",
+            "Image URL 1": "https://assets.catalogix.ai/06ed088f0b6bc7b2a2dd9749a7ee3564",
+            "gender": "men"
+          },
+          {
+            "Style Code": "SHSET95507",
+            "Category": "Ethnic Sets",
+            "Product Name": "Women Red Foil Print Halter Neck Kurta With Pants",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/ef1bc9862c5f4a7c26edc9d61e8b8798",
+            "gender": "women"
+          },
+          {
+            "Style Code": "MWP-002",
+            "Category": "Kurtas",
+            "Product Name": "Crimson Aura Kurta",
+            "Brand": "KEDIAS",
+            "Image URL 1": "https://assets.catalogix.ai/05f7fbc7ae173611ef0cc91f60e6647f",
+            "gender": "men"
+          },
+          {
+            "Style Code": "RF2579-White",
+            "Category": "Ethnic Suits",
+            "Product Name": "Shifory Women's White Gown Round Neck 3/4 Sleeve Regular Fit Kurti Dupatta Set",
+            "Brand": "Shifory",
+            "Image URL 1": "https://assets.catalogix.ai/63cc7f6c50e3e0e246a04abbead924a4",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWKPD0097",
+            "Category": "Kurtas",
+            "Product Name": "Flora Cluster Kurta With Trousers And Dupatta",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/d2e25be6cf97564e083c808e6f5b7d47",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHKUR00294",
+            "Category": "Kurtas",
+            "Product Name": "Women Maroon Floral Box Back Detail Anarkali Kurta",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/8767c8e8284e662037f07a4c7cf50714",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHSET95477",
+            "Category": "Other Sets",
+            "Product Name": "Women Maroon Zari Embroidered Sleeve Top With Palazzos",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/d70de950231968d09ce3488f37863349",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ECTG",
+            "Category": "Kurtas",
+            "Product Name": "Aquamarine Blue Self Textured Cotton Blend Kurta for Men",
+            "Brand": "THE KURTA COMPANY",
+            "Image URL 1": "https://assets.catalogix.ai/0352804aaf5b2e3beb1817c8c450e1c2",
+            "gender": "men"
+          },
+          {
+            "Style Code": "QISWTB0033",
+            "Category": "Other Sets",
+            "Product Name": "Periwinkle Co-Ord Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/c211d2b508fb6d77979c41d0081825f7",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHKUR00208",
+            "Category": "Kurtas",
+            "Product Name": "Maroon Velvet Floral Embroidery Straight Kurta",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/46db3f999e5fd12defdb71799b7e009f",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHKUR00211",
+            "Category": "Kurtas",
+            "Product Name": "Purple Velvet Hem Zari Embroidered Kurta",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/7bb9d27a948c11b9bb0b9042c4ed1e6d",
+            "gender": "women"
+          },
+          {
+            "Style Code": "DTQN",
+            "Category": "Kurtas",
+            "Product Name": "Light Blue Printed Kurta For Men",
+            "Brand": "THE KURTA COMPANY",
+            "Image URL 1": "https://assets.catalogix.ai/5db33794aa2b9d55ad98aeab9150136e",
+            "gender": "men"
+          },
+          {
+            "Style Code": "QISWTB0043",
+            "Category": "Other Sets",
+            "Product Name": "Indie Palm Co-Ord Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/b8cbb9ca714e3bf12a67fd18fb9ab2fe",
+            "gender": "women"
+          },
+          {
+            "Style Code": "OYWP",
+            "Category": "Kurtas",
+            "Product Name": "Blue Multi Printed Kurta For Men",
+            "Brand": "THE KURTA COMPANY",
+            "Image URL 1": "https://assets.catalogix.ai/6552ba181b0017f4178d459980e5288e",
+            "gender": "men"
+          },
+          {
+            "Style Code": "QISWKPD0222",
+            "Category": "Kurtas",
+            "Product Name": "Contrast Lustre Kurta Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/0b1ea31ceadefe75461ea93fcfa1e476",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHDRS11982",
+            "Category": "Kurtas",
+            "Product Name": "Women Yellow Floral Sweetheart Neck Anarkali Kurta",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/56e6b038917773c40d5a4f38841e24a0",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHSET96182",
+            "Category": "Ethnic Sets",
+            "Product Name": "Women Red Floral Short Kurta With Tiered Sharara",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/cfe27ae418f9258c1e1871f97258fffd",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHSET95613",
+            "Category": "Ethnic Sets",
+            "Product Name": "Women Rust Velvet Embroidered Short Kurta With Palazzos",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/4bbbe64e213889ee7dbce84415dc568f",
+            "gender": "women"
+          },
+          {
+            "Style Code": "MWP-004",
+            "Category": "Kurtas",
+            "Product Name": "Mint Mist Kurta",
+            "Brand": "KEDIAS",
+            "Image URL 1": "https://assets.catalogix.ai/8eab2d863ca7c1c2674f63ccd0546be0",
+            "gender": "men"
+          },
+          {
+            "Style Code": "QISWKPD0087",
+            "Category": "Kurtas",
+            "Product Name": "Botanical Block Kurta With Trousers & Dupatta",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/b40317c7d91752fa26bce90d838549db",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVCS000088",
+            "Category": "Other Sets",
+            "Product Name": "Vara By Vishudh Women Tan Off White  Printed Co-Ord Set With Boat Neck Crop Top And Palazzo",
+            "Brand": "Vara By Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/c448e0a4b9ffa98e4c7b53ebc54b300d",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHKUR00303",
+            "Category": "Kurtas",
+            "Product Name": "Women Fuchsia Velvet Straight Kurta",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/429088dbbb1bea81b58c963007ec8f8b",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWKPD0162",
+            "Category": "Kurtas",
+            "Product Name": "Maple Leaf Kurta With Crop And Trousers",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/f4629db38e9d5afa2c9f915120c50012",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFSETS96020",
+            "Category": "Other Sets",
+            "Product Name": "Women Green & White Floral Bustier, Pant & Shrug",
+            "Brand": "Pink Paprika By SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/370158afd50c7b86640b491ba5e99842",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWKP0215",
+            "Category": "Kurtas",
+            "Product Name": "Silken Lacework Kurta Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/4ef6513cb94358a12db0a5aecd55ae9c",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWKPD0104",
+            "Category": "Kurtas",
+            "Product Name": "Floral Zari Anarkali Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/5d12c80f0b81ab6a2797ef3a40a2c654",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWKPD0252",
+            "Category": "Kurtas",
+            "Product Name": "Flora Cluster Sharara Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/2bb2fa83d86088693f493e3e6ef052d7",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWKPD0163",
+            "Category": "Kurtas",
+            "Product Name": "Maple Leaf Kurta With Crop And Trousers",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/0eaf4cadb9d2fd596d69284d4f52a715",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVCS000027",
+            "Category": "Ethnic Sets",
+            "Product Name": "Vara By Vishudh Women Blue Printed Short Kurta & Palazzo",
+            "Brand": "Vara By Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/ca1dad4de096260f4c70adf9a591647d",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWTB0059",
+            "Category": "Other Sets",
+            "Product Name": "Bohemian Geometric Co-Ord Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/3e9afae430c91124484a1a86f8ad5a73",
+            "gender": "women"
+          },
+          {
+            "Style Code": "RF2996-White",
+            "Category": "Ethnic Suits",
+            "Product Name": "Shifory White Anarkali Round Neck 3/4 Sleeve 3 Pcs Anarkali Suit",
+            "Brand": "Shifory",
+            "Image URL 1": "https://assets.catalogix.ai/c7eb39ed06b3f424e0c2ea499de2238b",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHKUR00199",
+            "Category": "Kurtas",
+            "Product Name": "Purple Velvet Zari Embroidered Belt Short Kurta",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/9540917f279afde35200e26a150814c1",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWTBJ0149",
+            "Category": "Other Sets",
+            "Product Name": "Paisley Flared Co-Ord Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/e82b684f38bb346d454710d3e95aa063",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWKP0235",
+            "Category": "Kurtas",
+            "Product Name": "Primrose Spot Kurta Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/e21edcca5c57b206c4a674f4b1c9c1c4",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHKUR00198",
+            "Category": "Kurtas",
+            "Product Name": "Black Velvet Zari Embroidered Belt Short Kurta",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/16cd20ceff4275cf54c97291feb24abf",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWTBJ0141",
+            "Category": "Other Sets",
+            "Product Name": "Flower Tie-Up Co-Ord Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/a10c91adc6fe37b76fa64757e3dfb5b4",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWSBJ0041",
+            "Category": "Sarees",
+            "Product Name": "Bijou Cape Pre-Draped Saree",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/69b8fc5ebdad4d729bf74aa5ecaf75e0",
+            "gender": "women"
+          }
+        ]
+      }
+    ],
+    "last_updated": "2026-03-26T18:26:21.947Z"
+  },
+  "08": {
+    "events": [
+      {
+        "id": "diwali_08_nov",
+        "title": "Diwali",
+        "date": "08 Nov 2026",
+        "genres": "Festival, Religious, Cultural, Celebration, Family",
+        "description": "Diwali — the festival of lights, the biggest night of the Indian calendar — celebrated with fireworks, family, sweets, the exchange of gifts, and the most elaborately dressed occasion of the entire year. Tonight, every home glows and every outfit tells a story.",
+        "fashion_keywords": {
+          "reasoning": "Diwali is the single most important fashion moment in the Indian calendar — genZScore 6-8. This is the night everyone has been planning their outfit for since Diwali Season began. The fashion energy is at its absolute annual peak — more elaborate, more expensive, and more intentional than any other night of the year. November in Bengaluru is perfect weather — cool, dry, and beautiful for the most embellished ethnic dressing. Three distinct Diwali dressing contexts: (1) family puja at home — traditional, auspicious, and deeply ethnic; (2) Diwali party — glamorous, maximally embellished, and festive; (3) society and community celebrations — the most photographed night of the year. The Diwali palette is the richest of the calendar — gold is the absolute anchor, with deep jewel tones around it — deep red, emerald green, royal blue, magenta, purple, and champagne. The most elaborate catalog pieces belong on Diwali night — Banarasi sarees, heavily embellished lehenga cholis with kundan and zardosi, sherwanis with maximum embroidery. November cool means the heaviest most embellished velvet-feel and silk-feel pieces are completely wearable. Gold jewellery is at its most significant — kundan, polki, and temple jewellery sets are the most relevant pieces. Gold Coins are the most auspicious gifting category. This is the night the entire catalog comes alive.",
+          "occasion": [
+            "special",
+            "elevated",
+            "party",
+            "festive-family",
+            "religious",
+            "diwali-night"
+          ],
+          "activity": [
+            "festive",
+            "dinner-and-ceremonies",
+            "day-and-night",
+            "holiday",
+            "puja-and-vrat",
+            "diwali-party",
+            "family-gathering",
+            "community-celebration"
+          ],
+          "department": [
+            "men",
+            "women",
+            "unisex"
+          ],
+          "ethnicity": [
+            "ethnic",
+            "fusion"
+          ],
+          "fit": [
+            "regular",
+            "relaxed",
+            "slim",
+            "flared",
+            "loose"
+          ],
+          "style": [
+            "straight-fit",
+            "regular-fit",
+            "relaxed",
+            "a-line",
+            "flared",
+            "empire",
+            "wide-leg",
+            "tailored",
+            "fit-and-flare",
+            "trapeze",
+            "sheath"
+          ],
+          "pattern": [
+            "embroidered",
+            "self-design",
+            "solid",
+            "embellished",
+            "ethnic-motif",
+            "floral",
+            "printed",
+            "geometric",
+            "shimmer",
+            "sequins",
+            "zari-border",
+            "bandhej-print",
+            "jacquard-weave",
+            "gota-patti",
+            "color-block",
+            "banarasi-weave"
+          ],
+          "color": [
+            "gold",
+            "deep-red",
+            "emerald-green",
+            "royal-blue",
+            "magenta",
+            "purple",
+            "maroon",
+            "champagne",
+            "cream",
+            "burgundy",
+            "multi",
+            "orange"
+          ],
+          "color_2": [
+            "gold",
+            "silver",
+            "cream",
+            "red",
+            "maroon",
+            "multi",
+            "champagne",
+            "off-white",
+            "orange",
+            "mirror-silver",
+            "rose-gold"
+          ],
+          "detail": [
+            "embroidered",
+            "sequin",
+            "beaded",
+            "zari-trim",
+            "gota-work",
+            "mirror-work",
+            "stone-work-detail",
+            "kundan-work",
+            "tassel-and-fringe",
+            "pleat",
+            "button",
+            "trim",
+            "ruffle",
+            "overlay",
+            "zardosi-work",
+            "velvet-detail",
+            "pearl-detail"
+          ],
+          "material": [
+            "satin",
+            "silk-feel",
+            "georgette-feel",
+            "cotton-silk-blend",
+            "rayon",
+            "viscose-rayon",
+            "net-fabric",
+            "cotton-blend",
+            "chiffon-feel",
+            "velvet-feel",
+            "brocade-feel",
+            "banarasi-silk-feel"
+          ],
+          "neckline": [
+            "round",
+            "v-neck",
+            "square",
+            "sweetheart",
+            "halter",
+            "one-shoulder",
+            "boat",
+            "mandarin",
+            "keyhole",
+            "off-shoulder",
+            "straight",
+            "scoop",
+            "cowl"
+          ],
+          "length": [
+            "floor",
+            "ankle",
+            "full",
+            "below-knee",
+            "mid-calf",
+            "knee",
+            "above-knee"
+          ],
+          "hemline_style": [
+            "flared",
+            "straight",
+            "fringed",
+            "asymmetric",
+            "wide",
+            "layered-flare",
+            "braided-edge"
+          ],
+          "theme": [
+            "traditional",
+            "festive-vibrant",
+            "classic",
+            "contemporary",
+            "fashion",
+            "designer",
+            "dainty",
+            "spiritual"
+          ],
+          "surface_styling": [
+            "zari",
+            "zardosi",
+            "resham",
+            "aari",
+            "stone-work",
+            "gota-patti",
+            "mirror-embroidery",
+            "bandhej",
+            "mukaish",
+            "phool-patti",
+            "kundan-embroidery",
+            "sequin-work",
+            "jacquard",
+            "banarasi-weave",
+            "velvet-zari",
+            "phulkari"
+          ],
+          "treatment": "not-needed",
+          "distress": "not-needed",
+          "transparency": [
+            "opaque",
+            "semi-sheer",
+            "sheer"
+          ],
+          "jewellery_pattern": [
+            "plain",
+            "intricately-craft",
+            "geometrical",
+            "embellishment",
+            "floral",
+            "elephant",
+            "swirl",
+            "tear-drop",
+            "circle-shape",
+            "temple-style",
+            "kundan-inspired",
+            "polki-inspired",
+            "faceted-stones",
+            "mirror-studded",
+            "animal-based"
+          ],
+          "pendants_type": [
+            "medallion",
+            "amulet",
+            "stylised",
+            "solitaire",
+            "crystal",
+            "locket"
+          ],
+          "size_group": [
+            "regular",
+            "plus-size",
+            "kids"
+          ],
+          "preferred_categories": [
+            "Sarees",
+            "Lehenga Choli",
+            "Ethnic Sets",
+            "Ethnic Dresses",
+            "Ethnic Suits",
+            "Kurtis",
+            "Kurtas",
+            "Sherwanis",
+            "Pathani Suits",
+            "Waistcoats",
+            "Shrugs",
+            "Co-ords/Other Sets",
+            "Necklaces",
+            "Earrings",
+            "Bangles",
+            "Bracelets",
+            "Rings",
+            "Anklets",
+            "Maang Tikka",
+            "Kamarbandh",
+            "Jewellery Accessories",
+            "Bags",
+            "Watches",
+            "Gold Coins"
+          ],
+          "avoid_categories": [
+            "Western Dresses",
+            "T-shirts",
+            "Jeans",
+            "Shorts",
+            "Sweatshirts",
+            "Caps",
+            "Sunglasses",
+            "Sportswear",
+            "Sleepwear",
+            "Innerwear",
+            "Heavily Distressed Denim",
+            "Dark Grunge Pieces"
+          ],
+          "style_notes": "Diwali night is the most magnificent ethnic fashion moment of the entire year — this is the night every piece in the catalog has been waiting for. The absolute best, most elaborate, most meaningful ethnic outfit belongs tonight. Gold is the non-negotiable anchor — everything orbits around gold zari, gold embroidery, and gold jewellery. Women in the most elaborately embroidered lehenga choli of the year — deep red or emerald green with maximum kundan and zardosi work, or a Banarasi-inspired saree with a heavily embellished gold zari border that catches the firework light. The velvet-feel option is at its absolute peak in November Bengaluru's cool — a velvet-feel deep jewel-toned lehenga with gold kundan embroidery is the most premium and spectacular Diwali catalog recommendation. Anarkali suits in deep jewel tones with full zardosi work are equally stunning. Men in the most heavily embroidered sherwani of the year — deep navy, emerald, or burgundy with gold embroidery and a matching waistcoat. A richly embellished kurta with brocade-feel waistcoat is the slightly less formal but equally powerful Diwali men's look. Jewellery is at its absolute maximum tonight — the full kundan or polki necklace set, the heaviest jhumkas, maximum stacked bangles, elaborate kamarbandh, maang tikka with statement stones, and anklets all simultaneously. Gold Coins are the most auspicious Diwali gifting category — uniquely important in the catalog tonight. Kids ethnic sets and sherwanis in the richest fabrics and colors are the most emotionally resonant catalog category. The overall energy is — the most magnificent version of yourself, dressed in light, for the biggest night of the year."
+        },
+        "marketing": {
+          "app": {
+            "headline": "Diwali Night. Your Most Magnificent Look.",
+            "lines": [
+              "The lehenga you planned, the jewels you saved — tonight is the night.",
+              "Gold zari, kundan, velvet — November cool meets Diwali maximum.",
+              "Every diya lit brighter when the outfit is this extraordinary."
+            ]
+          },
+          "social_media": {
+            "headline": "Diwali. The Biggest Night Of The Year.",
+            "lines": [
+              "POV: Diwali night in your most embellished lehenga under fireworks and the whole year led to this one outfit.",
+              "Diwali fit — the absolute best ethnic look of the year, maximum jewellery, gold everywhere, November cool, fireworks. This is it. 🪔✨🎆"
+            ]
+          }
+        },
+        "products": [
+          {
+            "Style Code": "RF3568-Blue",
+            "Category": "Ethnic Suits",
+            "Product Name": "Shifory Blue Straight V",
+            "Brand": "Shifory",
+            "Image URL 1": "https://assets.catalogix.ai/20e5f635f56daf30bca7d30028306607",
+            "gender": "women"
+          },
+          {
+            "Style Code": "RF3114-Maroon",
+            "Category": "Ethnic Sets",
+            "Product Name": "Shifory Maroon Straight Round Neck 3/4 sleeve Kurti pant",
+            "Brand": "Shifory",
+            "Image URL 1": "https://assets.catalogix.ai/64224e4801b123e949a1fa1a71d7fc3f",
+            "gender": "women"
+          },
+          {
+            "Style Code": "ECTG",
+            "Category": "Kurtas",
+            "Product Name": "Aquamarine Blue Self Textured Cotton Blend Kurta for Men",
+            "Brand": "THE KURTA COMPANY",
+            "Image URL 1": "https://assets.catalogix.ai/0352804aaf5b2e3beb1817c8c450e1c2",
+            "gender": "men"
+          },
+          {
+            "Style Code": "06OS",
+            "Category": "Kurtas",
+            "Product Name": "Cream Multi Printed Kurta For Men",
+            "Brand": "THE KURTA COMPANY",
+            "Image URL 1": "https://assets.catalogix.ai/4d76913a46e73feb2d4ea5b1688592ba",
+            "gender": "men"
+          },
+          {
+            "Style Code": "KACE",
+            "Category": "Kurtas",
+            "Product Name": "Bottle Green Printed Kurta For Men",
+            "Brand": "THE KURTA COMPANY",
+            "Image URL 1": "https://assets.catalogix.ai/06ed088f0b6bc7b2a2dd9749a7ee3564",
+            "gender": "men"
+          },
+          {
+            "Style Code": "OYWP",
+            "Category": "Kurtas",
+            "Product Name": "Blue Multi Printed Kurta For Men",
+            "Brand": "THE KURTA COMPANY",
+            "Image URL 1": "https://assets.catalogix.ai/6552ba181b0017f4178d459980e5288e",
+            "gender": "men"
+          },
+          {
+            "Style Code": "SHSET95507",
+            "Category": "Ethnic Sets",
+            "Product Name": "Women Red Foil Print Halter Neck Kurta With Pants",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/ef1bc9862c5f4a7c26edc9d61e8b8798",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWTB0033",
+            "Category": "Other Sets",
+            "Product Name": "Periwinkle Co-Ord Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/c211d2b508fb6d77979c41d0081825f7",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHKUR00208",
+            "Category": "Kurtas",
+            "Product Name": "Maroon Velvet Floral Embroidery Straight Kurta",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/46db3f999e5fd12defdb71799b7e009f",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHKUR00211",
+            "Category": "Kurtas",
+            "Product Name": "Purple Velvet Hem Zari Embroidered Kurta",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/7bb9d27a948c11b9bb0b9042c4ed1e6d",
+            "gender": "women"
+          },
+          {
+            "Style Code": "MWP-002",
+            "Category": "Kurtas",
+            "Product Name": "Crimson Aura Kurta",
+            "Brand": "KEDIAS",
+            "Image URL 1": "https://assets.catalogix.ai/05f7fbc7ae173611ef0cc91f60e6647f",
+            "gender": "men"
+          },
+          {
+            "Style Code": "QISWKPD0097",
+            "Category": "Kurtas",
+            "Product Name": "Flora Cluster Kurta With Trousers And Dupatta",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/d2e25be6cf97564e083c808e6f5b7d47",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHKUR00294",
+            "Category": "Kurtas",
+            "Product Name": "Women Maroon Floral Box Back Detail Anarkali Kurta",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/8767c8e8284e662037f07a4c7cf50714",
+            "gender": "women"
+          },
+          {
+            "Style Code": "DTQN",
+            "Category": "Kurtas",
+            "Product Name": "Light Blue Printed Kurta For Men",
+            "Brand": "THE KURTA COMPANY",
+            "Image URL 1": "https://assets.catalogix.ai/5db33794aa2b9d55ad98aeab9150136e",
+            "gender": "men"
+          },
+          {
+            "Style Code": "QISWKPD0104",
+            "Category": "Kurtas",
+            "Product Name": "Floral Zari Anarkali Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/5d12c80f0b81ab6a2797ef3a40a2c654",
+            "gender": "women"
+          },
+          {
+            "Style Code": "RF2579-White",
+            "Category": "Ethnic Suits",
+            "Product Name": "Shifory Women's White Gown Round Neck 3/4 Sleeve Regular Fit Kurti Dupatta Set",
+            "Brand": "Shifory",
+            "Image URL 1": "https://assets.catalogix.ai/63cc7f6c50e3e0e246a04abbead924a4",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHSET95477",
+            "Category": "Other Sets",
+            "Product Name": "Women Maroon Zari Embroidered Sleeve Top With Palazzos",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/d70de950231968d09ce3488f37863349",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWKPD0087",
+            "Category": "Kurtas",
+            "Product Name": "Botanical Block Kurta With Trousers & Dupatta",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/b40317c7d91752fa26bce90d838549db",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWTB0043",
+            "Category": "Other Sets",
+            "Product Name": "Indie Palm Co-Ord Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/b8cbb9ca714e3bf12a67fd18fb9ab2fe",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWKPD0222",
+            "Category": "Kurtas",
+            "Product Name": "Contrast Lustre Kurta Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/0b1ea31ceadefe75461ea93fcfa1e476",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWKPD0252",
+            "Category": "Kurtas",
+            "Product Name": "Flora Cluster Sharara Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/2bb2fa83d86088693f493e3e6ef052d7",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHKUR00303",
+            "Category": "Kurtas",
+            "Product Name": "Women Fuchsia Velvet Straight Kurta",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/429088dbbb1bea81b58c963007ec8f8b",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHSET96182",
+            "Category": "Ethnic Sets",
+            "Product Name": "Women Red Floral Short Kurta With Tiered Sharara",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/cfe27ae418f9258c1e1871f97258fffd",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWKPD0162",
+            "Category": "Kurtas",
+            "Product Name": "Maple Leaf Kurta With Crop And Trousers",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/f4629db38e9d5afa2c9f915120c50012",
+            "gender": "women"
+          },
+          {
+            "Style Code": "MWP-004",
+            "Category": "Kurtas",
+            "Product Name": "Mint Mist Kurta",
+            "Brand": "KEDIAS",
+            "Image URL 1": "https://assets.catalogix.ai/8eab2d863ca7c1c2674f63ccd0546be0",
+            "gender": "men"
+          },
+          {
+            "Style Code": "QISWKP0235",
+            "Category": "Kurtas",
+            "Product Name": "Primrose Spot Kurta Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/e21edcca5c57b206c4a674f4b1c9c1c4",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHKUR00199",
+            "Category": "Kurtas",
+            "Product Name": "Purple Velvet Zari Embroidered Belt Short Kurta",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/9540917f279afde35200e26a150814c1",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHDRS11982",
+            "Category": "Kurtas",
+            "Product Name": "Women Yellow Floral Sweetheart Neck Anarkali Kurta",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/56e6b038917773c40d5a4f38841e24a0",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWTBJ0149",
+            "Category": "Other Sets",
+            "Product Name": "Paisley Flared Co-Ord Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/e82b684f38bb346d454710d3e95aa063",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SFSETS96020",
+            "Category": "Other Sets",
+            "Product Name": "Women Green & White Floral Bustier, Pant & Shrug",
+            "Brand": "Pink Paprika By SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/370158afd50c7b86640b491ba5e99842",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWKP0215",
+            "Category": "Kurtas",
+            "Product Name": "Silken Lacework Kurta Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/4ef6513cb94358a12db0a5aecd55ae9c",
+            "gender": "women"
+          },
+          {
+            "Style Code": "VVCS000088",
+            "Category": "Other Sets",
+            "Product Name": "Vara By Vishudh Women Tan Off White  Printed Co-Ord Set With Boat Neck Crop Top And Palazzo",
+            "Brand": "Vara By Vishudh",
+            "Image URL 1": "https://assets.catalogix.ai/c448e0a4b9ffa98e4c7b53ebc54b300d",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWKPD0163",
+            "Category": "Kurtas",
+            "Product Name": "Maple Leaf Kurta With Crop And Trousers",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/0eaf4cadb9d2fd596d69284d4f52a715",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWSBJ0041",
+            "Category": "Sarees",
+            "Product Name": "Bijou Cape Pre-Draped Saree",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/69b8fc5ebdad4d729bf74aa5ecaf75e0",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWTB0059",
+            "Category": "Other Sets",
+            "Product Name": "Bohemian Geometric Co-Ord Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/3e9afae430c91124484a1a86f8ad5a73",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHSET95613",
+            "Category": "Ethnic Sets",
+            "Product Name": "Women Rust Velvet Embroidered Short Kurta With Palazzos",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/4bbbe64e213889ee7dbce84415dc568f",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHSET96063",
+            "Category": "Lehenga Choli",
+            "Product Name": "Women Green Floral Crop Top With Anarkali Skirt",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/676ab598b1d742db5038399da1c3ab45",
+            "gender": "women"
+          },
+          {
+            "Style Code": "QISWKP0247",
+            "Category": "Kurtas",
+            "Product Name": "Asymmetrical Cinch Kurta Set",
+            "Brand": "QISSA",
+            "Image URL 1": "https://assets.catalogix.ai/142c6c29c148b7f9bbce8bd04e70dc34",
+            "gender": "women"
+          },
+          {
+            "Style Code": "RF2996-White",
+            "Category": "Ethnic Suits",
+            "Product Name": "Shifory White Anarkali Round Neck 3/4 Sleeve 3 Pcs Anarkali Suit",
+            "Brand": "Shifory",
+            "Image URL 1": "https://assets.catalogix.ai/c7eb39ed06b3f424e0c2ea499de2238b",
+            "gender": "women"
+          },
+          {
+            "Style Code": "SHKUR00280",
+            "Category": "Kurtas",
+            "Product Name": "Women Blue Chanderi Paisley Long Anarkali Kurta",
+            "Brand": "Shae by SASSAFRAS",
+            "Image URL 1": "https://assets.catalogix.ai/bcd71456c1b4e7d47e09e5b3cc0d02ee",
+            "gender": "women"
+          }
+        ]
+      }
+    ],
+    "last_updated": "2026-03-26T18:26:21.947Z"
+  }
+}
