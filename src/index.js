@@ -18,6 +18,10 @@ app.get("/health", (_req, res) => {
     res.json({ status: "ok", timestamp: new Date().toISOString() });
 });
 
+// ─── API ROUTES ───
+app.use("/api/events", require("./routes/eventRoutes"));
+app.use("/api/products", require("./routes/productRoutes"));
+
 // TODO: Add more API routes here as the backend grows
 // e.g. app.use("/api/events", require("./routes/events"));
 
